@@ -5,10 +5,10 @@
 
 ## Contents
 
-- [Replications and refactorings](#section)
+- [Case studies](#section)
 
 
-## Studies
+## Case studies
 <table>
   <tr>
    <td>Study
