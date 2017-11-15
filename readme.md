@@ -83,6 +83,8 @@
   <tr>
    <td><a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005755">Barone et al 2017</a>
    </td>
+   <td>Biological Sciences
+   </td>
    <td>Survey
    </td>
    <td>704 PIs
