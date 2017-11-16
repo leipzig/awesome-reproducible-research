@@ -5,9 +5,14 @@
 
 ## Contents
 
-- [Case studies](#section)
-
-
+- [Case studies](#Case-studies)
+- [Courses](#Courses)
+- [Programming Resources](#Programming Resources)
+- [Books](#Books)
+- [Data Repositories](#Data-Repositories)
+- [Ontologies](#Ontologies)
+- [Organizations](#Organizations)
+- [Awesome Lists](#Awesome-Lists)
 
 ## Case studies
 <table>
@@ -231,12 +236,11 @@
  
 ## Programming Resources
 - R
- - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
+  - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
 
 ## Books
 - [Reproducible Research with R and R Studio](https://g.co/kgs/RxcFNm)
 - [The Practice of Reproducible Reserach](https://books.google.com/books?id=NDEyDwAAQBAJ)
-
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
@@ -248,11 +252,11 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
 - [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
 
-## Projects
+## Organizations
 - [rOpenSci](https://ropensci.org) - Tools, conferences, and education
 - [Open Science Framework](https://osf.io) - Open source project management
 
-# Awesome Lists
+## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 
