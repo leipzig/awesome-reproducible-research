@@ -7,7 +7,7 @@
 
 - [Case studies](#Case-studies)
 - [Courses](#Courses)
-- [Programming Resources](#Programming Resources)
+- [Programming Resources](#Programming-Resources)
 - [Books](#Books)
 - [Data Repositories](#Data-Repositories)
 - [Ontologies](#Ontologies)
