@@ -231,17 +231,18 @@
 
 ## Courses
 - MOOCs
-    - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU
+    - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU. Very popular course.
     - [edX Principles, Statistical and Computational Tools for Reproducible Science](https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x) - John Quackenbush et al Harvard
 - Online course content
-    - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW
+    - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW, includes resources page
 ## Programming Resources
 - R
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
 
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
-- [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7)
+- [Implementing Reproducible Research 2014](https://osf.io/s9tya/) - Describes projects: Sumatra, Vistrails, CDE, SOLE, JUMBO, CML, knitr. Content available on OSF.
+- [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7) - 31 first person case narratives and intro chapters
 - [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
 
 ## Data Repositories
@@ -259,8 +260,8 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Open Science Framework](https://osf.io) - Open source project management
 
 ## Awesome Lists
-- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
-- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Everything related to the Docker containerization system
 
 ## Contribute
 

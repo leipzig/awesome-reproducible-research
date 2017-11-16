@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Content must be awesome
+- Content must be described as to its relevance to RR
+- No NSS ("No Shit, Sherlock") Content. Content must not be so obvious that anyone who came to look at this page would not already know about its existence (e.g. Git, Github, R, RStudio, Jupyter)
 
 Thank you for your suggestions!
 
