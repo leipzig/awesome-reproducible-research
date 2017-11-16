@@ -8,6 +8,7 @@
 - [Case studies](#section)
 
 
+
 ## Case studies
 <table>
 	<tr>
@@ -221,6 +222,39 @@
 		</td>
 	</tr>
 </table>
+
+
+## Courses
+- MOOCs
+ - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU
+ - [edX Principles, Statistical and Computational Tools for Reproducible Science](https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x) - John Quackenbush et al Harvard
+ 
+## Programming Resources
+- R
+ - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
+
+## Books
+- [Reproducible Research with R and R Studio](https://g.co/kgs/RxcFNm)
+- [The Practice of Reproducible Reserach](https://books.google.com/books?id=NDEyDwAAQBAJ)
+
+
+## Data Repositories
+All these repositories assign Digital Object Identifiers (DOIs) to data
+- [Data Dryad](https://datadryad.org) - curated, metadata-centric, focused on articles associated with published artices, $120 submission fee (various waivers available)
+- [Figshare](https://figshare.com) - 20 GB of free private space, unlimited public space, >2M articles, >5k projects
+- [Zenodo](https://zenodo.org/) - Allows embargoed, restricted access, metadata support. 50GB limit.
+
+## Ontologies
+- [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
+- [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
+
+## Projects
+- [rOpenSci](https://ropensci.org) - Tools, conferences, and education
+- [Open Science Framework](https://osf.io) - Open source project management
+
+# Awesome Lists
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline)
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 
 ## Contribute
 
