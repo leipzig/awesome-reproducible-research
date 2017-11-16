@@ -5,14 +5,14 @@
 
 ## Contents
 
-- [Case studies](#Case-studies)
-- [Courses](#Courses)
-- [Programming Resources](#Programming-Resources)
-- [Books](#Books)
-- [Data Repositories](#Data-Repositories)
-- [Ontologies](#Ontologies)
-- [Organizations](#Organizations)
-- [Awesome Lists](#Awesome-Lists)
+- [Case studies](#case-studies)
+- [Courses](#courses)
+- [Programming Resources](#programming-resources)
+- [Books](#books)
+- [Data Repositories](#data-repositories)
+- [Ontologies](#ontologies)
+- [Organizations](#organizations)
+- [Awesome Lists](#awesome-lists)
 
 ## Case studies
 <table>
@@ -233,14 +233,16 @@
 - MOOCs
     - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU
     - [edX Principles, Statistical and Computational Tools for Reproducible Science](https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x) - John Quackenbush et al Harvard
- 
+- Online course content
+    - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW
 ## Programming Resources
 - R
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
 
 ## Books
-- [Reproducible Research with R and R Studio](https://g.co/kgs/RxcFNm)
-- [The Practice of Reproducible Reserach](https://books.google.com/books?id=NDEyDwAAQBAJ)
+- [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
+- [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7)
+- [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
