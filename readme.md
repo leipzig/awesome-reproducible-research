@@ -306,7 +306,7 @@
 				<tr>
 					<td>
 						<p>
-							Kitzes et al 2017
+						<a href="https://www.practicereproducibleresearch.org/">Kitzes et al 2017</a>
 						</p>
 					</td>
 					<td>
