@@ -86,7 +86,6 @@
 			18 studies
 		</td>
 	</tr>
-	
 	<tr>
 		<td>
 		<a href="http://www.uio.no/studier/emner/matnat/ifi/INF5700/h11/undervisningsmateriale/Anda.Sj%C3%B8berg.Mockus.TSE.May.2009.pdf">Anda et al 2009</a>
@@ -100,7 +99,7 @@
 		<td>
 			4 companies
 		</td>
-</tr>
+	</tr>
 	<tr>
 		<td>
 			<a href="https://academic.oup.com/bib/article/12/3/288/258098/Case-studies-in-reproducibility">Horthorn &amp; Leisch 2011</a>
