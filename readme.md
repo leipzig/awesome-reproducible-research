@@ -16,231 +16,425 @@
 
 ## Case studies
 <table>
-	<tr>
-		<td>
-			Study
-		</td>
-		<td>
-			Field
-		</td>
-		<td>
-			Approach
-		</td>
-		<td>
-			Size
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://www.ncbi.nlm.nih.gov/pubmed/16060722">Ioannidis 2005</a>
-		</td>
-		<td>
-			Science
-		</td>
-		<td>
-			Theoretical
-		</td>
-		<td>
-			(all studies)
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://arxiv.org/pdf/1010.1092.pdf">Baggerly &amp; Coombes 2009</a>
-		</td>
-		<td>
-			Cancer biology
-		</td>
-		<td>
-			Refactor case study
-		</td>
-		<td>
-			8 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="http://onlinelibrary.wiley.com/doi/10.1002/bimj.200900154/full">Hothorn et al. 2009</a>
-		</td>
-		<td>
-			Biostatistics
-		</td>
-		<td>
-			Census
-		</td>
-		<td>
-			56 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://www.nature.com/articles/ng.295">Ioannidis 2009</a>
-		</td>
-		<td>
-			Genetics
-		</td>
-		<td>
-			Reproduction
-		</td>
-		<td>
-			18 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-		<a href="http://www.uio.no/studier/emner/matnat/ifi/INF5700/h11/undervisningsmateriale/Anda.Sj%C3%B8berg.Mockus.TSE.May.2009.pdf">Anda et al 2009</a>
-		</td>
-		<td>
-			Software engineering
-		</td>
-		<td>
-			Replication
-		</td>
-		<td>
-			4 companies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://academic.oup.com/bib/article/12/3/288/258098/Case-studies-in-reproducibility">Horthorn &amp; Leisch 2011</a>
-		</td>
-		<td>
-			Bioinformatics
-		</td>
-		<td>
-			Census
-		</td>
-		<td>
-			100 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="http://www.nature.com/nrd/journal/v10/n9/full/nrd3439-c1.html">Prinz 2011</a>
-		</td>
-		<td>
-			Biomedicine
-		</td>
-		<td>
-			Survey
-		</td>
-		<td>
-			23 PIs
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://www.nature.com/nature/journal/v483/n7391/full/483531a.html">Begley &amp; Ellis 2012</a>
-		</td>
-		<td>
-			Cancer biology
-		</td>
-		<td>
-			Replication
-		</td>
-		<td>
-			53 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="http://science.sciencemag.org/content/349/6251/aac4716">OSC 2015</a>
-		</td>
-		<td>
-			Psychology
-		</td>
-		<td>
-			Replication
-		</td>
-		<td>
-			100 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005755">Barone et al 2017</a>
-		</td>
-		<td>
-			Biological Sciences
-		</td>
-		<td>
-			Survey
-		</td>
-		<td>
-			704 PIs
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://elifesciences.org/articles/23383#abstract">Reproducibility Project 2017</a>
-		</td>
-		<td>
-			Cancer biology
-		</td>
-		<td>
-			Replication
-		</td>
-		<td>
-			5 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="http://science.sciencemag.org/content/351/6280/1433">Camerer 2017</a>
-		</td>
-		<td>
-			Economics
-		</td>
-		<td>
-			Replication
-		</td>
-		<td>
-			18 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://openreview.net/pdf?id=By4l2PbQ-">Olorisade 2017</a>
-		</td>
-		<td>
-			Machine Learning
-		</td>
-		<td>
-			Census
-		</td>
-		<td>
-			30 studies
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://www.biorxiv.org/content/biorxiv/early/2017/10/31/143503.full.pdf?%3Fcollection=">Kim &amp; Dumas 2017</a>
-		</td>
-		<td>
-			Bioinformatics
-		</td>
-		<td>
-			Refactor case study
-		</td>
-		<td>
-			1 study
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://books.google.com/books?id=NDEyDwAAQBAJ">Kitzes et al 2017</a>
-		</td>
-		<td>
-			Science
-		</td>
-		<td>
-			Case narrative
-		</td>
-		<td>
-			31 PIs
-		</td>
-	</tr>
-</table>
+			<tbody>
+				<tr>
+					<td>
+						<p>
+							Study
+						</p>
+					</td>
+					<td>
+						<p>
+							Field
+						</p>
+					</td>
+					<td>
+						<p>
+							Approach
+						</p>
+					</td>
+					<td>
+						<p>
+							Size
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.ncbi.nlm.nih.gov/pubmed/16060722">Ioannidis 2005</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Theoretical
+						</p>
+					</td>
+					<td>
+						<p>
+							(all studies)
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/pdf/1010.1092.pdf">Baggerly &amp; Coombes 2009</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Cancer biology
+						</p>
+					</td>
+					<td>
+						<p>
+							Refactor case study
+						</p>
+					</td>
+					<td>
+						<p>
+							8 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="http://onlinelibrary.wiley.com/doi/10.1002/bimj.200900154/full">Hothorn et al. 2009</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biostatistics
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							56 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.nature.com/articles/ng.295">Ioannidis 2009</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Genetics
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							18 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="http://www.uio.no/studier/emner/matnat/ifi/INF5700/h11/undervisningsmateriale/Anda.Sj%C3%B8berg.Mockus.TSE.May.2009.pdf">Anda et al 2009</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Software engineering
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							4 companies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://infoscience.epfl.ch/record/136640/files/VandewalleKV09.pdf">Vandewalle et al 2009</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Signal Processing
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							134 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="http://www.nature.com.ezproxy2.library.drexel.edu/nrd/journal/v10/n9/full/nrd3439-c1.html">Prinz 2011</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biomedicine
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							23 PIs
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://academic.oup.com/bib/article/12/3/288/258098/Case-studies-in-reproducibility">Horthorn &amp; Leisch 2011</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Bioinformatics
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							100 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.nature.com/nature/journal/v483/n7391/full/483531a.html">Begley &amp; Ellis 2012</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Cancer biology
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							53 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="http://reproducibility.cs.arizona.edu/tr.pdf">Collberg et al 2014</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Computer Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							613 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="http://science.sciencemag.org/content/349/6251/aac4716">OSC 2015</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Psychology
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							100 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://pdfs.semanticscholar.org/edd7/e68711955cbbdb6dd6866db2ec8a6ff18278.pdf">Névéol et al 2016</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							NLP
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							3 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							Kitzes et al 2017
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Case narrative
+						</p>
+					</td>
+					<td>
+						<p>
+							31 PIs
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005755">Barone et al 2017</a>
+						</p>
+					</td>
+					<td>
+						&nbsp;
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							704 PIs
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.biorxiv.org/content/biorxiv/early/2017/10/31/143503.full.pdf?%3Fcollection=">Kim &amp; Dumas 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Bioinformatics
+						</p>
+					</td>
+					<td>
+						<p>
+							Refactor case study
+						</p>
+					</td>
+					<td>
+						<p>
+							1 study
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://elifesciences.org/articles/23383#abstract">Reproducibility Project 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Cancer biology
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							5 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="http://science.sciencemag.org/content/351/6280/1433">Camerer 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Economics
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							18 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://openreview.net/pdf?id=By4l2PbQ-">Olorisade 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Machine Learning
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							30 studies
+						</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
 
 
 ## Courses
