@@ -283,6 +283,28 @@
 				</tr>
 				<tr>
 					<td>
+					<p>
+					<a href="https://f1000research.com/articles/4-134/v2">Bandrowski et al 2015</a>
+					</p>
+					</td>
+					<td>
+						<p>
+							Biomedical sciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							100 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
 						<p>
 							<a href="https://pdfs.semanticscholar.org/edd7/e68711955cbbdb6dd6866db2ec8a6ff18278.pdf">Névéol et al 2016</a>
 						</p>
