@@ -15,7 +15,7 @@
 - [Awesome Lists](#awesome-lists)
 
 ## Case studies
-The term "case studies" is used here in a general sense to describe any study of reproducibility. A "refactor" involves refactoring existing code into frameworks and other reproducibility best practices. A replication involves generating new data and applying existing methods to achieve comparable results. A census is a high-level tabulation conducted by a third party. A survey is a questionnaire sent to practitioners. A case narrative is an in-depth first-person account. A theoretical case study measures global reproducibility using non-empirical evidence.
+The term "case studies" is used here in a general sense to describe any study of reproducibility. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _census_ is a high-level tabulation conducted by a third party. A survey is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. A _theoretical case study_ measures global reproducibility using non-empirical evidence.
 <table>
 			<tbody>
 				<tr>
