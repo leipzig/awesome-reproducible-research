@@ -355,7 +355,9 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 					<td>
-						Biological Sciences
+						<p>
+						        Biological sciences
+						<p>
 					</td>
 					<td>
 						<p>
