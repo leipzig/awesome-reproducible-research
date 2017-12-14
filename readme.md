@@ -517,6 +517,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Everything related to the Docker containerization system
+- [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) - Section on RR tools
 
 ## Contribute
 
