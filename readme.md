@@ -65,6 +65,28 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="http://www.bmj.com/content/336/7659/1472">Glasziou et al 2008</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Medicine
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							80 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://arxiv.org/pdf/1010.1092.pdf">Baggerly &amp; Coombes 2009</a>
 						</p>
 					</td>
