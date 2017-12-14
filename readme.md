@@ -506,6 +506,9 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Figshare](https://figshare.com) - 20 GB of free private space, unlimited public space, >2M articles, >5k projects
 - [Zenodo](https://zenodo.org/) - Allows embargoed, restricted access, metadata support. 50GB limit.
 
+## Examples
+- [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
+
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
 - [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
