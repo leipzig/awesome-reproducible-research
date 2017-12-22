@@ -483,6 +483,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1515/opar-2017-0019">Strupler &amp; Wilkinson 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Archeaology
+						</p>
+					</td>
+					<td>
+						<p>
+							Case narrative
+						</p>
+					</td>
+					<td>
+						<p>
+							1 survey
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
