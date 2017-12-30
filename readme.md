@@ -518,6 +518,7 @@ The term "case studies" is used here in a general sense to describe any study of
 ## Programming Resources
 - R
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
+    - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
 
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
