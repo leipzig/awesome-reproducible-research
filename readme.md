@@ -9,7 +9,8 @@
 
 - [Case studies](#case-studies)
 - [Courses](#courses)
-- [Programming Resources](#programming-resources)
+- [Development Resources](#development-resources)
+- [User tools](#user-tools)
 - [Books](#books)
 - [Data Repositories](#data-repositories)
 - [Examples](#examples)
@@ -515,10 +516,13 @@ The term "case studies" is used here in a general sense to describe any study of
     - [edX Principles, Statistical and Computational Tools for Reproducible Science](https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x) - John Quackenbush et al Harvard
 - Online course content
     - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW, includes resources page
-## Programming Resources
+## Development Resources
 - R
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
     - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
+
+## User tools
+- Open With Binder for [Chrome](https://chrome.google.com/webstore/detail/open-with-binder/napgohblobncpnagnehjpooinnimhpkc) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
 
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
