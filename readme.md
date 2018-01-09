@@ -352,6 +352,30 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				
+				<tr>
+					<td>
+						<p>
+						<a href="https://peerj.com/articles/3208/">Vasilevsky et al 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biomedical science
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							318 journals
+						</p>
+					</td>
+				</tr>
+				
 				<tr>
 					<td>
 						<p>
