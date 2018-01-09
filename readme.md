@@ -352,7 +352,6 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
-				
 				<tr>
 					<td>
 						<p>
@@ -375,7 +374,6 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
-				
 				<tr>
 					<td>
 						<p>
