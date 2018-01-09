@@ -206,7 +206,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Biomedicine
+							Biomedical sciences
 						</p>
 					</td>
 					<td>
@@ -360,7 +360,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Biomedical science
+							Biomedical sciences
 						</p>
 					</td>
 					<td>
