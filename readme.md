@@ -538,6 +538,7 @@ The term "case studies" is used here in a general sense to describe any study of
     - [edX Principles, Statistical and Computational Tools for Reproducible Science](https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x) - John Quackenbush et al Harvard
 - Online course content
     - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW, includes resources page
+    - [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) - Software Carpentry workshop primer using Gapminder data
 ## Development Resources
 - R
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
