@@ -528,6 +528,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/1801.05042">Danchev et al 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Comparative Toxicogenomics
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							51,292 drug-gene interactions
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
