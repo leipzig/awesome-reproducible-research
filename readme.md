@@ -458,7 +458,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							5 studies
+							9 studies
 						</p>
 					</td>
 				</tr>
