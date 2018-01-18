@@ -546,7 +546,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							51,292 drug-gene interactions
+							51,292 claims
 						</p>
 					</td>
 				</tr>
