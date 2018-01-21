@@ -565,6 +565,7 @@ The term "case studies" is used here in a general sense to describe any study of
 - R
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
     - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
+    - [repo](https://github.com/franapoli/repo) - provenance framework package
 
 ## User tools
 - Open With Binder for [Chrome](https://chrome.google.com/webstore/detail/open-with-binder/napgohblobncpnagnehjpooinnimhpkc) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
