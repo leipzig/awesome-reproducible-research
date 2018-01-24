@@ -184,7 +184,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Signal Processing
+							Signal processing
 						</p>
 					</td>
 					<td>
@@ -272,7 +272,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Computer Science
+							Computer science
 						</p>
 					</td>
 					<td>
@@ -492,7 +492,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Machine Learning
+							Machine learning
 						</p>
 					</td>
 					<td>
@@ -536,7 +536,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Comparative Toxicogenomics
+							Comparative toxicogenomics
 						</p>
 					</td>
 					<td>
