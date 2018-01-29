@@ -580,6 +580,7 @@ The term "case studies" is used here in a general sense to describe any study of
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
+- [DataCite](https://datacite.org) - 12M+ DOIs registered for 46 allocators. Offers APIs and a metadata schema.
 - [Data Dryad](https://datadryad.org) - curated, metadata-centric, focused on articles associated with published artices, $120 submission fee (various waivers available)
 - [Figshare](https://figshare.com) - 20 GB of free private space, unlimited public space, >2M articles, >5k projects
 - [Zenodo](https://zenodo.org/) - Allows embargoed, restricted access, metadata support. 50GB limit.
