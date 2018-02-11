@@ -135,7 +135,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.nature.com/articles/ng.295">Ioannidis 2009</a>
+							<a href="https://www.nature.com/articles/ng.295">Ioannidis et al 2009</a>
 						</p>
 					</td>
 					<td>
