@@ -550,6 +550,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://brage.bibsys.no/xmlui/bitstream/handle/11250/2478230/15995_FULLTEXT.pdf?sequence=1&isAllowed=y">Kjensmo &am; Gundersen 2017</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Artificial intelligence
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							400 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
