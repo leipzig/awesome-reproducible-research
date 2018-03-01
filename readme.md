@@ -572,6 +572,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+								<tr>
+					<td>
+						<p>
+							<a href="https://www.nature.com/articles/d41586-018-02108-9">Gertler et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Economics
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							203 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
