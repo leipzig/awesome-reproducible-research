@@ -572,7 +572,7 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
-								<tr>
+				<tr>
 					<td>
 						<p>
 							<a href="https://www.nature.com/articles/d41586-018-02108-9">Gertler et al 2018</a>
@@ -591,6 +591,28 @@ The term "case studies" is used here in a general sense to describe any study of
 					<td>
 						<p>
 							203 papers
+						</p>
+					</td>
+				</tr>
+								<tr>
+					<td>
+						<p>
+							<a href="http://www.pnas.org/content/115/11/2584">Stodden et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Computational science
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							204 Science computational articles, 180 authors
 						</p>
 					</td>
 				</tr>
