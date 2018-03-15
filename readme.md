@@ -612,7 +612,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							204 Science computational articles, 180 authors
+							204 articles, 180 authors
 						</p>
 					</td>
 				</tr>
