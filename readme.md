@@ -568,7 +568,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							51,292 claims
+							51,292 claims in 3,363 papers
 						</p>
 					</td>
 				</tr>
