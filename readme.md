@@ -703,8 +703,10 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
 
 ## Organizations
+- [ResearchObject.org](http://www.researchobject.org/) - RO specifications and publications
 - [rOpenSci](https://ropensci.org) - Tools, conferences, and education
 - [Open Science Framework](https://osf.io) - Open source project management
+
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
