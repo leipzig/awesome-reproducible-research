@@ -616,7 +616,7 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
-								<tr>
+				<tr>
 					<td>
 						<p>
 							<a href="http://www.pnas.org/content/115/11/2584">Stodden et al 2018</a>
@@ -635,6 +635,28 @@ The term "case studies" is used here in a general sense to describe any study of
 					<td>
 						<p>
 							204 articles, 180 authors
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.biorxiv.org/content/early/2018/06/20/268755">Madduri et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Genomics
+						</p>
+					</td>
+					<td>
+						<p>
+							Case narrative
+						</p>
+					</td>
+					<td>
+						<p>
+							1 study
 						</p>
 					</td>
 				</tr>
