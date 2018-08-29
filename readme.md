@@ -660,6 +660,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.nature.com/articles/s41562-018-0399-z">Camerer et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Social sciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							21 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
