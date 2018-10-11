@@ -682,6 +682,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://elifesciences.org/articles/34364">Eaton et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Microbiome Immuno Oncology
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							1 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
