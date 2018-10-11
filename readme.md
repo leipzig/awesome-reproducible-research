@@ -690,7 +690,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Microbiome Immuno Oncology
+							Microbiome immuno oncology
 						</p>
 					</td>
 					<td>
@@ -700,7 +700,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							1 papers
+							1 paper
 						</p>
 					</td>
 				</tr>
