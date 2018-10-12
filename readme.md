@@ -14,6 +14,7 @@
 - [Books](#books)
 - [Data Repositories](#data-repositories)
 - [Examples](#examples)
+- [Journals](#journals)
 - [Ontologies](#ontologies)
 - [Organizations](#organizations)
 - [Awesome Lists](#awesome-lists)
@@ -741,6 +742,9 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 ## Examples
 - [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
+
+## Journals
+- [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
 
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
