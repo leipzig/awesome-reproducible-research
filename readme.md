@@ -686,6 +686,28 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="http://journals.sagepub.com/doi/pdf/10.1177/2515245917747646">Silberzahn et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Psychology
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							One data set, 29 analyst teams
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://elifesciences.org/articles/34364">Eaton et al 2018</a>
 						</p>
 					</td>
