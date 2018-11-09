@@ -727,6 +727,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.biorxiv.org/content/early/2018/11/08/463927">Vaquero-Garcia et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Bioinformatics
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							1 paper
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
