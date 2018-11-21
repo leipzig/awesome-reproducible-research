@@ -749,6 +749,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006930">Wallach et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biomedical Sciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							149 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
