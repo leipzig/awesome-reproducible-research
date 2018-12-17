@@ -793,6 +793,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2018.1508687">Konkol et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Geosciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey, Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							146 scientists, 41 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
