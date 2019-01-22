@@ -740,7 +740,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							Reproduction
+							Refactor and test of robustness
 						</p>
 					</td>
 					<td>
