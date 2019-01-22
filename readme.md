@@ -48,7 +48,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.ncbi.nlm.nih.gov/pubmed/16060722">Ioannidis 2005</a>
+							<a href="https://www.ncbi.nlm.nih.gov/pubmed/16060722">Ioannidis <meta property="datePublished" content="2005-08-30">2005</a>
 						</p>
 					</td>
 					<td>
@@ -70,7 +70,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://www.bmj.com/content/336/7659/1472">Glasziou et al 2008</a>
+							<a href="http://www.bmj.com/content/336/7659/1472">Glasziou et al <meta property="datePublished" content="2008-06-26">2008</a>
 						</p>
 					</td>
 					<td>
@@ -92,7 +92,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://arxiv.org/pdf/1010.1092.pdf">Baggerly &amp; Coombes 2009</a>
+							<a href="https://arxiv.org/pdf/1010.1092.pdf">Baggerly &amp; Coombes <meta property="datePublished" content="2009-09-01">2009</a>
 						</p>
 					</td>
 					<td>
