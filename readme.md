@@ -853,8 +853,9 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 ## Examples
 - [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
 
-## Journals
+## Journals and Lists
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
+- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Replication in the social sciences, particularly economics
 
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
