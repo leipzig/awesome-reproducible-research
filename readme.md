@@ -815,6 +815,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.nature.com/articles/sdata201930">Stagge et al 2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Geosciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							360 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
