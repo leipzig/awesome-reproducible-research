@@ -871,6 +871,7 @@ The term "case studies" is used here in a general sense to describe any study of
     - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW, includes resources page
     - [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) - Software Carpentry workshop primer using Gapminder data
     - [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/syllabus.html) - Student-developed computer literacy and data course in R
+    - [AMIA2019](https://github.com/StatTag/amia-2019-spring-rr/) - Pragmatic RR for Analysis, Dissemination and Publication
 
 ## Development Resources
 - R
