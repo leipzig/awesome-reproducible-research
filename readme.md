@@ -859,6 +859,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006269">Bizzego et al <meta property="datePublished" content="2019-03-27">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Deep learning
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							1 analysis
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
