@@ -881,6 +881,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213013">Madduri et al <meta property="datePublished" content="2019-04-11">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Genomics
+						</p>
+					</td>
+					<td>
+						<p>
+							Case narrative
+						</p>
+					</td>
+					<td>
+						<p>
+							1 analysis
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
