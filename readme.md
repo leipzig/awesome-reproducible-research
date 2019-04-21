@@ -903,6 +903,29 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+								<tr>
+					<td>
+						<p>
+							<a href="https://www.biorxiv.org/content/10.1101/614560v1">Mammoliti
+ et al <meta property="datePublished" content="2019-04-19">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Pharmacogenomics
+						</p>
+					</td>
+					<td>
+						<p>
+							Case narrative
+						</p>
+					</td>
+					<td>
+						<p>
+							2 analyses
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
