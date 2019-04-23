@@ -975,6 +975,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 ## Organizations
 - [ResearchObject.org](http://www.researchobject.org/) - RO specifications and publications
+- [BioCompute](https://osf.io/zm97b/) - BCO specs
 - [rOpenSci](https://ropensci.org) - Tools, conferences, and education
 - [Open Science Framework](https://osf.io) - Open source project management
 
