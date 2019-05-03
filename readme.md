@@ -926,6 +926,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246">Allen & Mehler <meta property="datePublished" content="2019-05-01">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biomedical and psychological science
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							127 registered reports 
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
