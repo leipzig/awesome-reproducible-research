@@ -947,6 +947,27 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="http://www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf">Pimentel et al <meta property="datePublished" content="2019-05-07">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							All
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							 1,159,166 Jupyter notebooks 
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
