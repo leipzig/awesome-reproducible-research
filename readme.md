@@ -13,7 +13,7 @@
 - [User tools](#user-tools)
 - [Books](#books)
 - [Data Repositories](#data-repositories)
-- [Examples](#examples)
+- [Examples and exemplars](#examples)
 - [Journals](#journals)
 - [Ontologies](#ontologies)
 - [Organizations](#organizations)
