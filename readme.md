@@ -13,7 +13,7 @@
 - [User tools](#user-tools)
 - [Books](#books)
 - [Data Repositories](#data-repositories)
-- [Examples and exemplars](#examples)
+- [Examples and exemplars](#examples-and-exemplars)
 - [Journals](#journals)
 - [Ontologies](#ontologies)
 - [Organizations](#organizations)
@@ -1008,7 +1008,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
 - [Papers With Code](https://paperswithcode.com/) - ML papers with code
 
-## Journals and Lists
+## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
 - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Replication in the social sciences, particularly economics
 
