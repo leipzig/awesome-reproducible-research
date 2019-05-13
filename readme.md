@@ -1023,7 +1023,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
             <a href="https://doi.org/10.1101/471227">Mer AS et al. Integrative Pharmacogenomics Analysis of Patient Derived Xenografts</a>
         </td>
         <td>
-            <a href="https://codeocean.com/capsule/0566399/tree">codeocean.com/capsule/056639</a>
+            <a href="https://codeocean.com/capsule/0566399">codeocean.com/capsule/056639</a>
         </td>
     </tr>
     <tr>
@@ -1031,7 +1031,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
             <a href="https://doi.org/10.1101/052910">Gendoo, Zon et al. MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature</a>
         </td>
         <td>
-            <a href="https://codeocean.com/capsule/6438633/tree">codeocean.com/capsule/643863</a>
+            <a href="https://codeocean.com/capsule/6438633">codeocean.com/capsule/643863</a>
         </td>
     </tr>
     <tr>
@@ -1039,15 +1039,15 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
             <a href="https://doi.org/10.1093/jamia/ocx062">Yao et al. Tissue specificity of in vitro drug sensitivity</a>
         </td>
         <td>
-            <a href="https://codeocean.com/capsule/5502756/tree/v1">codeocean.com/capsule/550275</a>
+            <a href="https://codeocean.com/capsule/5502756">codeocean.com/capsule/550275</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://doi.org/10.1038/s41467-017-02136-5">Safikhani Z et al Gene isoforms as expression-based biomarkers predictive of drug response in vitro</a>
+            <a href="https://doi.org/10.1038/s41467-017-02136-5">Safikhani Z et al. Gene isoforms as expression-based biomarkers predictive of drug response in vitro</a>
         </td>
         <td>
-            <a href="https://codeocean.com/capsule/0002901/tree/v1">codeocean.com/capsule/000290</a>
+            <a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/000290</a>
         </td>
     </tr>
     <tr>
@@ -1055,15 +1055,15 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
             <a href="https://doi.org/10.1158/0008-5472.CAN-17-0096">El-Hachem et al. Integrative cancer pharmacogenomics to infer large-scale drug taxonomy</a>
         </td>
         <td>
-            <a href="https://codeocean.com/capsule/4252248/tree/v1">codeocean.com/capsule/425224</a>
+            <a href="https://codeocean.com/capsule/4252248">codeocean.com/capsule/425224</a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani Z et al Revisiting inconsistency in large pharmacogenomic studies</a>
+            <a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani Z et al. Revisiting inconsistency in large pharmacogenomic studies</a>
         </td>
         <td>
-            <a href="https://codeocean.com/capsule/6276064/tree/v1">codeocean.com/capsule/627606</a>
+            <a href="https://codeocean.com/capsule/6276064">codeocean.com/capsule/627606</a>
         </td>
     </tr>
     <tr>
@@ -1071,7 +1071,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
             <a href="https://doi.org/10.1101/355602">Sandhu V et al. Meta-analysis of 1,200 transcriptomic profiles identifies a prognostic model for pancreatic ductal adenocarcinoma</a>
         </td>
         <td>
-            <a href="https://codeocean.com/capsule/2693620/tree">codeocean.com/capsule/269362</a>
+            <a href="https://codeocean.com/capsule/2693620">codeocean.com/capsule/269362</a>
         </td>
     </tr>
 </table>
