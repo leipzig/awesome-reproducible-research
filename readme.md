@@ -1008,6 +1008,75 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
 - [Papers With Code](https://paperswithcode.com/) - ML papers with code
 
+### Haibe-Kains lab reproducible papers
+<table>
+    <tr>
+        <th>
+            Publication
+        </th>
+        <th>
+            CodeOcean link
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://doi.org/10.1101/471227">Mer AS et al. Integrative Pharmacogenomics Analysis of Patient Derived Xenografts</a>
+        </td>
+        <td>
+            <a href="https://codeocean.com/capsule/0566399/tree">codeocean.com/capsule/056639</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://doi.org/10.1101/052910">Gendoo, Zon et al. MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature</a>
+        </td>
+        <td>
+            <a href="https://codeocean.com/capsule/6438633/tree">codeocean.com/capsule/643863</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://doi.org/10.1093/jamia/ocx062">Yao et al. Tissue specificity of in vitro drug sensitivity</a>
+        </td>
+        <td>
+            <a href="https://codeocean.com/capsule/5502756/tree/v1">codeocean.com/capsule/550275</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://doi.org/10.1038/s41467-017-02136-5">Safikhani Z et al Gene isoforms as expression-based biomarkers predictive of drug response in vitro</a>
+        </td>
+        <td>
+            <a href="https://codeocean.com/capsule/0002901/tree/v1">codeocean.com/capsule/000290</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://doi.org/10.1158/0008-5472.CAN-17-0096">El-Hachem et al. Integrative cancer pharmacogenomics to infer large-scale drug taxonomy</a>
+        </td>
+        <td>
+            <a href="https://codeocean.com/capsule/4252248/tree/v1">codeocean.com/capsule/425224</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani Z et al Revisiting inconsistency in large pharmacogenomic studies</a>
+        </td>
+        <td>
+            <a href="https://codeocean.com/capsule/6276064/tree/v1">codeocean.com/capsule/627606</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://doi.org/10.1101/355602">Sandhu V et al. Meta-analysis of 1,200 transcriptomic profiles identifies a prognostic model for pancreatic ductal adenocarcinoma</a>
+        </td>
+        <td>
+            <a href="https://codeocean.com/capsule/2693620/tree">codeocean.com/capsule/269362</a>
+        </td>
+    </tr>
+</table>
+
+
 ## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
 - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Replication in the social sciences, particularly economics
