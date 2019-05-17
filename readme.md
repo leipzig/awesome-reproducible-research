@@ -818,6 +818,28 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="http://amid.fish/reproducing-deep-rl">Rahtz <meta property="datePublished" content="2018-04-06">2018<a>
+								</p>
+								</td>
+							<td>
+								<p>
+									Reinforcement Learning
+								</p>
+							</td>
+							<td>
+								<p>
+									Reproduction, case narrative
+								</p>
+							<td>
+								<p>
+									1 paper
+								</p>
+							</td>
+						</p>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://peerj.com/articles/cs-163/">AlNoamany & Borghi <meta property="datePublished" content="2018-09-17">2018</a>
 						</p>
 					</td>
