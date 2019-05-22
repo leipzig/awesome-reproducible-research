@@ -859,6 +859,29 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+								<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1155/2018/4789035
+">Li et al <meta property="datePublished" content="2018-09-27">2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Nephrology
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							1 paper
+						</p>
+					</td>
+				</tr>
 				<tr>
 					<td>
 						<p>
