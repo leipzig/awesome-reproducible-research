@@ -1016,6 +1016,37 @@ The term "case studies" is used here in a general sense to describe any study of
 			</tbody>
 		</table>
 
+## Ad-hoc reproductions
+
+These are one-off unpublished attempts to reproduce individual studies
+
+<table id="ad_hoc">
+			<tbody>
+				<tr>
+					<td>
+						<p>
+							Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							Original study
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							https://github.com/sean-harrison-bristol/CCR5_replication
+						</p>
+					</td>
+					<td>
+						<p>
+							Wei, X.; Nielsen, R. CCR5-∆32 Is Deleterious in the Homozygous State in Humans. Nat. Med. 2019 DOI: 10.1038/s41591-019-0459-6.
+						</p>
+					</td>
+			</tbody>
+		</table>
 
 ## Courses
 - MOOCs
