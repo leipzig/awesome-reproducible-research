@@ -8,7 +8,7 @@
 ## Contents
 
 - [Case studies](#case-studies)
-- [Ad-hoc reproductions](#ad-hoc)
+- [Ad-hoc reproductions](#ad-hoc-reproductions)
 - [Courses](#courses)
 - [Development Resources](#development-resources)
 - [User tools](#user-tools)
