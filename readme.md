@@ -1038,6 +1038,18 @@ These are one-off unpublished attempts to reproduce individual studies
 				<tr>
 					<td>
 						<p>
+							https://rdoodles.rbind.io/2019/06/reanalyzing-data-from-human-gut-microbiota-from-autism-spectrum-disorder-promote-behavioral-symptoms-in-mice/
+						</p>
+					</td>
+					<td>
+						<p>
+							Sharon, G. et al. Human Gut Microbiota from Autism Spectrum Disorder Promote Behavioral Symptoms in Mice. Cell 2019, 177 (6), 1600–1618.e17.
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							https://github.com/sean-harrison-bristol/CCR5_replication
 						</p>
 					</td>
@@ -1046,7 +1058,7 @@ These are one-off unpublished attempts to reproduce individual studies
 							Wei, X.; Nielsen, R. CCR5-∆32 Is Deleterious in the Homozygous State in Humans. Nat. Med. 2019 DOI: 10.1038/s41591-019-0459-6.
 						</p>
 					</td>
-			</tbody>
+				</tr>
 		</table>
 
 ## Courses
