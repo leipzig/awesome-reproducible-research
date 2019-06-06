@@ -21,7 +21,7 @@
 - [Awesome Lists](#awesome-lists)
 
 ## Case studies
-The term "case studies" is used here in a general sense to describe any study of reproducibility. A _reproduction_ is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _robustness test_ applies various statistical models or parameters to a given data set to study their effect on results. A _census_ is a high-level tabulation conducted by a third party. A _survey_ is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. A _theoretical case study_ measures global reproducibility using non-empirical evidence.
+The term "case studies" is used here in a general sense to describe any study of reproducibility. A _reproduction_ is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _robustness test_ applies various statistical models or parameters to a given data set to study their effect on results. A _census_ is a high-level tabulation conducted by a third party. A _survey_ is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. A _theoretical case study_ measures global reproducibility using non-empirical evidence. An _independent discussion_ utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.
 <table id="case_studies">
 			<tbody>
 				<tr>
@@ -1011,6 +1011,30 @@ The term "case studies" is used here in a general sense to describe any study of
 					<td>
 						<p>
 							 1,159,166 Jupyter notebooks 
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1016/j.bja.2019.01.012
+">Vlisides et al <meta property="datePublished" content="2019-01-22">2019</a>
+							<a href="https://doi.org/10.1016/j.bja.2018.12.021">Sieber et al <meta property="datePublished" content="2019-01-22">2019</a>
+
+						</p>
+					</td>
+					<td>
+						<p>
+							Anaesthesia
+						</p>
+					</td>
+					<td>
+						<p>
+							Indepedent discussion
+						</p>
+					</td>
+					<td>
+						<p>
+							 1 study 
 						</p>
 					</td>
 				</tr>
