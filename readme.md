@@ -1017,7 +1017,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p><a href="https://doi.org/10.1016/j.bja.2019.01.012
-">Vlisides et al <meta property="datePublished" content="2019-01-22">2019</a> <a href="https://doi.org/10.1016/j.bja.2018.12.021">Sieber et al <meta property="datePublished" content="2019-01-22">2019</a>
+">Vlisides et al <meta property="datePublished" content="2019-01-22">2019</a><br/><a href="https://doi.org/10.1016/j.bja.2018.12.021">Sieber et al <meta property="datePublished" content="2019-01-22">2019</a>
 						</p>
 					</td>
 					<td>
