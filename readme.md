@@ -1061,6 +1061,8 @@ These are one-off unpublished attempts to reproduce individual studies
 					<td>
 						<p>
 							https://rdoodles.rbind.io/2019/06/reanalyzing-data-from-human-gut-microbiota-from-autism-spectrum-disorder-promote-behavioral-symptoms-in-mice/
+							and
+							https://notstatschat.rbind.io/2019/06/16/analysing-the-mouse-autism-data/
 						</p>
 					</td>
 					<td>
