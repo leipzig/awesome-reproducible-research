@@ -1036,6 +1036,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://osf.io/7yt8u/
+">Bakker et al <meta property="datePublished" content="2019-06-19">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Psychology
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							 1 paper 
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
