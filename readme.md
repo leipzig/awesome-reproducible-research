@@ -1058,6 +1058,28 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://arxiv.org/abs/1907.06902v1
+">Dacrema et al <meta property="datePublished" content="2019-16-07">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Machine learning
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							18 conference papers 
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
