@@ -885,6 +885,28 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
+						<p><a href="https://dash.harvard.edu/bitstream/handle/1/38811561/CHEN-SENIORTHESIS-2018.pdf?sequence=3
+">Chen <meta property="datePublished" content="2018-06-29">2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Social sciences & other
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							810 Dataverse studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
 						<p>
 							<a href="https://www.nature.com/articles/sdata201930">Stagge et al 2019</a>
 						</p>
@@ -1077,28 +1099,6 @@ The term "case studies" is used here in a general sense to describe any study of
 					<td>
 						<p>
 							18 conference papers 
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p><a href="https://dash.harvard.edu/bitstream/handle/1/38811561/CHEN-SENIORTHESIS-2018.pdf?sequence=3
-">Chen <meta property="datePublished" content="2018-06-29">2018</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							Social sciences & other
-						</p>
-					</td>
-					<td>
-						<p>
-							Census
-						</p>
-					</td>
-					<td>
-						<p>
-							810 Dataverse studies
 						</p>
 					</td>
 				</tr>
