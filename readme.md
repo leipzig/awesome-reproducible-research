@@ -709,6 +709,28 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1002/bimj.201700243">Boulesteix et al 2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Medicine and health sciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							30 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://elifesciences.org/articles/34364">Eaton et al 2018</a>
 						</p>
 					</td>
