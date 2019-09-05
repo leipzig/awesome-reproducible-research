@@ -1203,6 +1203,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [DataCite](https://datacite.org) - 12M+ DOIs registered for 46 allocators. Offers APIs and a metadata schema.
 - [Data Dryad](https://datadryad.org) - curated, metadata-centric, focused on articles associated with published artices, $120 submission fee (various waivers available)
 - [Figshare](https://figshare.com) - 20 GB of free private space, unlimited public space, >2M articles, >5k projects
+- [OSF](https://osf.io) - Project-oriented system with access control and integration with popular tools. Unlimited storage for projects, but individual files are limited to 5 gigabytes (GB) each.
 - [Zenodo](https://zenodo.org/) - Allows embargoed, restricted access, metadata support. 50GB limit.
 
 ## Examples and Exemplars
