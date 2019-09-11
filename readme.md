@@ -1124,6 +1124,27 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1016/j.jasrep.2019.102002">Eran et al <meta property="datePublished" content="2019-10-09">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Experimental archaeology
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							1 theory
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
