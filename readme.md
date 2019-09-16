@@ -1145,6 +1145,27 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1101/763730">Rauh et al <meta property="datePublished" content="2019-16-09">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Neurology
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							202 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
