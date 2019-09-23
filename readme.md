@@ -49,7 +49,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.ncbi.nlm.nih.gov/pubmed/16060722">Ioannidis <meta property="datePublished" content="2005-08-30">2005</a>
+							<a href="https://doi.org/10.1080/09332480.2019.1579573" title="Why most published research findings are false">Ioannidis <meta property="datePublished" content="2005-08-30">2005</a>
 						</p>
 					</td>
 					<td>
