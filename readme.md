@@ -1166,6 +1166,27 @@ The term "case studies" is used here in a general sense to describe any study of
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1101/763730"><span title="Failed pre-registered replication of mortality salience effects in traditional and novel measures">Sætrevik & Sjåstad <meta property="datePublished" content="2019-20-09">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Psychology
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							2 experiments
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
