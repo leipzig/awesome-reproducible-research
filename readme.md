@@ -996,8 +996,8 @@ The term "case studies" is used here in a general sense to describe any study of
 								<tr>
 					<td>
 						<p>
-							<a href="https://www.biorxiv.org/content/10.1101/614560v1">Mammoliti
- et al <meta property="datePublished" content="2019-04-19">2019</a>
+							<span title="Creating reproducible pharmacogenomic analysis pipelines"><a href="https://www.biorxiv.org/content/10.1101/614560v1">Mammoliti
+								et al <meta property="datePublished" content="2019-04-19">2019</a></span>
 						</p>
 					</td>
 					<td>
@@ -1018,7 +1018,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246">Allen & Mehler <meta property="datePublished" content="2019-05-01">2019</a>
+						<p><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246"><span title="Open science challenges, benefits and tips in early career and beyond">Allen & Mehler <meta property="datePublished" content="2019-05-01">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1039,7 +1039,8 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
-						<p><a href="http://www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf">Pimentel et al <meta property="datePublished" content="2019-05-07">2019</a>
+						<p><a href="http://www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf"><span title="A Large-scale Study about Quality and
+Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublished" content="2019-05-07">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1061,7 +1062,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p><a href="https://doi.org/10.1016/j.bja.2019.01.012
-">Vlisides et al <meta property="datePublished" content="2019-01-22">2019</a><br/><a href="https://doi.org/10.1016/j.bja.2018.12.021">Sieber et al <meta property="datePublished" content="2019-01-22">2019</a>
+"><span title="Hypnotic depth and postoperative death: a Bayesian perspective and an Independent Discussion of a clinical trial">Vlisides et al <meta property="datePublished" content="2019-01-22">2019</span></a><br/><a href="https://doi.org/10.1016/j.bja.2018.12.021"><span title="Depth of sedation as an interventional target to reduce postoperative delirium: mortality and functional outcomes of the Strategy to Reduce the Incidence of Postoperative Delirium in Elderly Patients randomised clinical trial">Sieber et al <meta property="datePublished" content="2019-01-22">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1083,7 +1084,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p><a href="https://osf.io/7yt8u/
-">Bakker et al <meta property="datePublished" content="2019-06-19">2019</a>
+"><span title="Replication Oxley et al. (2008, Science)">Bakker et al <meta property="datePublished" content="2019-06-19">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1104,8 +1105,8 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://arxiv.org/abs/1907.06902v1
-">Dacrema et al <meta property="datePublished" content="2019-16-07">2019</a>
+						<p><a href="https://arxiv.org/abs/1907.06902v1"><span title="
+Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches">Dacrema et al <meta property="datePublished" content="2019-16-07">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1126,7 +1127,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1016/j.jasrep.2019.102002">Eran et al <meta property="datePublished" content="2019-10-09">2019</a>
+						<p><a href="https://doi.org/10.1016/j.jasrep.2019.102002"><span title="Experimental replication shows knives manufactured from frozen human feces do not work">Eran et al <meta property="datePublished" content="2019-10-09">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1147,7 +1148,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1101/763730">Rauh et al <meta property="datePublished" content="2019-16-09">2019</a>
+						<p><a href="https://doi.org/10.1101/763730"><span title="Missing">Rauh et al <meta property="datePublished" content="2019-16-09">2019</span></a>
 						</p>
 					</td>
 					<td>
