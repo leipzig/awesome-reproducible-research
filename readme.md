@@ -1255,6 +1255,7 @@ These are one-off unpublished attempts to reproduce individual studies
 
 ## User tools
 - Open With Binder for [Chrome](https://chrome.google.com/webstore/detail/open-with-binder/napgohblobncpnagnehjpooinnimhpkc) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
+- [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
 
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
@@ -1356,7 +1357,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [BioCompute](https://osf.io/zm97b/) - BCO specs
 - [rOpenSci](https://ropensci.org) - Tools, conferences, and education
 - [Open Science Framework](https://osf.io) - Open source project management
-
+- [pyOpenSci](https://www.pyopensci.org/) - promotes open and reproducible research through peer-review of scientific Python packages
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
