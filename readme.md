@@ -1357,7 +1357,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [BioCompute](https://osf.io/zm97b/) - BCO specs
 - [rOpenSci](https://ropensci.org) - Tools, conferences, and education
 - [Open Science Framework](https://osf.io) - Open source project management
-
+- [pyOpenSci](https://www.pyopensci.org/) - promotes open and reproducible research through peer-review of scientific Python packages
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
