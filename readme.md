@@ -1190,7 +1190,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1038/s41559-019-0972-5"><span title="A checklist for maximizing reproducibility of ecological niche models">Feng et al.<meta property="datePublished" content="2019-23-09">2019</span></a>
+						<p><a href="https://doi.org/10.1038/s41559-019-0972-5"><span title="A checklist for maximizing reproducibility of ecological niche models">Feng et al. <meta property="datePublished" content="2019-23-09">2019</span></a>
 						</p>
 					</td>
 					<td>
