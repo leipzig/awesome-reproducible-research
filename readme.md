@@ -71,7 +71,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://www.bmj.com/content/336/7659/1472">Glasziou et al <meta property="datePublished" content="2008-06-26">2008</a>
+							<a href="https://doi.org/10.1136/bmj.39590.732037.47"><span title="What is missing from descriptions of treatment in trials and reviews?">Glasziou et al <meta property="datePublished" content="2008-06-26">2008</span></a>
 						</p>
 					</td>
 					<td>
@@ -93,7 +93,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://arxiv.org/pdf/1010.1092.pdf">Baggerly &amp; Coombes <meta property="datePublished" content="2009-09-01">2009</a>
+							<a href="https://doi.org/10.1214/09-AOAS291"><span title="DERIVING CHEMOSENSITIVITY FROM CELL LINES: FORENSIC BIOINFORMATICS AND REPRODUCIBLE RESEARCH IN HIGH-THROUGHPUT BIOLOGY">Baggerly &amp; Coombes <meta property="datePublished" content="2009-09-01">2009</span></a>
 						</p>
 					</td>
 					<td>
@@ -115,7 +115,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://onlinelibrary.wiley.com/doi/10.1002/bimj.200900154/full">Hothorn et al. <meta property="datePublished" content="2009-08-17">2009</a>
+							<a href="https://doi.org/10.1002/bimj.200900154/full"><span title="Biometrical Journal and Reproducible Research"?Hothorn et al. <meta property="datePublished" content="2009-08-17">2009</span></a>
 						</p>
 					</td>
 					<td>
@@ -137,7 +137,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.nature.com/articles/ng.295">Ioannidis et al <meta property="datePublished" content="2009-01-28">2009</a>
+							<a href="https://doi.org/10.1038/ng.295"><span title="Repeatability of published microarray gene expression analyses">Ioannidis et al <meta property="datePublished" content="2009-01-28">2009</span></a>
 						</p>
 					</td>
 					<td>
@@ -203,7 +203,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://www.nature.com.ezproxy2.library.drexel.edu/nrd/journal/v10/n9/full/nrd3439-c1.html">Prinz <meta property="datePublished" content="2011-08-31">2011</a>
+							<a href="https://doi.org/10.1038/nrd3439-c1">Prinz <meta property="datePublished" content="2011-08-31">2011</a>
 						</p>
 					</td>
 					<td>
