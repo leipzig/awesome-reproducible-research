@@ -22,7 +22,7 @@
 - [Awesome Lists](#awesome-lists)
 
 ## Case studies
-The term "case studies" is used here in a general sense to describe any study of reproducibility. A _reproduction_ is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _robustness test_ applies various statistical models or parameters to a given data set to study their effect on results, either as a follow-up to an existing study or as a "bake-off". A _census_ is a high-level tabulation conducted by a third party. A _survey_ is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. A _theoretical case study_ measures global reproducibility using non-empirical evidence. An _independent discussion_ utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.
+The term "case studies" is used here in a general sense to describe any study of reproducibility. A _reproduction_ is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _robustness test_ applies various protocols, workflows, statistical models or parameters to a given data set to study their effect on results, either as a follow-up to an existing study or as a "bake-off". A _census_ is a high-level tabulation conducted by a third party. A _survey_ is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. A _theoretical case study_ measures global reproducibility using non-empirical evidence. An _independent discussion_ utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.
 <table id="case_studies">
 			<tbody>
 				<tr>
@@ -1101,6 +1101,28 @@ Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublish
 					<td>
 						<p>
 							 1 paper 
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1016/j.cels.2019.06.005
+"><span title="A Multi-center Study on the Reproducibility of Drug-Response Assays in Mammalian Cell Lines">Niepel et al <meta property="datePublished" content="2019-07-10">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Cell pharmacology
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							 5 labs 
 						</p>
 					</td>
 				</tr>
