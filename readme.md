@@ -1317,6 +1317,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 ## Examples and Exemplars
 - [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
 - [Papers With Code](https://paperswithcode.com/) - ML papers with code
+- [NARPS](https://github.com/poldrack/narps) - Code related to Neuroimaging Analysis Replication and Prediction Study
 
 ### Haibe-Kains lab reproducible papers
 <table>
