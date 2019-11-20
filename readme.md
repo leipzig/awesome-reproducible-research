@@ -116,7 +116,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.1002/bimj.200900154/full"><span title="Biometrical Journal and Reproducible Research"?Hothorn et al. <meta property="datePublished" content="2009-08-17">2009</span></a>
+							<a href="https://doi.org/10.1002/bimj.200900154"><span title="Biometrical Journal and Reproducible Research">Hothorn et al. <meta property="datePublished" content="2009-08-17">2009</span></a>
 						</p>
 					</td>
 					<td>
