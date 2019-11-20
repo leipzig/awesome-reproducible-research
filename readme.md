@@ -1209,6 +1209,27 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1101/843193"><span title="Variability in the analysis of a single neuroimaging dataset by many teams">Botvinik-Nezer et al. <meta property="datePublished" content="2019-15-11">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Neuroimaging
+						</p>
+					</td>
+					<td>
+						<p>
+							Test of robustness
+						</p>
+					</td>
+					<td>
+						<p>
+							1 data set, 70 teams
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
