@@ -1303,6 +1303,11 @@ These are one-off unpublished attempts to reproduce individual studies
 							Field
 						</p>
 					</td>
+					<td>
+						<p>
+							Type
+						</p>
+					</td>
 				</tr>
 		<tr>
 					<td>
@@ -1312,13 +1317,19 @@ These are one-off unpublished attempts to reproduce individual studies
 					</td>
 					<td>
 						<p>
-							Why most published research findings are false
+							<span title="There is increasing concern that most current published research findings are false. The probability that a research claim is true may depend on study power and bias, the number of other studies on the same question, and, importantly, the ratio of true to no relationships among the relationships probed in each scientific field. In this framework, a research finding is less likely to be true when the studies conducted in a field are smaller; when effect sizes are smaller; when there is a greater number and lesser preselection of tested relationships; where there is greater flexibility in designs, definitions, outcomes, and analytical modes; when there is greater financial and other interest and prejudice; and when more teams are involved in a scientific field in chase of statistical significance. Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true. Moreover, for many current scientific fields, claimed research findings may often be simply accurate measures of the prevailing bias. In this essay, I discuss the implications of these problems for the conduct and interpretation of research.">Why most published research findings are false</span>
 						</p>
 					<td>
 						<p>
 							Science
 						</p>
 					</td>
+					<td>
+						<p>
+							Statistical reproducibility
+						</p>
+			</td>	
+			</td>
 				</tr>
 		<tr>
 					<td>
@@ -1328,7 +1339,7 @@ These are one-off unpublished attempts to reproduce individual studies
 					</td>
 			<td>
 						<p>
-							The Generalizability Crisis
+							<span title="There is increasing concern that most current published research findings are false. The probability that a research claim is true may depend on study power and bias, the number of other studies on the same question, and, importantly, the ratio of true to no relationships among the relationships probed in each scientific field. In this framework, a research finding is less likely to be true when the studies conducted in a field are smaller; when effect sizes are smaller; when there is a greater number and lesser preselection of tested relationships; where there is greater flexibility in designs, definitions, outcomes, and analytical modes; when there is greater financial and other interest and prejudice; and when more teams are involved in a scientific field in chase of statistical significance. Simulations show that for most study designs and settings, it is more likely for a research claim to be false than true. Moreover, for many current scientific fields, claimed research findings may often be simply accurate measures of the prevailing bias. In this essay, I discuss the implications of these problems for the conduct and interpretation of research.">The Generalizability Crisis</span>
 						</p>
 					</td>
 					<td>
@@ -1336,6 +1347,11 @@ These are one-off unpublished attempts to reproduce individual studies
 							Psychology
 						</p>
 					</td>
+						<td>
+						<p>
+							Statistical reproducibility
+						</p>
+			</td>
 				</tr>
 	</tbody>
 </table>
