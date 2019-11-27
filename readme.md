@@ -10,6 +10,7 @@
 
 - [Case studies](#case-studies)
 - [Ad-hoc reproductions](#ad-hoc-reproductions)
+- [Theory papers](#theory-papers)
 - [Courses](#courses)
 - [Development Resources](#development-resources)
 - [User tools](#user-tools)
@@ -1283,7 +1284,7 @@ These are one-off unpublished attempts to reproduce individual studies
 			
 
 
-## Important theory papers
+## Theory papers
 <table>
 	<tbody>
 				<tr>
@@ -1324,6 +1325,7 @@ These are one-off unpublished attempts to reproduce individual studies
 				</tr>
 	</tbody>
 </table>
+
 ## Courses
 - MOOCs
     - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU. Very popular course.
