@@ -1290,7 +1290,12 @@ These are one-off unpublished attempts to reproduce individual studies
 				<tr>
 					<td>
 						<p>
-							Study
+							Authors/Date
+						</p>
+					</td>
+					<td>
+						<p>
+							Title
 						</p>
 					</td>
 					<td>
@@ -1302,9 +1307,13 @@ These are one-off unpublished attempts to reproduce individual studies
 		<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.1080/09332480.2019.1579573" title="Why most published research findings are false">Ioannidis <meta property="datePublished" content="2005-08-30">2005</a>
+							<a href="https://doi.org/10.1080/09332480.2019.1579573">Ioannidis <meta property="datePublished" content="2005-08-30">2005</a>
 						</p>
 					</td>
+					<td>
+						<p>
+							Why most published research findings are false
+						</p>
 					<td>
 						<p>
 							Science
@@ -1314,9 +1323,14 @@ These are one-off unpublished attempts to reproduce individual studies
 		<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.31234/osf.io/jqw35" title="The Generalizability Crisis">Yarkoni <meta property="datePublished" content="2019-11-21">2019</a>
+							<a href="https://doi.org/10.31234/osf.io/jqw35">Yarkoni <meta property="datePublished" content="2019-11-21">2019</a>
 						</p>
 					</td>
+			<td>
+						<p>
+							The Generalizability Crisis
+						</p>
+					<td>
 					<td>
 						<p>
 							Psychology
