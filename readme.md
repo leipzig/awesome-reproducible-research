@@ -22,7 +22,7 @@
 - [Awesome Lists](#awesome-lists)
 
 ## Case studies
-The term "case studies" is used here in a general sense to describe any study of reproducibility. A _reproduction_ is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _robustness test_ applies various protocols, workflows, statistical models or parameters to a given data set to study their effect on results, either as a follow-up to an existing study or as a "bake-off". A _census_ is a high-level tabulation conducted by a third party. A _survey_ is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. A _theoretical case study_ measures global reproducibility using non-empirical evidence. An _independent discussion_ utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.
+The term "case studies" is used here in a general sense to describe any study of reproducibility. A _reproduction_ is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _robustness test_ applies various protocols, workflows, statistical models or parameters to a given data set to study their effect on results, either as a follow-up to an existing study or as a "bake-off". A _census_ is a high-level tabulation conducted by a third party. A _survey_ is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. An _independent discussion_ utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.
 <table id="case_studies">
 			<tbody>
 				<tr>
@@ -44,28 +44,6 @@ The term "case studies" is used here in a general sense to describe any study of
 					<td>
 						<p>
 							Size
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p>
-							<a href="https://doi.org/10.1080/09332480.2019.1579573" title="Why most published research findings are false">Ioannidis <meta property="datePublished" content="2005-08-30">2005</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							Science
-						</p>
-					</td>
-					<td>
-						<p>
-							Theoretical
-						</p>
-					</td>
-					<td>
-						<p>
-							(all studies)
 						</p>
 					</td>
 				</tr>
@@ -1300,8 +1278,52 @@ These are one-off unpublished attempts to reproduce individual studies
 						</p>
 					</td>
 				</tr>
+				</tbody>
 		</table>
+			
 
+
+## Important theory papers
+<table>
+	<tbody>
+				<tr>
+					<td>
+						<p>
+							Study
+						</p>
+					</td>
+					<td>
+						<p>
+							Field
+						</p>
+					</td>
+				</tr>
+		<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1080/09332480.2019.1579573" title="Why most published research findings are false">Ioannidis <meta property="datePublished" content="2005-08-30">2005</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+				</tr>
+		<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.31234/osf.io/jqw35" title="The Generalizability Crisis">Yarkoni <meta property="datePublished" content="2019-11-21">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Psychology
+						</p>
+					</td>
+				</tr>
+	</tbody>
+</table>
 ## Courses
 - MOOCs
     - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU. Very popular course.
