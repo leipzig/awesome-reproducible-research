@@ -1330,7 +1330,7 @@ These are one-off unpublished attempts to reproduce individual studies
 						<p>
 							The Generalizability Crisis
 						</p>
-					<td>
+					</td>
 					<td>
 						<p>
 							Psychology
