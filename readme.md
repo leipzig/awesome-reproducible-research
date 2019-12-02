@@ -1150,7 +1150,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1101/763730"><span title="Missing">Rauh et al <meta property="datePublished" content="2019-16-09">2019</span></a>
+						<p><a href="https://doi.org/10.1101/763730"><span title="Reproducible and Transparent Research Practices in Published Neurology Research">Rauh et al <meta property="datePublished" content="2019-16-09">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1171,7 +1171,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1101/763730"><span title="Failed pre-registered replication of mortality salience effects in traditional and novel measures">Sætrevik & Sjåstad <meta property="datePublished" content="2019-20-09">2019</span></a>
+						<p><a href="https://doi.org/10.31234/osf.io/dkg53"><span title="Failed pre-registered replication of mortality salience effects in traditional and novel measures">Sætrevik & Sjåstad <meta property="datePublished" content="2019-20-09">2019</span></a>
 						</p>
 					</td>
 					<td>
