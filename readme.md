@@ -777,7 +777,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://broad.io/ASHG2018">Miller et al 2018</a>
+							<a href="https://broad.io/ASHG2018">Miller et al 2018</a>
 						</p>
 					</td>
 					<td>
