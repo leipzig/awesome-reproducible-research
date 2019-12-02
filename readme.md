@@ -1373,7 +1373,7 @@ These are one-off unpublished attempts to reproduce individual studies
     - [repo](https://github.com/franapoli/repo) - provenance framework package
 
 ## User tools
-- Open With Binder for [Chrome](https://chrome.google.com/webstore/detail/open-with-binder/napgohblobncpnagnehjpooinnimhpkc) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
+- Open With Binder for [Chrome](https://matthiasbussonnier.com/posts/32-open-with-binder-chrome.html) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
 - [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
 
 ## Books
