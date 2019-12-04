@@ -1331,7 +1331,31 @@ These are one-off unpublished attempts to reproduce individual studies
 			</td>	
 			</td>
 				</tr>
-		<tr>
+						<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pcbi.1000424">Noble <meta property="datePublished" content="2009-07-31">2005</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Most bioinformatics coursework focuses on algorithms, with perhaps some components devoted to learning programming skills and learning how to use existing bioinformatics software. Unfortunately, for students who are preparing for a research career, this type of curriculum fails to address many of the day-to-day organizational challenges associated with performing computational experiments. In practice, the principles behind organizing and documenting computational experiments are often learned on the fly, and this learning is strongly influenced by personal predilections as well as by chance interactions with collaborators or colleagues.
+
+The purpose of this article is to describe one good strategy for carrying out computational experiments. I will not describe profound issues such as how to formulate hypotheses, design experiments, or draw conclusions. Rather, I will focus on relatively mundane issues such as organizing files and directories and documenting progress. These issues are important because poor organizational choices can lead to significantly slower research progress. I do not claim that the strategies I outline here are optimal. These are simply the principles and practices that I have developed over 12 years of bioinformatics research, augmented with various suggestions from other researchers with whom I have discussed these issues.">A Quick Guide to Organizing Computational Biology Projects</span>
+						</p>
+					<td>
+						<p>
+							Bioinformatics
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+			</td>	
+			</td>
+				</tr>
+				<tr>
 					<td>
 						<p>
 							<a href="https://doi.org/10.31234/osf.io/jqw35">Yarkoni <meta property="datePublished" content="2019-11-21">2019</a>
