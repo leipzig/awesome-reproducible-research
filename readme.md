@@ -1353,6 +1353,28 @@ These are one-off unpublished attempts to reproduce individual studies
 			</td>	
 			</td>
 				</tr>
+										<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pcbi.1000424">Sandve et al <meta property="datePublished" content="2013-10-24">2013</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Replication is the cornerstone of a cumulative science [1]. However, new tools and technologies, massive amounts of data, interdisciplinary approaches, and the complexity of the questions being asked are complicating replication efforts, as are increased pressures on scientists to advance their research [2]. As full replication of studies on independently collected data is often not feasible, there has recently been a call for reproducible research as an attainable minimum standard for assessing the value of scientific claims [3]. This requires that papers in experimental science describe the results and provide a sufficiently clear protocol to allow successful repetition and extension of analyses based on original data [4].">Ten Simple Rules for Reproducible Computational Research</span>
+						</p>
+					<td>
+						<p>
+							Computational science
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+			</td>	
+			</td>
+				</tr>
 				<tr>
 					<td>
 						<p>
