@@ -1,4 +1,5 @@
-# Awesome Reproducible Research [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Reproducible Research [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3564746.svg)](https://doi.org/10.5281/zenodo.3564746)
+
 
 <meta property="og:image" content="https://github.com/leipzig/awesome-reproducible-research/blob/master/rrlogo2.png?raw=true"/>
 <img src="https://github.com/leipzig/awesome-reproducible-research/blob/master/rrlogo2.png?raw=true" align="right" width="200">
