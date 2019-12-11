@@ -338,7 +338,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 					<p>
-					<a href="https://doi.org/10.1038/533452a"><span title="1,500 scientists lift the lid on reproducibility">Baker<meta property="datePublished" content="2016-05-26">2016</span></a>
+					<a href="https://doi.org/10.1038/533452a"><span title="1,500 scientists lift the lid on reproducibility">Baker <meta property="datePublished" content="2016-05-26">2016</span></a>
 					</p>
 					</td>
 					<td>
