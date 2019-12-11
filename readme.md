@@ -1255,6 +1255,27 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+								<tr>
+					<td>
+						<p><a href="https://doi.org/10.31234/osf.io/vef2c"><span title="Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement">Klein et al. <meta property="datePublished" content="2019-12-11">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Pschology
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Many Labs 4: Interpreting a failure to replicate is complicated by the fact that the failure could be due to the original finding being a false positive, unrecognized moderating influences between the original and replication procedures, or faulty implementation of the procedures in the replication. One strategy to maximize replication quality is involving the original authors in study design. We (N = 21 Labs and N = 2,220 participants) experimentally tested whether original author involvement improved replicability of a classic finding from Terror Management Theory (Greenberg et al., 1994). Our results were non-diagnostic of whether original author involvement improves replicability because we were unable to replicate the finding under any conditions. This suggests that the original finding was either a false positive or the conditions necessary to obtain it are not yet understood or no longer exist.">Replication</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							1 experiment, 21 labs, 2,220 participants
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
