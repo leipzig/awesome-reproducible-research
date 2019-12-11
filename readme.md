@@ -337,6 +337,28 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
+					<p>
+					<a href="https://doi.org/10.1038/533452a"><span title="1,500 scientists lift the lid on reproducibility">Baker<meta property="datePublished" content="2016-05-26">2016</span></a>
+					</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.">Survey</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							1,576 researchers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
 						<p>
 							<a href="https://pdfs.semanticscholar.org/edd7/e68711955cbbdb6dd6866db2ec8a6ff18278.pdf">Névéol et al <meta property="datePublished" content="2016-11-05">2016</a>
 						</p>
