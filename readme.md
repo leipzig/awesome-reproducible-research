@@ -1262,7 +1262,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							Pschology
+							Psychology
 						</p>
 					</td>
 					<td>
