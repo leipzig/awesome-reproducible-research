@@ -1573,6 +1573,8 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) - Section on RR tools
 - [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) - Jupyter projects, libraries and resources
 - [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) - Benchmarks are a related aspect of robustness testing
+- [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) - Resources, data, tools, and scholarship
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
 
 ## Contribute
 
