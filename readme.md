@@ -1566,6 +1566,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [rOpenSci](https://ropensci.org) - Tools, conferences, and education
 - [Open Science Framework](https://osf.io) - Open source project management
 - [pyOpenSci](https://www.pyopensci.org/) - promotes open and reproducible research through peer-review of scientific Python packages
+- [Replication Network](https://replicationnetwork.com/) - Furthering the practice of replication in economics
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
