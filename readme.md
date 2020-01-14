@@ -1319,7 +1319,7 @@ These are one-off unpublished attempts to reproduce individual studies
 					</td>
 					<td>
 						<p>
-							Wei, X.; Nielsen, R. CCR5-∆32 Is Deleterious in the Homozygous State in Humans. Nat. Med. 2019 DOI: 10.1038/s41591-019-0459-6.
+							Wei, X.; Nielsen, R. CCR5-∆32 Is Deleterious in the Homozygous State in Humans. Nat. Med. 2019 DOI: 10.1038/s41591-019-0459-6. (retracted)
 						</p>
 					</td>
 				</tr>
