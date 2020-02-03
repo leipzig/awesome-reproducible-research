@@ -1062,6 +1062,27 @@ Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublish
 						</p>
 					</td>
 				</tr>
+								<tr>
+					<td>
+						<p><a href="https://doi.org/10.1016/j.omto.2019.05.004"><span title="Assessing the Completeness of Reporting in Preclinical Oncolytic Virus Therapy Studies">Fergusson et al <meta property="datePublished" content="2019-05-20">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Virology
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							 236 papers 
+						</p>
+					</td>
+				</tr>
 				<tr>
 					<td>
 						<p><a href="https://doi.org/10.1016/j.bja.2019.01.012
