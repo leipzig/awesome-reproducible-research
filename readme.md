@@ -272,7 +272,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://science.sciencemag.org/content/349/6251/aac4716">OSC <meta property="datePublished" content="2014-03-21">2015</a>
+							<a href="http://science.sciencemag.org/content/349/6251/aac4716">OSC <meta property="datePublished" content="2015-08-28">2015</a>
 						</p>
 					</td>
 					<td>
@@ -492,7 +492,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://science.sciencemag.org/content/351/6280/1433">Camerer 2017</a>
+							<a href="http://science.sciencemag.org/content/351/6280/1433">Camerer <meta property="datePublished" content="2016-03-25">2017</a>
 						</p>
 					</td>
 					<td>
@@ -514,7 +514,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://openreview.net/pdf?id=By4l2PbQ-">Olorisade 2017</a>
+							<a href="https://openreview.net/pdf?id=By4l2PbQ-">Olorisade <meta property="datePublished" content="2017-08-06">2017</a>
 						</p>
 					</td>
 					<td>
@@ -536,7 +536,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.1515/opar-2017-0019">Strupler &amp; Wilkinson 2017</a>
+							<a href="https://doi.org/10.1515/opar-2017-0019">Strupler &amp; Wilkinson <meta property="datePublished" content="2017-11-14">2017</a>
 						</p>
 					</td>
 					<td>
@@ -558,7 +558,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://arxiv.org/abs/1801.05042">Danchev et al 2017</a>
+							<a href="https://arxiv.org/abs/1801.05042">Danchev et al <meta property="datePublished" content="2018-01-15">2017</a>
 						</p>
 					</td>
 					<td>
@@ -580,7 +580,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://brage.bibsys.no/xmlui/bitstream/handle/11250/2478230/15995_FULLTEXT.pdf?sequence=1&isAllowed=y">Kjensmo &amp; Gundersen 2017</a>
+							<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17248">Kjensmo &amp; Gundersen <meta property="datePublished" content="2018-04-25">2018</a>
 						</p>
 					</td>
 					<td>
@@ -602,7 +602,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.nature.com/articles/d41586-018-02108-9">Gertler et al 2018</a>
+							<a href="https://www.nature.com/articles/d41586-018-02108-9">Gertler et al <meta property="datePublished" content="2018-02-21">2018</a>
 						</p>
 					</td>
 					<td>
@@ -624,7 +624,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://www.pnas.org/content/115/11/2584">Stodden et al 2018</a>
+							<a href="http://www.pnas.org/content/115/11/2584">Stodden et al <meta property="datePublished" content="2018-03-13">2018</a>
 						</p>
 					</td>
 					<td>
@@ -646,7 +646,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.biorxiv.org/content/early/2018/06/20/268755">Madduri et al 2018</a>
+							<a href="http://doi.org/10.1371/journal.pone.0213013">Madduri et al <meta property="datePublished" content="2019-04-09">2018</a>
 						</p>
 					</td>
 					<td>
@@ -668,7 +668,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.nature.com/articles/s41562-018-0399-z">Camerer et al 2018</a>
+							<a href="https://doi.org/10.1038/s41562-018-0399-z">Camerer et al <meta property="datePublished" content="2018-08-27">2018</a>
 						</p>
 					</td>
 					<td>
@@ -690,7 +690,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://journals.sagepub.com/doi/pdf/10.1177/2515245917747646">Silberzahn et al 2018</a>
+							<a href="http://doi.org/10.1177/2515245917747646">Silberzahn et al <meta property="datePublished" content="2018-08-23">2018</a>
 						</p>
 					</td>
 					<td>
@@ -712,7 +712,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.1002/bimj.201700243">Boulesteix et al 2018</a>
+							<a href="https://doi.org/10.1002/bimj.201700243">Boulesteix et al <meta property="datePublished" content="2018-08-01">2018</a>
 						</p>
 					</td>
 					<td>
@@ -734,7 +734,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://elifesciences.org/articles/34364">Eaton et al 2018</a>
+							<a href="https://doi.org/10.7554/eLife.34364">Eaton et al <meta property="datePublished" content="2018-10-03">2018</a>
 						</p>
 					</td>
 					<td>
@@ -756,7 +756,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.biorxiv.org/content/early/2018/11/08/463927">Vaquero-Garcia et al 2018</a>
+							<a href="https://www.biorxiv.org/content/early/2018/11/08/463927">Vaquero-Garcia et al <meta property="datePublished" content="2018-11-08">2018</a>
 						</p>
 					</td>
 					<td>
