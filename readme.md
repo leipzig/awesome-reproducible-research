@@ -778,7 +778,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006930">Wallach et al 2018</a>
+							<a href="https://doi.org/10.1371/journal.pbio.2006930">Wallach et al <meta property="datePublished" content="2018-11-20">2018</a>
 						</p>
 					</td>
 					<td>
@@ -800,7 +800,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://broad.io/ASHG2018">Miller et al 2018</a>
+							<a href="https://broad.io/ASHG2018">Miller et al <meta property="datePublished" content="2018-10-18">2018</a>
 						</p>
 					</td>
 					<td>
@@ -822,7 +822,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2018.1508687">Konkol et al 2018</a>
+							<a href="https://doi.org/10.1080/13658816.2018.1508687">Konkol et al <meta property="datePublished" content="2018-04-09">2018</a>
 						</p>
 					</td>
 					<td>
@@ -933,7 +933,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.nature.com/articles/sdata201930">Stagge et al 2019</a>
+							<a href="https://doi.org/10.1038/sdata.2019.30">Stagge et al <meta property="datePublished" content="2019-02-26">2019</a>
 						</p>
 					</td>
 					<td>
@@ -955,7 +955,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006269">Bizzego et al <meta property="datePublished" content="2019-03-27">2019</a>
+							<a href="https://doi.org/10.1371/journal.pcbi.1006269">Bizzego et al <meta property="datePublished" content="2019-03-27">2019</a>
 						</p>
 					</td>
 					<td>
@@ -977,7 +977,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213013">Madduri et al <meta property="datePublished" content="2019-04-11">2019</a>
+							<a href="https://doi.org/10.1371/journal.pone.0213013">Madduri et al <meta property="datePublished" content="2019-04-11">2019</a>
 						</p>
 					</td>
 					<td>
@@ -999,8 +999,8 @@ The term "case studies" is used here in a general sense to describe any study of
 								<tr>
 					<td>
 						<p>
-							<span title="Creating reproducible pharmacogenomic analysis pipelines"><a href="https://www.biorxiv.org/content/10.1101/614560v1">Mammoliti
-								et al <meta property="datePublished" content="2019-04-19">2019</a></span>
+							<span title="Creating reproducible pharmacogenomic analysis pipelines"><a href="10.1038/s41597-019-0174-7">Mammoliti
+								et al <meta property="datePublished" content="2019-09-03">2019</a></span>
 						</p>
 					</td>
 					<td>
@@ -1021,7 +1021,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000246"><span title="Open science challenges, benefits and tips in early career and beyond">Allen & Mehler <meta property="datePublished" content="2019-05-01">2019</span></a>
+						<p><a href="https://doi.org/10.1371/journal.pbio.3000246"><span title="Open science challenges, benefits and tips in early career and beyond">Allen & Mehler <meta property="datePublished" content="2019-05-01">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1236,7 +1236,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1038/s41559-019-0972-5"><span title="A checklist for maximizing reproducibility of ecological niche models">Feng et al. <meta property="datePublished" content="2019-23-09">2019</span></a>
+						<p><a href="https://doi.org/10.1038/s41559-019-0972-5"><span title="A checklist for maximizing reproducibility of ecological niche models">Feng et al. <meta property="datePublished" content="2019-09-23">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1276,7 +1276,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
-								<tr>
+				<tr>
 					<td>
 						<p><a href="https://doi.org/10.31234/osf.io/vef2c"><span title="Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement">Klein et al. <meta property="datePublished" content="2019-12-11">2019</span></a>
 						</p>
