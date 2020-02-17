@@ -1533,6 +1533,7 @@ These are one-off unpublished attempts to reproduce individual studies
 - [Implementing Reproducible Research 2014](https://osf.io/s9tya/) - Describes projects: Sumatra, Vistrails, CDE, SOLE, JUMBO, CML, knitr. Content available on OSF.
 - [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7) - 31 first person case narratives and intro chapters
 - [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
+- [The Turing Way: A Handbook for Reproducible Data Science 2020](https://the-turing-way.netlify.com/introduction/introduction)
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
