@@ -1297,6 +1297,27 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1101/2020.01.30.924092"><span title="Factorial study of the RNA-seq computational workflow identifies biases as technical gene signatures">Simoneau et al. <meta property="datePublished" content="2020-01-30">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Genomics
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="RNA-seq is a modular experimental and computational approach that aims in identifying and quantifying RNA molecules. The modularity of the RNA-seq technology enables adaptation of the protocol to develop new ways to explore RNA biology, but this modularity also brings forth the importance of methodological thoroughness. Liberty of approach comes with the responsibility of choices, and such choices must be informed. Here, we present an approach that identifies gene group specific quantification biases in currently used RNA-seq software and references by processing sequenced datasets using a wide variety of RNA-seq computational pipelined, and by decomposing these expression datasets using an independent component analysis matrix factorisation method. By exploring the RNA-seq pipeline using a systemic approach, we highlight the yet inadequately characterized central importance of genome annotations in quantification results. We also show that the different choices in RNA-seq methodology are not independent, through interactions between genome annotations and quantification software. Genes were mainly found to be affected by differences in their sequence, by overlapping genes and genes with similar sequence. Our approach offers an explanation for the observed biases by identifying the common features used differently by the software and references, therefore providing leads for the betterment of RNA-seq methodology.">Robustness test</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							1 data set
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
