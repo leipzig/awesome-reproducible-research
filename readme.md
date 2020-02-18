@@ -1318,6 +1318,27 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.31234/osf.io/fk8vh"><span title="Analysis of Open Data and Computational Reproducibility in Registered Reports in Psychology">Obels et al. <meta property="datePublished" content="2019-05-23">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Psychology
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Ongoing technological developments have made it easier than ever before for scientists to share their data, materials, and analysis code. Sharing data and analysis code makes it easier for other researchers to re-use or check published research. However, these benefits will only emerge if researchers can reproduce the analysis reported in published articles and if data is annotated well enough so that it is clear what all variables mean. Because most researchers are not trained in computational reproducibility, it is important to evaluate current practices to identify practices that can be improved. We examined data and code sharing for Registered Reports published in the psychological literature between 2014 and 2018, and attempted to independently computationally reproduce the main results in each article. Of the main results from 62 articles that met our inclusion criteria, data were available for 41 articles, and analysis scripts for 37 articles. For the main results in 36 articles that shared both data and code we could run the scripts for 31 analyses, and reproduce the main results for 21 articles. Although the articles that shared both data and code (36 out of 62, or 58%) and articles for which main results could be computationally reproduced (21 out of 36, or 58%) was relatively high compared to other studies, there is clear room for improvement. We provide practical recommendations based on our observations and link to examples of good research practices in the papers we reproduced.">Census</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							62 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
