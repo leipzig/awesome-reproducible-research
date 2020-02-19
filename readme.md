@@ -1526,6 +1526,23 @@ These are one-off unpublished attempts to reproduce individual studies
 						</p>
 			</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1038/s41567-019-0780-5">Milton & Possolo <meta property="datePublished" content="2019-06-09">2019</a>
+	</td><td>
+						<p><span title="Trustworthy data underpin reproducible research">Lack of reproducibility is not necessarily bad news; it may herald new discoveries and signal scientifc progress</span></p>
+	</td>
+	<td>
+						<p>
+							Physics
+						</p>
+					</td>
+						<td>
+						<p>
+							Scientific philosophy
+						</p>
+			</td>
+				</tr>					
 	</tbody>
 </table>
 
