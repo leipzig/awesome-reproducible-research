@@ -1339,6 +1339,31 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p><a href="https://doi.org/10.1101/2020.01.30.924092"><span title="No raw data, no science: another possible source of the reproducibility crisis">Miyakawa<meta property="datePublished" content="2020-02-20">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Neurobiology
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="A reproducibility crisis is a situation where many scientific studies cannot be reproduced. Inappropriate practices of science, such as HARKing, p-hacking, and selective reporting of positive results, have been suggested as causes of irreproducibility. In this editorial, I propose that a lack of raw data or data fabrication is another possible cause of irreproducibility.
+
+As an Editor-in-Chief of Molecular Brain, I have handled 180 manuscripts since early 2017 and have made 41 editorial decisions categorized as “Revise before review,” requesting that the authors provide raw data. Surprisingly, among those 41 manuscripts, 21 were withdrawn without providing raw data, indicating that requiring raw data drove away more than half of the manuscripts. I rejected 19 out of the remaining 20 manuscripts because of insufficient raw data. Thus, more than 97% of the 41 manuscripts did not present the raw data supporting their results when requested by an editor, suggesting a possibility that the raw data did not exist from the beginning, at least in some portions of these cases.
+
+Considering that any scientific study should be based on raw data, and that data storage space should no longer be a challenge, journals, in principle, should try to have their authors publicize raw data in a public database or journal site upon the publication of the paper to increase reproducibility of the published results and to increase public trust in science.">Census</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							41 papers
+						</p>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 
