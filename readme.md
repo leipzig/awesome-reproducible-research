@@ -1341,7 +1341,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1101/2020.01.30.924092"><span title="No raw data, no science: another possible source of the reproducibility crisis">Miyakawa <meta property="datePublished" content="2020-02-20">2020</span></a>
+						<p><a href="https://doi.org/10.1186/s13041-020-0552-2"><span title="No raw data, no science: another possible source of the reproducibility crisis">Miyakawa <meta property="datePublished" content="2020-02-20">2020</span></a>
 						</p>
 					</td>
 					<td>
