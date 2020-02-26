@@ -1591,7 +1591,7 @@ These are one-off unpublished attempts to reproduce individual studies
 		<tr>
 					<td>
 						<p>
-							<a href="https://www.researchgate.net/publication/337146640_Out-of-the-box_Reproducibility_A_Survey_of_Machine_Learning_Platforms">Isdahl & Gundersen <meta property="datePublished" content="2005-08-30">2005</a>
+							<a href="https://www.researchgate.net/publication/337146640_Out-of-the-box_Reproducibility_A_Survey_of_Machine_Learning_Platforms">Isdahl & Gundersen <meta property="datePublished" content="2019-09-01">2019</a>
 						</p>
 					</td>
 					<td>
