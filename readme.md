@@ -1606,6 +1606,7 @@ These are one-off unpublished attempts to reproduce individual studies
 			</td>
 				</tr>
 				</table>
+
 ## Courses
 - MOOCs
     - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU. Very popular course.
