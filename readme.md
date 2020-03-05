@@ -1568,7 +1568,7 @@ These are one-off unpublished attempts to reproduce individual studies
                                                                         <tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.1371/journal.pone.0216125"><span title="Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity">Devezer et al<meta property="datePublished" content="2019-05-15">2019</span></a>
+							<a href="https://doi.org/10.1371/journal.pone.0216125"><span title="Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity">Devezer et al <meta property="datePublished" content="2019-05-15">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1584,6 +1584,39 @@ These are one-off unpublished attempts to reproduce individual studies
 					<td>
 						<p>
 							Statistical reproducibility
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2002.11626"><span title="A Realistic Guide to Making Data Available Alongside Code to Improve
+  Reproducibility">Tierney et al <meta property="datePublished" content="2020-02-06">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Data makes science possible. Sharing data improves visibility, and makes the
+research process transparent. This increases trust in the work, and allows for
+independent reproduction of results. However, a large proportion of data from
+published research is often only available to the original authors. Despite the
+obvious benefits of sharing data, and scientists' advocating for the importance
+of sharing data, most advice on sharing data discusses its broader benefits,
+rather than the practical considerations of sharing. This paper provides
+practical, actionable advice on how to actually share data alongside research.
+The key message is sharing data falls on a continuum, and entering it should
+come with minimal barriers.">A Realistic Guide to Making Data Available Alongside Code to Improve
+  Reproducibility</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
 						</p>
 					</td>
 				</tr>
