@@ -1360,7 +1360,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 							41 papers
 						</p>
 					</td>
-				</tr>
+				</tr><!--study_placeholder-->
 			</tbody>
 		</table>
 
@@ -1512,7 +1512,7 @@ These are one-off unpublished attempts to reproduce individual studies
 					</td>
 			<td>
 						<p>
-							<span title="Most theories and hypotheses in psychology are verbal in nature, yet their evaluation overwhelmingly relies on inferential statistical procedures. The validity of the move from qualitative to quantitative analysis depends on the verbal and statistical expressions of a hypothesis being closely aligned—that is, that the two must refer to roughly the same set of hypothetical observations. Here I argue that most inferential statistical tests in psychology fail to meet this basic condition. I demonstrate how foundational assumptions of the "random effects" model used pervasively in psychology impose far stronger constraints on the generalizability of results than most researchers appreciate. Ignoring these constraints dramatically inflates false positive rates and routinely leads researchers to draw sweeping verbal generalizations that lack any meaningful connection to the statistical quantities they are putatively based on. I argue that the routine failure to consider the generalizability of one's conclusions from a statistical perspective lies at the root of many of psychology's ongoing problems (e.g., the replication crisis), and conclude with a discussion of several potential avenues for improvement.">The Generalizability Crisis</span>
+							<span title="Most theories and hypotheses in psychology are verbal in nature, yet their evaluation overwhelmingly relies on inferential statistical procedures. The validity of the move from qualitative to quantitative analysis depends on the verbal and statistical expressions of a hypothesis being closely aligned—that is, that the two must refer to roughly the same set of hypothetical observations. Here I argue that most inferential statistical tests in psychology fail to meet this basic condition. I demonstrate how foundational assumptions of the 'random effects' model used pervasively in psychology impose far stronger constraints on the generalizability of results than most researchers appreciate. Ignoring these constraints dramatically inflates false positive rates and routinely leads researchers to draw sweeping verbal generalizations that lack any meaningful connection to the statistical quantities they are putatively based on. I argue that the routine failure to consider the generalizability of one's conclusions from a statistical perspective lies at the root of many of psychology's ongoing problems (e.g., the replication crisis), and conclude with a discussion of several potential avenues for improvement.">The Generalizability Crisis</span>
 						</p>
 					</td>
 					<td>
@@ -1564,7 +1564,30 @@ These are one-off unpublished attempts to reproduce individual studies
 							Scientific philosophy
 						</p>
 			</td>
-				</tr>					
+				</tr>
+                                                                        <tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pone.0216125"><span title="Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity">Devezer et al<meta property="datePublished" content="2019-05-15">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Consistent confirmations obtained independently of each other lend credibility to a scientific result. We refer to results satisfying this consistency as reproducible and assume that reproducibility is a desirable property of scientific discovery. Yet seemingly science also progresses despite irreproducible results, indicating that the relationship between reproducibility and other desirable properties of scientific discovery is not well understood. These properties include early discovery of truth, persistence on truth once it is discovered, and time spent on truth in a long-term scientific inquiry. We build a mathematical model of scientific discovery that presents a viable framework to study its desirable properties including reproducibility. In this framework, we assume that scientists adopt a model-centric approach to discover the true model generating data in a stochastic process of scientific discovery. We analyze the properties of this process using Markov chain theory, Monte Carlo methods, and agent-based modeling. We show that the scientific process may not converge to truth even if scientific results are reproducible and that irreproducible results do not necessarily imply untrue results. The proportion of different research strategies represented in the scientific population, scientists’ choice of methodology, the complexity of truth, and the strength of signal contribute to this counter-intuitive finding. Important insights include that innovative research speeds up the discovery of scientific truth by facilitating the exploration of model space and epistemic diversity optimizes across desirable properties of scientific discovery.">Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Statistical reproducibility
+						</p>
+					</td>
+				</tr>
+				<!--theory_placeholder-->
 	</tbody>
 </table>
 
@@ -1605,6 +1628,7 @@ These are one-off unpublished attempts to reproduce individual studies
 			</td>	
 			</td>
 				</tr>
+                                                                        <!--tools_placeholder-->
 				</table>
 
 ## Courses
