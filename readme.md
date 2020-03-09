@@ -1043,7 +1043,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
-						<p><a href="http://www.ic.uff.br/~leomurta/papers/pimentel2019a.pdf"><span title="A Large-scale Study about Quality and
+						<p><a href="https://doi.org/10.1109/MSR.2019.00077"><span title="A Large-scale Study about Quality and
 Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublished" content="2019-05-07">2019</span></a>
 						</p>
 					</td>
