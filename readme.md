@@ -1649,7 +1649,6 @@ and provide solutions with implications for the broader field.">The importance o
 					</td>
 				</tr>
 				<!--theory_placeholder-->
-
 	</tbody>
 </table>
 

@@ -299,8 +299,7 @@ class md:
 						</p>
 					</td>
 				</tr>
-				<!--study_placeholder-->
-""".format(self.link,self.author,self.yyyymmdd,self.yyyy,self.title,self.field,self.approach,self.size))
+				<!--study_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,self.title,self.field,self.approach,self.size))
 
     def theory(self):
         return("""<tr>
@@ -325,8 +324,7 @@ class md:
 						</p>
 					</td>
 				</tr>
-				<!--theory_placeholder-->
-""".format(self.link,self.title,self.author,self.yyyymmdd,self.yyyy,self.abstract,self.title,self.field,self.category))
+				<!--theory_placeholder-->""".format(self.link,self.title,self.author,self.yyyymmdd,self.yyyy,self.abstract,self.title,self.field,self.category))
 
     def tools(self):
         return("""<tr>
@@ -347,8 +345,7 @@ class md:
 						</p>
 					</td>
 				</tr>
-				<!--tools_placeholder-->
-""".format(self.link,self.author,self.yyyymmdd,self.yyyy,self.abstract,self.title,self.tools))
+				<!--tools_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,self.abstract,self.title,self.tools))
 
 if args.doi:
     mymd = md(args)
