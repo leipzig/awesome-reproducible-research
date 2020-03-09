@@ -1620,7 +1620,36 @@ come with minimal barriers.">A Realistic Guide to Making Data Available Alongsid
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2003.00898"><span title="The importance of transparency and reproducibility in artificial
+  intelligence research">Haibe-Kains et al <meta property="datePublished" content="2020-02-28">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="In their study, McKinney et al. showed the high potential of artificial
+intelligence for breast cancer screening. However, the lack of detailed methods
+and computer code undermines its scientific value. We identify obstacles
+hindering transparent and reproducible AI research as faced by McKinney et al
+and provide solutions with implications for the broader field.">The importance of transparency and reproducibility in artificial
+  intelligence research</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Artificial Intelligence
+						</p>
+					</td>
+					<td>
+						<p>
+							Critique
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
+
 	</tbody>
 </table>
 
