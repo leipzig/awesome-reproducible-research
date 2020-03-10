@@ -1821,6 +1821,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - Everything related to the Docker containerization system
 - [Awesome R](https://github.com/qinwf/awesome-R#reproducible-research) - Section on RR tools
+- [Awesome Reproducible R](https://github.com/datasnakes/awesome-reproducible-R) - RRR tools
 - [Awesome Jupyter](https://github.com/adebar/awesome-jupyter) - Jupyter projects, libraries and resources
 - [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) - Benchmarks are a related aspect of robustness testing
 - [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) - Resources, data, tools, and scholarship
