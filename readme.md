@@ -1360,7 +1360,30 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 							41 papers
 						</p>
 					</td>
-				</tr><!--study_placeholder-->
+				</tr><tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pone.0229578">Thelwall et al
+							<meta property="datePublished" content="2020-02-21">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Is useful research data usually shared? An investigation of genome-wide association study summary statistics">Genetics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							1799
+						</p>
+					</td>
+				</tr>
+				<!--study_placeholder-->
 			</tbody>
 		</table>
 

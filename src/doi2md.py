@@ -211,7 +211,7 @@ args = parser.parse_args()
 
 class md:
     def __init__(self, args):
-        works = Works()
+        self.works = Works()
         #print(args.doi)
         if 'arxiv' in args.doi:
             #maybe you prepended it, maybe not
@@ -249,7 +249,7 @@ class md:
             self.author = pub['authors'][0].split(' ')[-1]+' et al'
 
     def crossref(self):
-        pub=works.doi(self.doi)
+        pub=self.works.doi(self.doi)
         if pub is None:
             print("Crossref doesn't know about this doi")
         if pub.get('created') is not None:
