@@ -1826,6 +1826,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) - Benchmarks are a related aspect of robustness testing
 - [Awesome Open Science](https://github.com/ZoranPandovski/awesome-open-science) - Resources, data, tools, and scholarship
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets
+- [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web) - Semantic web and linked data resources.
 
 ## Contribute
 
