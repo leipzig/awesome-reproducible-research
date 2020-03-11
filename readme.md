@@ -1379,7 +1379,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							1799
+							1799 papers
 						</p>
 					</td>
 				</tr>
