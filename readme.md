@@ -1730,6 +1730,7 @@ and provide solutions with implications for the broader field.">The importance o
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
     - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
     - [repo](https://github.com/franapoli/repo) - provenance framework package
+    - [orderly](https://vimc.github.io/orderly/articles/orderly.html) - R package that automates writing reproducible analyses
 
 ## User tools
 - Open With Binder for [Chrome](https://matthiasbussonnier.com/posts/32-open-with-binder-chrome.html) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
@@ -1754,6 +1755,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
 - [Papers With Code](https://paperswithcode.com/) - ML papers with code
 - [NARPS](https://github.com/poldrack/narps) - Code related to Neuroimaging Analysis Replication and Prediction Study
+- [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
 
 ### Haibe-Kains lab reproducible papers
 <table>
@@ -1839,6 +1841,8 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Open Science Framework](https://osf.io) - Open source project management
 - [pyOpenSci](https://www.pyopensci.org/) - Promotes open and reproducible research through peer-review of scientific Python packages
 - [Replication Network](https://replicationnetwork.com/) - Furthering the practice of replication in economics. Econ replication database.
+- [repliCATS project](https://replicats.research.unimelb.edu.au/) - Estimating the replicability of research in the social sciences
+- [ReproHack](https://reprohack.github.io/reprohack-hq/) - 1-day reproducibility hackathons held worldwide
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
