@@ -1700,42 +1700,42 @@ and provide solutions with implications for the broader field.">The importance o
 ## Tool reviews
 <table>
 	<tbody>
-				<tr>
-					<td>
-						<p>
-							Authors/Date
-						</p>
-					</td>
-					<td>
-						<p>
-							Title
-						</p>
-					</td>
-					<td>
-						<p>
-							Tools
-						</p>
-					</td>
-				</tr>
 		<tr>
-					<td>
-						<p>
-							<a href="https://www.researchgate.net/publication/337146640_Out-of-the-box_Reproducibility_A_Survey_of_Machine_Learning_Platforms">Isdahl & Gundersen <meta property="datePublished" content="2019-09-01">2019</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							<span title="Even machine learning experiments that are fully conducted on computers are not necessarily reproducible. An increasing number of open source and commercial, closed source machine learning platforms are being developed that help address this problem. However, there is no standard for assessing and comparing which features are required to fully support repro-ducibility. We propose a quantitative method that alleviates this problem. Based on the proposed method we assess and compare the current state of the art machine learning platforms for how well they support making empirical results reproducible. Our results show that BEAT and Floydhub have the best support for reproducibility with Codalab and Kaggle as close contenders. The most commonly used machine learning platforms provided by the big tech companies have poor support for reproducibility.">Out-of-the-box Reproducibility: A Survey of Machine Learning Platforms</span>
-						</p>
-					<td>
-						<p>
-							MLflow, Polyaxon, StudioML, Kubeflow, CometML, Sagemaker, GCPML, AzureML, Floydhub, BEAT, Codalab, Kaggle
-						</p>
-			</td>	
+			<td>
+				<p>
+					Authors/Date
+				</p>
 			</td>
-				</tr>
-                                                                        <!--tools_placeholder-->
-				</table>
+			<td>
+				<p>
+					Title
+				</p>
+			</td>
+			<td>
+				<p>
+					Tools
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					<a href="https://www.researchgate.net/publication/337146640_Out-of-the-box_Reproducibility_A_Survey_of_Machine_Learning_Platforms">Isdahl & Gundersen <meta property="datePublished" content="2019-09-01">2019</a>
+				</p>
+			</td>
+			<td>
+				<p>
+					<span title="Even machine learning experiments that are fully conducted on computers are not necessarily reproducible. An increasing number of open source and commercial, closed source machine learning platforms are being developed that help address this problem. However, there is no standard for assessing and comparing which features are required to fully support repro-ducibility. We propose a quantitative method that alleviates this problem. Based on the proposed method we assess and compare the current state of the art machine learning platforms for how well they support making empirical results reproducible. Our results show that BEAT and Floydhub have the best support for reproducibility with Codalab and Kaggle as close contenders. The most commonly used machine learning platforms provided by the big tech companies have poor support for reproducibility.">Out-of-the-box Reproducibility: A Survey of Machine Learning Platforms</span>
+				</p>
+			<td>
+				<p>
+					MLflow, Polyaxon, StudioML, Kubeflow, CometML, Sagemaker, GCPML, AzureML, Floydhub, BEAT, Codalab, Kaggle
+				</p>
+			</td>	
+		</tr>
+				<!--tools_placeholder-->
+	</tbody>
+</table>
 
 ## Courses
 - MOOCs
@@ -1884,7 +1884,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Jeremy Leipzig has waived all copyright and
 related or neighboring rights to this work.
