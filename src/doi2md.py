@@ -1,21 +1,12 @@
+#!/usr/bin/env python
+
 from crossref.restful import Works
 import arxiv
 import argparse
 import datetime
 
 
-#python src/doi2md.py --doi 10.1371/journal.pone.0216125 --type theory --field Science --category "Statistical reproducibility"
-#mv readme.new.md readme.md
-#edit as needed
-parser = argparse.ArgumentParser(description='doi and table filler arguments')
-parser.add_argument('--doi',help='the doi of the manuscript e.g. 10.1136/bmj.39590.732037.47')
-parser.add_argument('--type',help='the manuscript type: study, theory, or tools')
-parser.add_argument('--field',help='the study field e.g. Cancer Biology')
-parser.add_argument('--approach',help='the manuscript approach e.g. Refactor')
-parser.add_argument('--size',help='the study size e.g 8 studies')
-parser.add_argument('--tools',help='the tools reviewed e.g. MLflow, Polyaxon')
-parser.add_argument('--category',help='the manuscript theory category e.g. Statistical reproducibility')
-args = parser.parse_args()
+
 
 
 
@@ -347,11 +338,28 @@ class md:
 				</tr>
 				<!--tools_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,self.abstract,self.title,self.tools))
 
-if args.doi:
-    mymd = md(args)
-    if args.type is not None:
-        content=getattr(mymd, args.type)()
-        with open("readme.md") as f:
-            newText=f.read().replace('<!--{}_placeholder-->'.format(args.type), content)
-        with open("readme.new.md", "w") as f:
-            f.write(newText)
+
+if __name__ == '__main__':
+    #python src/doi2md.py --doi 10.1371/journal.pone.0216125 --type theory --field Science --category "Statistical reproducibility"
+    #mv readme.new.md readme.md
+    #edit as needed
+    parser = argparse.ArgumentParser(description='doi and table filler arguments')
+    parser.add_argument('--doi',help='the doi of the manuscript e.g. 10.1136/bmj.39590.732037.47')
+    parser.add_argument('--type',help='the manuscript type: study, theory, or tools')
+    parser.add_argument('--field',help='the study field e.g. Cancer Biology')
+    parser.add_argument('--approach',help='the manuscript approach e.g. Refactor')
+    parser.add_argument('--size',help='the study size e.g 8 studies')
+    parser.add_argument('--tools',help='the tools reviewed e.g. MLflow, Polyaxon')
+    parser.add_argument('--category',help='the manuscript theory category e.g. Statistical reproducibility')
+    args = parser.parse_args()
+    
+    if args.doi:
+        mymd = md(args)
+        if args.type is not None:
+            content=getattr(mymd, args.type)()
+            with open("readme.md") as f:
+                newText=f.read().replace('<!--{}_placeholder-->'.format(args.type), content)
+            with open("readme.new.md", "w") as f:
+                f.write(newText)
+    else:
+        parser.print_usage()

@@ -1671,6 +1671,28 @@ and provide solutions with implications for the broader field.">The importance o
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3000691"><span title="What is replication?">Nosek & Errington <meta property="datePublished" content="2020-03-27">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="None">What is replication?</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Scientific philosophy
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
