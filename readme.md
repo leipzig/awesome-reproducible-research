@@ -1802,6 +1802,24 @@ and provide solutions with implications for the broader field.">The importance o
 				</p>
 			</td>	
 		</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1145/3311955">Pimentel et al
+							<meta property="datePublished" content="2019-06-19">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Scripts are widely used to design and run scientific experiments. Scripting languages are easy to learn and use, and they allow complex tasks to be specified and executed in fewer steps than with traditional programming languages. However, they also have important limitations for reproducibility and data management. As experiments are iteratively refined, it is challenging to reason about each experiment run (or trial), to keep track of the association between trials and experiment instances as well as the differences across trials, and to connect results to specific input data and parameters. Approaches have been proposed that address these limitations by collecting, managing, and analyzing the provenance of scripts. In this article, we survey the state of the art in provenance for scripts. We have identified the approaches by following an exhaustive protocol of forward and backward literature snowballing. Based on a detailed study, we propose a taxonomy and classify the approaches using this taxonomy.">A Survey on Collecting, Managing, and Analyzing Provenance from Scripts</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Astro-Wise, CPL, CXXR, Datatrack, ES3, ESSW, IncPy, Lancet, Magni, noWorkflow, Provenance Curios, pypet, RDataTracker, Sacred, SisGExp, SPADE, StarFlow, Sumatra, Variolite, VCR, versuchung, WISE, YesWorkflow
+						</p>
+					</td>
+				</tr>
 				<!--tools_placeholder-->
 	</tbody>
 </table>
