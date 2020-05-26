@@ -1156,7 +1156,7 @@ Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublish
 				<tr>
 					<td>
 						<p><a href="https://doi.org/10.1016/j.bja.2019.01.012
-"><span title="Hypnotic depth and postoperative death: a Bayesian perspective and an Independent Discussion of a clinical trial">Vlisides et al <meta property="datePublished" content="2019-01-22">2019</span></a><br/><a href="https://doi.org/10.1016/j.bja.2018.12.021"><span title="Depth of sedation as an interventional target to reduce postoperative delirium: mortality and functional outcomes of the Strategy to Reduce the Incidence of Postoperative Delirium in Elderly Patients randomised clinical trial">Sieber et al <meta property="datePublished" content="2019-01-22">2019</span></a>
+"><span title="Hypnotic depth and postoperative death: a Bayesian perspective and an Independent Discussion of a clinical trial">Vlisides et al <meta property="datePublished" content="2019-01-22">2019</span></a><br/><a href="https://doi.org/10.1016/j.bja.2018.12.021"><span title="Depth of sedation as an interventional target to reduce postoperative delirium: mortality and functional outcomes of the Strategy to Reduce the Incidence of Postoperative Delirium in Elderly Patients randomised clinical trial">Sieber et al 2019</span></a>
 						</p>
 					</td>
 					<td>
