@@ -222,6 +222,7 @@ class md:
         self.approach=args.approach
         self.size=args.size
         self.category=args.category
+        self.toolsarg=args.tools
 
     def arxiv(self):
         pub = arxiv.query(id_list=[self.doi])[0]
@@ -259,7 +260,7 @@ class md:
                 #             [2008, 6, 26]
         
         self.title=pub.get('title')[0]
-        self.abstract=pub.get('abstract')
+        self.abstract=pub.get('abstract') or "Abstract"
         
         if len(pub['author'])==1:
             self.author = pub['author'][0]['family']
@@ -338,7 +339,7 @@ class md:
 						</p>
 					</td>
 				</tr>
-				<!--tools_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,html.escape(self.abstract,quote=True),html.escape(self.title,quote=True),self.tools))
+				<!--tools_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,html.escape(self.abstract,quote=True),html.escape(self.title,quote=True),self.toolsarg))
 
 
 if __name__ == '__main__':
