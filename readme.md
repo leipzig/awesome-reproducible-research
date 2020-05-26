@@ -338,6 +338,29 @@ The term "case studies" is used here in a general sense to describe any study of
 				</tr>
 				<tr>
 					<td>
+						<p>
+							<a href="https://doi.org/10.17016/FEDS.2015.083">Chang et al
+							<meta property="datePublished" content="2015-10-05">2015</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Is Economics Research Replicable? Sixty Published Papers from Thirteen Journals Say &quot;Usually Not&quot;">Economics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							67 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
 					<p>
 					<a href="https://doi.org/10.1038/533452a"><span title="1,500 scientists lift the lid on reproducibility">Baker <meta property="datePublished" content="2016-05-26">2016</span></a>
 					</p>
