@@ -4,8 +4,8 @@ from crossref.restful import Works
 import arxiv
 import argparse
 import datetime
-
-
+import pyzenodo3
+import html
 
 
 
@@ -209,6 +209,8 @@ class md:
             self.doi=args.doi.replace('https://arxiv.org/abs/','')
             self.link='https://arxiv.org/abs/'+self.doi
             self.arxiv()
+        elif 'zenodo' in args.doi:
+            self.doi
         else:
             self.doi=args.doi.replace('https://doi.org/','')
             self.link='https://doi.org/'+self.doi
@@ -290,7 +292,7 @@ class md:
 						</p>
 					</td>
 				</tr>
-				<!--study_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,self.title,self.field,self.approach,self.size))
+				<!--study_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,html.escape(self.title,quote=True),self.field,self.approach,self.size))
 
     def theory(self):
         return("""<tr>
@@ -315,7 +317,7 @@ class md:
 						</p>
 					</td>
 				</tr>
-				<!--theory_placeholder-->""".format(self.link,self.title,self.author,self.yyyymmdd,self.yyyy,self.abstract,self.title,self.field,self.category))
+				<!--theory_placeholder-->""".format(self.link,self.title,self.author,self.yyyymmdd,self.yyyy,html.escape(self.abstract,quote=True),html.escape(self.title,quote=True),self.field,self.category))
 
     def tools(self):
         return("""<tr>
@@ -336,7 +338,7 @@ class md:
 						</p>
 					</td>
 				</tr>
-				<!--tools_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,self.abstract,self.title,self.tools))
+				<!--tools_placeholder-->""".format(self.link,self.author,self.yyyymmdd,self.yyyy,html.escape(self.abstract,quote=True),html.escape(self.title,quote=True),self.tools))
 
 
 if __name__ == '__main__':
@@ -351,15 +353,19 @@ if __name__ == '__main__':
     parser.add_argument('--size',help='the study size e.g 8 studies')
     parser.add_argument('--tools',help='the tools reviewed e.g. MLflow, Polyaxon')
     parser.add_argument('--category',help='the manuscript theory category e.g. Statistical reproducibility')
+    parser.add_argument('--output',help='snippet: print just the entry')
     args = parser.parse_args()
     
     if args.doi:
         mymd = md(args)
         if args.type is not None:
             content=getattr(mymd, args.type)()
-            with open("readme.md") as f:
-                newText=f.read().replace('<!--{}_placeholder-->'.format(args.type), content)
-            with open("readme.new.md", "w") as f:
-                f.write(newText)
+            if args.output=='snippet':
+                print("{}".format(content))
+            else:
+                with open("readme.md") as f:
+                    newText=f.read().replace('<!--{}_placeholder-->'.format(args.type), content)
+                with open("readme.new.md", "w") as f:
+                    f.write(newText)
     else:
         parser.print_usage()
