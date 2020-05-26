@@ -913,6 +913,29 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1145/3214239.3214242">Stodden et al
+							<meta property="datePublished" content="2018-06-12">2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Enabling the Verification of Computational Results">Computational physics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							306 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://peerj.com/articles/cs-163/">AlNoamany & Borghi <meta property="datePublished" content="2018-09-17">2018</a>
 						</p>
 					</td>
