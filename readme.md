@@ -1222,7 +1222,7 @@ Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublish
 				<tr>
 					<td>
 						<p><a href="https://arxiv.org/abs/1907.06902v1"><span title="
-Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches">Dacrema et al <meta property="datePublished" content="2019-16-07">2019</span></a>
+Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches">Dacrema et al <meta property="datePublished" content="2019-07-16">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1264,7 +1264,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1101/763730"><span title="Reproducible and Transparent Research Practices in Published Neurology Research">Rauh et al <meta property="datePublished" content="2019-16-09">2019</span></a>
+						<p><a href="https://doi.org/10.1101/763730"><span title="Reproducible and Transparent Research Practices in Published Neurology Research">Rauh et al <meta property="datePublished" content="2019-09-16">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1285,7 +1285,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.31234/osf.io/dkg53"><span title="Failed pre-registered replication of mortality salience effects in traditional and novel measures">Sætrevik & Sjåstad <meta property="datePublished" content="2019-20-09">2019</span></a>
+						<p><a href="https://doi.org/10.31234/osf.io/dkg53"><span title="Failed pre-registered replication of mortality salience effects in traditional and novel measures">Sætrevik & Sjåstad <meta property="datePublished" content="2019-09-20">2019</span></a>
 						</p>
 					</td>
 					<td>
@@ -1327,7 +1327,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1101/843193"><span title="Variability in the analysis of a single neuroimaging dataset by many teams">Botvinik-Nezer et al. <meta property="datePublished" content="2019-15-11">2019</span></a>
+						<p><a href="https://doi.org/10.1101/843193"><span title="Variability in the analysis of a single neuroimaging dataset by many teams">Botvinik-Nezer et al. <meta property="datePublished" content="2019-11-15">2019</span></a>
 						</p>
 					</td>
 					<td>
