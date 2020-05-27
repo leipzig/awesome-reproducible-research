@@ -31,7 +31,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							Study <meta property="datePublished" content="0000-00-00">
+							Study <meta property="embeddedDate">
 						</p>
 					</td>
 					<td>
