@@ -1975,6 +1975,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [Replication Network](https://replicationnetwork.com/) - Furthering the practice of replication in economics. Econ replication database.
 - [repliCATS project](https://replicats.research.unimelb.edu.au/) - Estimating the replicability of research in the social sciences
 - [ReproHack](https://reprohack.github.io/reprohack-hq/) - 1-day reproducibility hackathons held worldwide
+- [CODECHECK](https://codecheck.org.uk/) - community for checking executability of scientific preprints and papers
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
