@@ -1003,6 +1003,29 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.7717/peerj.5072">Nüst et al
+							<meta property="datePublished" content="2018-07-13">2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducible research and GIScience: an evaluation using AGILE conference papers">GIScience/Geoinformatics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census, Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							32 papers, 22 participants
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1038/sdata.2019.30">Stagge et al <meta property="datePublished" content="2019-02-26">2019</a>
 						</p>
 					</td>
