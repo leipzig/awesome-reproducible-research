@@ -1843,6 +1843,25 @@ and provide solutions with implications for the broader field.">The importance o
 						</p>
 					</td>
 				</tr>
+                                    		</tr>
+                                    				<tr>
+                                    					<td>
+                                    						<p>
+                                    							<a href="https://https://arxiv.org/abs/2006.08589">Leipzig et al
+                                    							<meta property="datePublished" content="2020-06-15">2019</a> (<a href="https://github.com/leipzig/metadata-in-rcr">supplemental</a>)
+                                    						</p>
+                                    					</td>
+                                    					<td>
+                                    						<p>
+                                    							<span title="Reproducible computational research (RCR) is the keystone of the scientific method for in silico analyses, packaging the transformation of raw data to published results. In addition to its role in research integrity, RCR has the capacity to significantly accelerate evaluation and reuse. This potential and wide-support for the FAIR principles have motivated interest in metadata standards supporting RCR. Metadata provides context and provenance to raw data and methods and is essential to both discovery and validation. Despite this shared connection with scientific data, few studies have explicitly described the relationship between metadata and RCR. This article employs a functional content analysis to identify metadata standards that support RCR functions across an analytic stack consisting of input data, tools, notebooks, pipelines, and publications. Our article provides background context, explores gaps, and discovers component trends of embeddedness and methodology weight from which we derive recommendations for future work.">The role of metadata in reproducible computational research</span>
+                                    						</p>
+                                    					</td>
+                                    					<td>
+                                    						<p>
+                                    							CellML, CIF2, DATS, DICOM, EML, FAANG, GBIF, GO, ISO/TC 276, MIAME, NetCDF, OGC, ThermoML, CRAN, Conda, pip setup.cfg, EDAM, CodeMeta, Biotoolsxsd, DOAP, ontosoft, SWO, OBCS, STATO, SDMX, DDI, MEX, MLSchema, MLFlow, Rmd, CWL, CWLProv, RO-Crate, RO, WICUS, OPM, PROV-O, ReproZip, ProvOne, WES, BagIt, BCO, ERC, BEL, DC, JATS, ONIX, MeSH, LCSH, MP, Open PHACTS, SWAN, SPAR, PWO, PAV, Manubot, ReScience, PandocScholar
+                                    						</p>
+                                    					</td>
+                                    				</tr>
 				<!--tools_placeholder-->
 	</tbody>
 </table>
