@@ -1870,7 +1870,7 @@ and provide solutions with implications for the broader field.">The importance o
                                     				<tr>
                                     					<td>
                                     						<p>
-                                    							<a href="https://https://arxiv.org/abs/2006.08589">Leipzig et al
+                                    							<a href="https://arxiv.org/abs/2006.08589">Leipzig et al
                                     							<meta property="datePublished" content="2020-06-15">2019</a> (<a href="https://github.com/leipzig/metadata-in-rcr">supplemental</a>)
                                     						</p>
                                     					</td>
