@@ -4,7 +4,6 @@ from crossref.restful import Works
 import arxiv
 import argparse
 import datetime
-import pyzenodo3
 import html
 import requests
 import re
