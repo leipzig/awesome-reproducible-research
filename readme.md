@@ -1413,6 +1413,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				</tr>
 				<tr>
 					<td>
+						<p>
+							<a href="https://doi.org/10.1001/jamaoncol.2019.2564">Wayant et al
+							<meta property="datePublished" content="2019-09-05">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Evaluation of Reproducible Research Practices in Oncology Systematic Reviews With Meta-analyses Referenced by National Comprehensive Cancer Network Guidelines">Oncology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							154 meta-analyses
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
 						<p><a href="https://doi.org/10.1101/2020.01.30.924092"><span title="Factorial study of the RNA-seq computational workflow identifies biases as technical gene signatures">Simoneau et al. <meta property="datePublished" content="2020-01-30">2020</span></a>
 						</p>
 					</td>
