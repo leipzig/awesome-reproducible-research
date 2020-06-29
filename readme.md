@@ -1831,6 +1831,28 @@ and provide solutions with implications for the broader field.">The importance o
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.20944/preprints202006.0002.v1"><span title="Realistic and Robust Reproducible Research for Biostatistics">Hejblum et al <meta property="datePublished" content="2020-06-03">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;The complexity of analysis pipelines in biomedical sciences poses a severe challenge for the transparency and reproducibility of results. Researchers are increasingly incorporating software development technologies and methods into their analyses, but this is a quickly evolving landscape and teams may lack the capabilities to set up their own complex IT infrastructure to aid reproducibility. Basing a reproducible research strategy on readily available solutions with zero or low set-up costs whilst maintaining technological flexibility to incorporate domain-specific software tools is therefore of key importance. We outline a practical approach for robust reproducibility of analysis results. In our examples, we rely exclusively on established open-source tools and free services. Special emphasis is put on the integration of these tools with best practices from software development and free online services for the biostatistics domain.&lt;/jats:p&gt;">Realistic and Robust Reproducible Research for Biostatistics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biostatistics
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
