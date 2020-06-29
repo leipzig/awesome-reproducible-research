@@ -1853,6 +1853,28 @@ and provide solutions with implications for the broader field.">The importance o
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1038/s41597-020-0524-5"><span title="COVID-19 pandemic reveals the peril of ignoring metadata standards">Schriml et al <meta property="datePublished" content="2020-06-19">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Abstract">COVID-19 pandemic reveals the peril of ignoring metadata standards</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Virology
+						</p>
+					</td>
+					<td>
+						<p>
+							Critique
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
