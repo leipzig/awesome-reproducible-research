@@ -1984,6 +1984,8 @@ and provide solutions with implications for the broader field.">The importance o
     - [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) - Software Carpentry workshop primer using Gapminder data
     - [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/syllabus.html) - Student-developed computer literacy and data course in R
     - [AMIA2019](https://github.com/StatTag/amia-2019-spring-rr/) - Pragmatic RR for Analysis, Dissemination and Publication
+    - [PSU-PSY525](https://github.com/psu-psychology/psy-525-reproducible-research-2020) - Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences
+    - [OSU-OSRR](https://github.com/cbahlai/OSRR_course) - An open science and reproducible research course targeted at organismal ecologists
 
 ## Development Resources
 - R
