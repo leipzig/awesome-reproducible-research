@@ -1984,6 +1984,9 @@ and provide solutions with implications for the broader field.">The importance o
 - [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
 - [The Turing Way: A Handbook for Reproducible Data Science 2020](https://the-turing-way.netlify.com/introduction/introduction)
 
+## Databases
+- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.
+
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
 - [DataCite](https://datacite.org) - 12M+ DOIs registered for 46 allocators. Offers APIs and a metadata schema.
@@ -2069,7 +2072,6 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 ## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
-- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Replication in the social sciences, particularly economics
 
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
