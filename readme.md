@@ -1875,6 +1875,41 @@ and provide solutions with implications for the broader field.">The importance o
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2007.08708"><span title="Principles for data analysis workflows">Stoudt et al <meta property="datePublished" content="2020-07-17">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Traditional data science education often omits training on research
+workflows: the process that moves a scientific investigation from raw data to
+coherent research question to insightful contribution. In this paper, we
+elaborate basic principles of a reproducible data analysis workflow by defining
+three phases: the Exploratory, Refinement, and Polishing Phases. Each workflow
+phase is roughly centered around the audience to whom research decisions,
+methodologies, and results are being immediately communicated. Importantly,
+each phase can also give rise to a number of research products beyond
+traditional academic publications. Where relevant, we draw analogies between
+principles for data-intensive research workflows and established practice in
+software development. The guidance provided here is not intended to be a strict
+rulebook; rather, the suggestions for practices and tools to advance
+reproducible, sound data-intensive analysis may furnish support for both
+students and current professionals.">Principles for data analysis workflows</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Data science
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
