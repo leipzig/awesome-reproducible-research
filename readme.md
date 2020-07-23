@@ -628,7 +628,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17248">Kjensmo &amp; Gundersen <meta property="datePublished" content="2018-04-25">2018</a>
+							<a href="https://www.researchgate.net/publication/326450530_State_of_the_Art_Reproducibility_in_Artificial_Intelligence">Kjensmo &amp; Gundersen <meta property="datePublished" content="2018-04-25">2018</a>
 						</p>
 					</td>
 					<td>
