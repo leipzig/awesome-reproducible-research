@@ -17,6 +17,7 @@
 - [Development Resources](#development-resources)
 - [User tools](#user-tools)
 - [Books](#books)
+- [Databases](#databases)
 - [Data Repositories](#data-repositories)
 - [Examples and exemplars](#examples-and-exemplars)
 - [Journals](#journals)
@@ -1987,6 +1988,24 @@ students and current professionals.">Principles for data analysis workflows</spa
                                     						</p>
                                     					</td>
                                     				</tr>
+								                                    				<tr>
+                                    					<td>
+                                    						<p>
+                                    							<a href="https://doi.org/10.1186/s41073-020-00095-y">Konkol, Markus, Nüst, Daniel, Goulier, Laura
+                                    							<meta property="datePublished" content="2020-06-15">2020</a> 
+                                    						</p>
+                                    					</td>
+                                    					<td>
+                                    						<p>
+                                    							<span title="The trend toward open science increases the pressure on authors to provide access to the source code and data they used to compute the results reported in their scientific papers. Since sharing materials reproducibly is challenging, several projects have developed solutions to support the release of executable analyses alongside articles. We reviewed 11 applications that can assist researchers in adhering to reproducibility principles. The applications were found through a literature search and interactions with the reproducible research community. An application was included in our analysis if it (i) was actively maintained at the time the data for this paper was collected, (ii) supports the publication of executable code and data, (iii) is connected to the scholarly publication process. By investigating the software documentation and published articles, we compared the applications across 19 criteria, such as deployment options and features that support authors in creating and readers in studying executable papers. From the 11 applications, eight allow publishers to self-host the system for free, whereas three provide paid services. Authors can submit an executable analysis using Jupyter Notebooks or R Markdown documents (10 applications support these formats). All approaches provide features to assist readers in studying the materials, e.g., one-click reproducible results or tools for manipulating the analysis parameters. Six applications allow for modifying materials after publication.">Publishing computational research - a review of infrastructures for reproducible and transparent scholarly communication</span>
+                                    						</p>
+                                    					</td>
+                                    					<td>
+                                    						<p>
+                                    							Authorea, Binder, CodeOcean, eLife RDS, Galaxy Project, Gigantum, Manuscript, o2r, REANA, ReproZip, Whole tale
+                                    						</p>
+                                    					</td>
+                                    				</tr>
 				<!--tools_placeholder-->
 	</tbody>
 </table>
@@ -2000,6 +2019,8 @@ students and current professionals.">Principles for data analysis workflows</spa
     - [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) - Software Carpentry workshop primer using Gapminder data
     - [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/syllabus.html) - Student-developed computer literacy and data course in R
     - [AMIA2019](https://github.com/StatTag/amia-2019-spring-rr/) - Pragmatic RR for Analysis, Dissemination and Publication
+    - [PSU-PSY525](https://github.com/psu-psychology/psy-525-reproducible-research-2020) - Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences
+    - [OSU-OSRR](https://github.com/cbahlai/OSRR_course) - An open science and reproducible research course targeted at organismal ecologists
 
 ## Development Resources
 - R
@@ -2018,6 +2039,9 @@ students and current professionals.">Principles for data analysis workflows</spa
 - [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7) - 31 first person case narratives and intro chapters
 - [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
 - [The Turing Way: A Handbook for Reproducible Data Science 2020](https://the-turing-way.netlify.com/introduction/introduction)
+
+## Databases
+- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
@@ -2104,7 +2128,6 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 ## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
-- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Replication in the social sciences, particularly economics
 
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
