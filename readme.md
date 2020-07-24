@@ -1522,6 +1522,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1101/2020.05.11.088021">Riedel et al
+							<meta property="datePublished" content="2020-05-13">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="ODDPub – a Text-Mining Algorithm to Detect Data Sharing in Biomedical Publications">Biomedical science</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							792 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
