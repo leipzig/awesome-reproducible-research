@@ -1669,6 +1669,28 @@ These are one-off unpublished attempts to reproduce individual studies
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.1002165"><span title="The Economics of Reproducibility in Preclinical Research">Freedman et al <meta property="datePublished" content="2015-06-09">2015</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Abstract">The Economics of Reproducibility in Preclinical Research</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Preclinical research
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.31234/osf.io/jqw35">Yarkoni <meta property="datePublished" content="2019-11-21">2019</a>
 						</p>
 					</td>
