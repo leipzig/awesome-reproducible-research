@@ -2077,6 +2077,8 @@ students and current professionals.">Principles for data analysis workflows</spa
 ## User tools
 - Open With Binder for [Chrome](https://matthiasbussonnier.com/posts/32-open-with-binder-chrome.html) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
 - [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
+- [SciScore](https://www.sciscore.com/) - SciScore methods sections for a variety of rigor criteria and analyzes sentences that contain research resources (antibodies, cell lines, plasmids and software tools) and determines how uniquely identifiable that resource is based off of the provided metadata.
+- [Ripeta](https://www.ripeta.com/) - Ripeta quickly scans research manuscripts or articles to identify and record key reproducibility variables, such as data availability, code acknowledgements, and research analysis methods.
 
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
