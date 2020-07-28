@@ -1956,6 +1956,48 @@ students and current professionals.">Principles for data analysis workflows</spa
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2007.12210"><span title="Reproducible Research: A Retrospective">Peng et al <meta property="datePublished" content="2020-07-23">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Rapid advances in computing technology over the past few decades have spurred
+two extraordinary phenomena in science: large-scale and high-throughput data
+collection coupled with the creation and implementation of complex statistical
+algorithms for data analysis. Together, these two phenomena have brought about
+tremendous advances in scientific discovery but have also raised two serious
+concerns, one relatively new and one quite familiar. The complexity of modern
+data analyses raises questions about the reproducibility of the analyses,
+meaning the ability of independent analysts to re-create the results claimed by
+the original authors using the original data and analysis techniques. While
+seemingly a straightforward concept, reproducibility of analyses is typically
+thwarted by the lack of availability of the data and computer code that were
+used in the analyses. A much more general concern is the replicability of
+scientific findings, which concerns the frequency with which scientific claims
+are confirmed by completely independent investigations. While the concepts of
+reproduciblity and replicability are related, it is worth noting that they are
+focused on quite different goals and address different aspects of scientific
+progress. In this review, we will discuss the origins of reproducible research,
+characterize the current status of reproduciblity in public health research,
+and connect reproduciblity to current concerns about replicability of
+scientific findings. Finally, we describe a path forward for improving both the
+reproducibility and replicability of public health research in the future.">Reproducible Research: A Retrospective</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Public health
+						</p>
+					</td>
+					<td>
+						<p>
+							Review
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
