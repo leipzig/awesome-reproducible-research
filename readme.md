@@ -1959,7 +1959,7 @@ students and current professionals.">Principles for data analysis workflows</spa
 				<tr>
 					<td>
 						<p>
-							<a href="https://arxiv.org/abs/2007.12210"><span title="Reproducible Research: A Retrospective">Peng et al <meta property="datePublished" content="2020-07-23">2020</span></a>
+							<a href="https://arxiv.org/abs/2007.12210"><span title="Reproducible Research: A Retrospective">Peng & Hicks <meta property="datePublished" content="2020-07-23">2020</span></a>
 						</p>
 					</td>
 					<td>
