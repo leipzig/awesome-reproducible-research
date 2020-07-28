@@ -81,8 +81,8 @@ The term "case studies" is used here in a general sense to describe any study of
 	<p>
 		<div class="progress">
   <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="51" aria-valuemin="0" aria-valuemax="100">51%</div>
-</div><meta property="result" content="Elements of the intervention were missing in 41 of 80 of the published descriptions"/>
-						
+</div>
+						<meta property="result" content="Elements of the intervention were missing in 41 of 80 of the published descriptions"/>
 						</p>
 					</td>
 				</tr>
