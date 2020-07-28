@@ -50,6 +50,11 @@ The term "case studies" is used here in a general sense to describe any study of
 							Size
 						</p>
 					</td>
+					<td>
+						<p>
+							Result
+						</p>
+					</td>
 				</tr>
 				<tr>
 					<td>
@@ -72,6 +77,13 @@ The term "case studies" is used here in a general sense to describe any study of
 							80 studies
 						</p>
 					</td>
+					<td>
+	<p>
+		<div class="progress">
+  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="51" aria-valuemin="0" aria-valuemax="100"><meta property="result" content="Elements of the intervention were missing in 41 of 80 of the published descriptions"/>51%</div>
+</div>
+						
+						</p>
 				</tr>
 				<tr>
 					<td>
