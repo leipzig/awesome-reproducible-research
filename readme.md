@@ -1545,6 +1545,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3000763">Culina et al
+							<meta property="datePublished" content="2020-07-28">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Low availability of code in ecology: A call for urgent action">Ecology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							346 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
