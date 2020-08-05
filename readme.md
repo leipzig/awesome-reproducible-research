@@ -2130,6 +2130,7 @@ reproducibility and replicability of public health research in the future.">Repr
     - [R-DAVIS](https://gge-ucd.github.io/R-DAVIS/syllabus.html) - Student-developed computer literacy and data course in R
     - [AMIA2019](https://github.com/StatTag/amia-2019-spring-rr/) - Pragmatic RR for Analysis, Dissemination and Publication
     - [PSU-PSY525](https://github.com/psu-psychology/psy-525-reproducible-research-2020) - Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences
+    - [Monash-RRR](https://monashdatafluency.github.io/r-rep-res/) - Reproducible Research in R workshop tutorial
     - [OSU-OSRR](https://github.com/cbahlai/OSRR_course) - An open science and reproducible research course targeted at organismal ecologists
 
 ## Development Resources
