@@ -2021,6 +2021,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1101/2020.06.30.178673"><span title="Streamlining Data-Intensive Biology With Workflow Systems">Reiter et al <meta property="datePublished" content="2020-07-02">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;As the scale of biological data generation has increased, the bottleneck of research has shifted from data generation to analysis. Researchers commonly need to build computational workflows that include multiple analytic tools and require incremental development as experimental insights demand tool and parameter modifications. These workflows can produce hundreds to thousands of intermediate files and results that must be integrated for biological insight. The maturation of data-centric workflow systems that internally manage computational resources, software, and conditional execution of analysis steps are reshaping the landscape of biological data analysis, and empowering researchers to conduct reproducible analyses at scale. Adoption of these tools can facilitate and expedite robust data analysis, but knowledge of these techniques is still lacking. Here, we provide a series of practices and strategies for leveraging workflow systems with structured project, data, and resource management to streamline large-scale biological analysis.&lt;/jats:p&gt;&lt;jats:sec&gt;&lt;jats:title&gt;Author Summary&lt;/jats:title&gt;&lt;jats:p&gt;We present a guide for workflow-enabled biological sequence data analysis, developed through our own teaching, training and analysis projects. We recognize that this is based on our own use cases and experiences, but we hope that our guide will contribute to a larger discussion within the open source and open science communities and lead to more comprehensive resources. Our main goal is to accelerate the research of scientists conducting sequence analyses by introducing them to organized workflow practices that not only benefit their own research but also facilitate open and reproducible science.&lt;/jats:p&gt;&lt;/jats:sec&gt;">Streamlining Data-Intensive Biology With Workflow Systems</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biology
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
