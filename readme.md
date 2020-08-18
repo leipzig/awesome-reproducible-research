@@ -1568,6 +1568,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2008.05414">Clementi & Barba
+							<meta property="datePublished" content="2020-08-12">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducible Validation and Replication Studies in Nanoscale Physics">Physics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							2 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
