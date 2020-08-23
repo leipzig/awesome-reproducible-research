@@ -1923,6 +1923,28 @@ and provide solutions with implications for the broader field.">The importance o
 						</p>
 					</td>
 				</tr>
+								<tr>
+					<td>
+						<p>
+							<a href="https://ecoevorxiv.org/h5r6n/"><span title="A Beginner’s Guide to Conducting Reproducible Research">Alston & Rick <meta property="datePublished" content="2020-05-03">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducible research is widely acknowledged as an important tool for improving science and reducing harm from the \"replication crisis\", yet research in most fields within biology remains largely irreproducible. In this article, we make the case for why all research should be reproducible, explain why research is often not reproducible, and offer a simple framework that researchers can use to make their research more reproducible. Researchers can increase the reproducibility of their work by improving data management practices, writing more readable code, and increasing use of the many available platforms for sharing data and code. While reproducible research is often associated with a set of advanced tools for sharing data and code, reproducibility is just as much about maintaining work habits that are already widely acknowledged as best practices for research. Increasing reproducibility will increase rigor, trustworthiness, and transparency while benefiting both practitioners of reproducible research and their fellow researchers.">A Beginner’s Guide to Conducting Reproducible Research</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Ecology
+						</p>
+					</td>
+					<td>
+						<p>
+							Best Practices
+						</p>
+					</td>
+				</tr>
 				<tr>
 					<td>
 						<p>
