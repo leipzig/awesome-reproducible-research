@@ -1591,6 +1591,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1016/j.fertnstert.2020.05.020">Kemper et al
+							<meta property="datePublished" content="2020-08-06">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducible research practices and transparency in reproductive endocrinology and infertility articles">Reproductive endocrinology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							222 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
