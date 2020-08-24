@@ -2331,6 +2331,7 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 
 ## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
+- [eLife](https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results) - Executable Research Articles (ERA) inline executable blocks
 
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
