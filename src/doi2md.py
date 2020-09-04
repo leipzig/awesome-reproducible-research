@@ -383,12 +383,13 @@ if __name__ == '__main__':
     if args.doi:
         mymd = md(args)
         if args.type is not None:
-            content=getattr(mymd, str(args.type).lower())()
+            entrytype=str(args.type).lower()
+            content=getattr(mymd, entrytype)()
             if args.output=='snippet':
                 print("{}".format(content))
             else:
                 with open("readme.md") as f:
-                    newText=f.read().replace('<!--{}_placeholder-->'.format(args.type), content)
+                    newText=f.read().replace('<!--{}_placeholder-->'.format(entrytype), content)
                 with open("readme.new.md", "w") as f:
                     f.write(newText)
     else:

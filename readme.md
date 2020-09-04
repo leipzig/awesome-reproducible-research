@@ -1614,6 +1614,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.7554/eLife.55133">Marqués et al
+							<meta property="datePublished" content="2020-08-11">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Imaging methods are vastly underreported in biomedical research">Biomedical sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							240 articles
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
