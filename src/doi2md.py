@@ -383,7 +383,7 @@ if __name__ == '__main__':
     if args.doi:
         mymd = md(args)
         if args.type is not None:
-            content=getattr(mymd, args.type)()
+            content=getattr(mymd, str(args.type).lower())()
             if args.output=='snippet':
                 print("{}".format(content))
             else:
