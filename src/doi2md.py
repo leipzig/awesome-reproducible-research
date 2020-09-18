@@ -7,6 +7,7 @@ import datetime
 import html
 import requests
 import re
+import sys
 from requests.exceptions import HTTPError
 
 
@@ -231,6 +232,7 @@ class md:
         pub = arxiv.query(id_list=[self.doi])[0]
         if pub is None:
             print("Arxiv doesn't know about this doi")
+            sys.exit(0)
         if pub.get('updated') is not None:
             date_time_str=pub.get('updated')
             date_time_obj = datetime.datetime.strptime(date_time_str,"%Y-%m-%dT%H:%M:%SZ")
@@ -249,6 +251,7 @@ class md:
         pub=self.works.doi(self.doi)
         if pub is None:
             print("Crossref doesn't know about this doi")
+            sys.exit(0)
         if pub.get('created') is not None:
             if pub.get('created').get('date-time') is not None:
                 date_time_str=pub.get('created').get('date-time')
