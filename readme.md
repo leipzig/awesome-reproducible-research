@@ -1637,6 +1637,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1016/j.envsoft.2020.104873">Janssen et al
+							<meta property="datePublished" content="2020-09-16">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="On code sharing and model documentation of published individual and agent-based models">Environmental Modelling</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							7500 articles
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
