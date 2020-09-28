@@ -2157,6 +2157,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.7554/eLife.58237"><span title="Meta Research: Questionable research practices may have little effect on replicability">Ulrich & Miller <meta property="datePublished" content="2020-09-15">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;This article examines why many studies fail to replicate statistically significant published results. We address this issue within a general statistical framework that also allows us to include various questionable research practices (QRPs) that are thought to reduce replicability. The analyses indicate that the base rate of true effects is the major factor that determines the replication rate of scientific results. Specifically, for purely statistical reasons, replicability is low in research domains where true effects are rare (e.g., search for effective drugs in pharmacology). This point is under-appreciated in current scientific and media discussions of replicability, which often attribute poor replicability mainly to QRPs.&lt;/jats:p&gt;">Meta Research: Questionable research practices may have little effect on replicability</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Statistical reproducibility
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
