@@ -687,7 +687,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					</td>
 					<td>
 						<p>
-							204 articles, 180 authors
+							204 papers, 180 authors
 						</p>
 					</td>
 				</tr>
@@ -1633,7 +1633,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							240 articles
+							240 papers
 						</p>
 					</td>
 				</tr>
@@ -1656,7 +1656,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							7500 articles
+							7500 papers
 						</p>
 					</td>
 				</tr>
