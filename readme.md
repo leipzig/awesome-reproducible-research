@@ -2062,6 +2062,28 @@ and provide solutions with implications for the broader field.">The importance o
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1007/s13222-019-00317-8"><span title="A Link is doi.org/10.1007/s13222-019-00317-8 – Reproducibility of Data">Pawlik et al <meta property="datePublished" content="2019-06-13">2019</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Abstract">A Link is not Enough – Reproducibility of Data</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Databases
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1038/s41597-020-0524-5"><span title="COVID-19 pandemic reveals the peril of ignoring metadata standards">Schriml et al <meta property="datePublished" content="2020-06-19">2020</span></a>
 						</p>
 					</td>
