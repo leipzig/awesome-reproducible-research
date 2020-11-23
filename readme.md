@@ -1683,6 +1683,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.31223/x5zk5v">Ostermann et al
+							<meta property="datePublished" content="2020-10-29">2020</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducible Research and GIScience: an evaluation using GIScience conference papers">GIS</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							75 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
