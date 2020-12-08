@@ -2247,6 +2247,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3000999"><span title="We need to keep a reproducible trace of facts, predictions, and hypotheses from gene to function in the era of big data">Kasif & Roberts <meta property="datePublished" content="2020-11-30">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;How do we scale biological science to the demand of next generation biology and medicine to keep track of the facts, predictions, and hypotheses? These days, enormous amounts of DNA sequence and other omics data are generated. Since these data contain the blueprint for life, it is imperative that we interpret it accurately. The abundance of DNA is only one part of the challenge. Artificial Intelligence (AI) and network methods routinely build on large screens, single cell technologies, proteomics, and other modalities to infer or predict biological functions and phenotypes associated with proteins, pathways, and organisms. As a first step, how do we systematically trace the provenance of knowledge from experimental ground truth to gene function predictions and annotations? Here, we review the main challenges in tracking the evolution of biological knowledge and propose several specific solutions to provenance and computational tracing of evidence in functional linkage networks.&lt;/jats:p&gt;">We need to keep a reproducible trace of facts, predictions, and hypotheses from gene to function in the era of big data</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Functional genomics
+						</p>
+					</td>
+					<td>
+						<p>
+							Critique
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
