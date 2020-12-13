@@ -2,7 +2,7 @@
 
 
 <meta property="og:image" content="https://github.com/leipzig/awesome-reproducible-research/blob/master/rrlogo2.png?raw=true"/>
-<img src="https://github.com/leipzig/awesome-reproducible-research/blob/master/rrlogo2.png?raw=true" align="right" width="200">
+<img src="https://github.com/leipzig/awesome-reproducible-research/blob/master/rrlogo2tr.png?raw=true" align="right" width="200">
 
 > A curated list of reproducible research case studies, projects, tutorials, and media
 
