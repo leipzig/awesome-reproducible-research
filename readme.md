@@ -1706,6 +1706,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1101/581033">Samota & Davey
+							<meta property="datePublished" content="2019-03-20">2019</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Knowledge and attitudes among life scientists towards reproducibility within journal articles: a research survey">Life sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							251 researchers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
