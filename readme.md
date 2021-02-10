@@ -252,7 +252,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://reproducibility.cs.arizona.edu/tr.pdf">Collberg et al <meta property="datePublished" content="2014-03-21">2014</a><br/><a href="https://sci-hub.tw/10.1145/2812803">Collberg &amp; Proebsting 2016</a>
+							<a href="http://reproducibility.cs.arizona.edu/tr.pdf">Collberg et al <meta property="datePublished" content="2014-03-21">2014</a><br/><a href="https://sci-hub.se/10.1145/2812803">Collberg &amp; Proebsting 2016</a>
 						</p>
 					</td>
 					<td>
@@ -474,7 +474,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-						<a href="https://www.practicereproducibleresearch.org/">Kitzes et al <meta property="datePublished" content="2017-10-17">2017</a>
+						<a href="http://www.practicereproducibleresearch.org/">Kitzes et al <meta property="datePublished" content="2017-10-17">2017</a>
 						</p>
 					</td>
 					<td>
