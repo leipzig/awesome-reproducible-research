@@ -2509,7 +2509,43 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
     </tr>
 </table>
 
-
+### Patcher lab reproducible papers
+<table>
+    <tr>
+        <th>
+            Publication
+        </th>
+        <th>
+            Github link
+        </th>
+    </tr>
+    <tr>
+        <th>
+            Publication
+        </th>
+        <th>
+            Github link
+        </th>
+    </tr>
+    <tr>
+                                    <td><a href="https://doi.org/10.1101/2021.01.22.427844">Chari et al 2021. Whole Animal Multiplexed Single-Cell RNA-Seq Reveals Plasticity of Clytia Medusa Cell Types</a>
+                                    </td>
+                                    <td>
+                                                                    <a href="https://github.com/pachterlab/CWGFLHGCCHAP_2021">CWGFLHGCCHAP_2021</a>
+                                    </td>
+    </tr>
+    <tr>
+                                    <td><a href="https://www.nature.com/articles/nmeth.4324">Pimental et al 2017. Differential analysis of RNA-seq incorporating quantification uncertainty</a></td>
+                                    <td><a href="https://github.com/pachterlab/sleuth_paper_analysis">sleuth_paper_analysis</a></td>
+</tr>
+<tr>
+                                <td><a href="https://www.biorxiv.org/content/10.1101/673285v1">Melsted et al 2019. Modular and efficient pre-processing of single-cell RNA-seq</a></td>
+                                    <td><a href="https://github.com/pachterlab/MBGBLHGP_2019">MBGBLHGP_2019</a></td>
+</tr>
+</table>
+                                                                    
+    
+    
 ## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
 - [eLife](https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results) - Executable Research Articles (ERA) inline executable blocks
