@@ -2539,8 +2539,6 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
                                                                 <td>
                                                                                                 <a href="https://doi.org/10.1101/2021.01.22.427844">Chari et al 2021. Whole Animal Multiplexed Single-Cell RNA-Seq Reveals Plasticity of Clytia Medusa Cell Types</a>
                                                                 </td>
-                                </tr>
-                                <tr>
                                                                 <td>
                                                                                                 <a href="https://github.com/pachterlab/CWGFLHGCCHAP_2021">CWGFLHGCCHAP_2021</a>
                                                                 </td>
