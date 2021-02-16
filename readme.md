@@ -1777,6 +1777,19 @@ These are one-off unpublished attempts to reproduce individual studies
 						</p>
 					</td>
 				</tr>
+								<tr>
+					<td>
+						<p>
+							https://github.com/leipzig/placenta
+						</p>
+					</td>
+					<td>
+						<p>
+							Leiby et al "Lack of detection of a human placenta microbiome in samples from preterm and term deliveries"
+https://doi.org/10.1186/s40168-018-0575-4
+						</p>
+					</td>
+				</tr>
 				</tbody>
 		</table>
 			
