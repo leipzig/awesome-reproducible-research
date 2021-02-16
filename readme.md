@@ -2332,7 +2332,7 @@ reproducibility and replicability of public health research in the future.">Repr
 		<tr>
 			<td>
 				<p>
-					<a href="https://www.researchgate.net/publication/337146640_Out-of-the-box_Reproducibility_A_Survey_of_Machine_Learning_Platforms">Isdahl & Gundersen <meta property="datePublished" content="2019-09-01">2019</a>
+					<a href="http://doi.org/10.1109/eScience.2019.00017">Isdahl & Gundersen <meta property="datePublished" content="2019-09-01">2019</a>
 				</p>
 			</td>
 			<td>
