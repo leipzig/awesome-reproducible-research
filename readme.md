@@ -2558,8 +2558,17 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
                                 </tr>
 </table>
 
-                                                                    
-    
+### Siepel lab reproducible papers
+<table>
+                                    <tr>
+                                                                <td>
+                                                                                                <a href="https://doi.org/10.1186/s12915-021-00949-x">Blumberg et al 2021. Characterizing RNA stability genome-wide through combined analysis of PRO-seq and RNA-seq data</a>
+                                                                </td>
+                                                                <td>
+                                                                                                <a href="https://codeocean.com/capsule/7351682">https://codeocean.com/capsule/7351682</a>
+                                                                </td>
+                                </tr>
+</table>
     
 ## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
