@@ -2460,7 +2460,7 @@ Places to find papers with code or portals to host them
 
 ## Runnable Papers
 Papers that have associated notebooks
-### Haibe-Kains lab reproducible papers
+### Haibe-Kains lab
 <table>
     <tr>
         <th>
@@ -2528,7 +2528,7 @@ Papers that have associated notebooks
     </tr>
 </table>
 
-### Patcher lab reproducible papers
+### Patcher lab
 <table>
                                 <tr>
                                                                 <th>
@@ -2564,7 +2564,7 @@ Papers that have associated notebooks
                                 </tr>
 </table>
 
-### Siepel lab reproducible papers
+### Siepel lab
 <table>
                                     <tr>
                                                                 <td>
