@@ -19,7 +19,8 @@
 - [Books](#books)
 - [Databases](#databases)
 - [Data Repositories](#data-repositories)
-- [Examples and exemplars](#examples-and-exemplars)
+- [Exemplar Portals](#exemplar-portals)
+- [Runnable Papers](#runnable-papers)
 - [Journals](#journals)
 - [Ontologies](#ontologies)
 - [Organizations](#organizations)
@@ -2448,12 +2449,17 @@ All these repositories assign Digital Object Identifiers (DOIs) to data
 - [OSF](https://osf.io) - Project-oriented system with access control and integration with popular tools. Unlimited storage for projects, but individual files are limited to 5 gigabytes (GB) each.
 - [Zenodo](https://zenodo.org/) - Allows embargoed, restricted access, metadata support. 50GB limit.
 
-## Examples and Exemplars
+- [Exemplar Portals](#exemplar-portals)
+
+## Exemplar Portals
+Places to find papers with code or portals to host them
 - [Jupyter Gallery](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) - Gallery of interesting Jupyter notebooks
 - [Papers With Code](https://paperswithcode.com/) - ML papers with code
 - [NARPS](https://github.com/poldrack/narps) - Code related to Neuroimaging Analysis Replication and Prediction Study
 - [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
 
+## Runnable Papers
+Papers that have associated notebooks
 ### Haibe-Kains lab reproducible papers
 <table>
     <tr>
