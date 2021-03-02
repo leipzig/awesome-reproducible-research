@@ -2614,7 +2614,7 @@ Experimental papers that have associated notebooks
 - [Open Science Framework](https://osf.io) - Open source project management
 - [pyOpenSci](https://www.pyopensci.org/) - Promotes open and reproducible research through peer-review of scientific Python packages
 - [Replication Network](https://replicationnetwork.com/) - Furthering the practice of replication in economics. Econ replication database.
-- [repliCATS project](https://replicats.research.unimelb.edu.au/) - Estimating the replicability of research in the social sciences
+- [repliCATS project](https://replicats.research.unimelb.edu.au/) - Estimating the replicability of research in the social sciences. [Paper](https://osf.io/preprints/metaarxiv/2pczv/)
 - [ReproHack](https://reprohack.github.io/reprohack-hq/) - 1-day reproducibility hackathons held worldwide
 - [CODECHECK](https://codecheck.org.uk/) - community for checking executability of scientific preprints and papers
 
