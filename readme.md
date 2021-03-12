@@ -1028,6 +1028,29 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1038/s41467-018-05627-1">Raman et al
+							<meta property="datePublished" content="2018-08-07">2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Apparent bias toward long gene misregulation in MeCP2 syndromes disappears after controlling for baseline variations">Genomics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							8 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1038/sdata.2019.30">Stagge et al <meta property="datePublished" content="2019-02-26">2019</a>
 						</p>
 					</td>
@@ -1753,29 +1776,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
-				<tr>
-					<td>
-						<p>
-							<a href="https://doi.org/10.1038/s41467-018-05627-1">Raman et al
-							<meta property="datePublished" content="2018-08-07">2018</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							<span title="Apparent bias toward long gene misregulation in MeCP2 syndromes disappears after controlling for baseline variations">Genomics</span>
-						</p>
-					</td>
-					<td>
-						<p>
-							Robustness test
-						</p>
-					</td>
-					<td>
-						<p>
-							8 studies
-						</p>
-					</td>
-				</tr>
+
 				<!--study_placeholder-->
 			</tbody>
 		</table>
