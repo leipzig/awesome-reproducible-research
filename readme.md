@@ -1753,6 +1753,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1038/s41467-018-05627-1">Raman et al
+							<meta property="datePublished" content="2018-08-07">2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Apparent bias toward long gene misregulation in MeCP2 syndromes disappears after controlling for baseline variations">Genomics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							8 studies
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
@@ -2326,6 +2349,29 @@ reproducibility and replicability of public health research in the future.">Repr
 					<td>
 						<p>
 							Critique
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1093/gigascience/giab015"><span title="A research parasite's perspective on establishing a baseline to avoid errors in secondary analyses">Raman <meta property="datePublished" content="2021-03-12">2021</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:title&gt;Abstract&lt;/jats:title&gt;
+               &lt;jats:p&gt;To enhance reproducibility in scientific research, more and more datasets are becoming publicly available so that researchers can perform secondary analyses to investigate questions the original scientists had not posited. This increases the return on investment for the NIH and other funding bodies. These datasets, however, are not perfect, and a better understanding of the assumptions that shaped them is required. The 2020 Junior Research Parasite Award recognized our work that showed that the signal-to-noise ratio in a particular dataset had not been investigated, leading to an erroneous conclusion in the original research. In this commentary, I share the process that led to the identification of the problem and hopefully provide useful lessons for other research parasites.&lt;/jats:p&gt;">A research parasite&#x27;s perspective on establishing a baseline to avoid errors in secondary analyses</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
 						</p>
 					</td>
 				</tr>
