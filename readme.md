@@ -1005,6 +1005,29 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="https://arxiv.org/abs/2103.12793">Trisovic et al
+							<meta property="datePublished" content="2021-03-23">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="A large-scale study on research code quality and execution">Social sciences & other</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census, Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							2109 replication datasets
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.7717/peerj.5072">Nüst et al
 							<meta property="datePublished" content="2018-07-13">2018</a>
 						</p>
