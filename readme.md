@@ -1799,6 +1799,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.3389/fgene.2020.610798">Krassowski et al
+							<meta property="datePublished" content="2020-12-10">2020</a> <a href="https://github.com/krassowski/multi-omics-state-of-the-field">(repo)</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing">Biomedical sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							3377 articles
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
