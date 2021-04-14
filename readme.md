@@ -1808,7 +1808,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							<span title="State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing">Biomedical sciences</span>
+							<span title="State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing">Life sciences</span>
 						</p>
 					</td>
 					<td>
