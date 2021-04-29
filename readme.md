@@ -2421,6 +2421,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1098/rsos.201925"><span title="The multiplicity of analysis strategies jeopardizes replicability: lessons learned across disciplines">Hoffmann et al <meta property="datePublished" content="2021-04-21">2021</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;For a given research question, there are usually a large variety of possible analysis strategies acceptable according to the scientific standards of the field, and there are concerns that this multiplicity of analysis strategies plays an important role in the non-replicability of research findings. Here, we define a general framework on common sources of uncertainty arising in computational analyses that lead to this multiplicity, and apply this framework within an overview of approaches proposed across disciplines to address the issue. Armed with this framework, and a set of recommendations derived therefrom, researchers will be able to recognize strategies applicable to their field and use them to generate findings more likely to be replicated in future studies, ultimately improving the credibility of the scientific process.&lt;/jats:p&gt;">The multiplicity of analysis strategies jeopardizes replicability: lessons learned across disciplines</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							None
+						</p>
+					</td>
+					<td>
+						<p>
+							Multiplicity
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
