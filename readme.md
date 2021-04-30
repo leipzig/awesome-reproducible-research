@@ -2434,12 +2434,12 @@ reproducibility and replicability of public health research in the future.">Repr
 					</td>
 					<td>
 						<p>
-							None
+							Science
 						</p>
 					</td>
 					<td>
 						<p>
-							Multiplicity
+							Critique
 						</p>
 					</td>
 				</tr>
