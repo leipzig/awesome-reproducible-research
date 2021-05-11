@@ -1845,6 +1845,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pcbi.1008725">Boudreau et al
+							<meta property="datePublished" content="2021-02-11">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="On the open-source landscape of PLOS Computational Biology">Computational Biology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							622 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
