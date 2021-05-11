@@ -1822,6 +1822,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.31219/osf.io/f73a6">Hrynaszkiewicz et al
+							<meta property="datePublished" content="2021-04-28">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="A survey of code sharing practice and policy in computational biology">None</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							214 researchers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
