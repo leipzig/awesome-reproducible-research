@@ -1825,29 +1825,6 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.31219/osf.io/f73a6">Hrynaszkiewicz et al
-							<meta property="datePublished" content="2021-04-28">2021</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							<span title="A survey of code sharing practice and policy in computational biology">Computational Biology</span>
-						</p>
-					</td>
-					<td>
-						<p>
-							Survey
-						</p>
-					</td>
-					<td>
-						<p>
-							214 researchers
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p>
 							<a href="https://doi.org/10.1371/journal.pcbi.1008725">Boudreau et al
 							<meta property="datePublished" content="2021-02-11">2021</a>
 						</p>
@@ -1865,6 +1842,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					<td>
 						<p>
 							622 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.31219/osf.io/f73a6">Hrynaszkiewicz et al
+							<meta property="datePublished" content="2021-04-28">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="A survey of code sharing practice and policy in computational biology">Computational Biology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							214 researchers
 						</p>
 					</td>
 				</tr>
