@@ -1848,6 +1848,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://arxiv.org/abs/2104.07651">Heumos et al
+							<meta property="datePublished" content="2021-04-15">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="mlf-core: a framework for deterministic machine learning">Computational Biology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							6 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.31219/osf.io/f73a6">Hrynaszkiewicz et al
 							<meta property="datePublished" content="2021-04-28">2021</a>
 						</p>
@@ -2607,6 +2630,8 @@ reproducibility and replicability of public health research in the future.">Repr
     - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
     - [repo](https://github.com/franapoli/repo) - provenance framework package
     - [orderly](https://vimc.github.io/orderly/articles/orderly.html) - R package that automates writing reproducible analyses
+- Python
+    - [mlf-core](https://mlf-core.com) - Framework to develop GPU deterministic machine learning models with PyTorch, TensorFlow and XGBoost
 
 ## User tools
 - Open With Binder for [Chrome](https://matthiasbussonnier.com/posts/32-open-with-binder-chrome.html) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
