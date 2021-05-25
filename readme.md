@@ -2668,9 +2668,12 @@ reproducibility and replicability of public health research in the future.">Repr
 - [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7) - 31 first person case narratives and intro chapters
 - [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
 - [The Turing Way: A Handbook for Reproducible Data Science 2020](https://the-turing-way.netlify.com/introduction/introduction)
+- [Reproducibility and Replicability in Science](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science)
+- [Reproducibility: Principles, Problems, Practices, and Prospects](https://www.wiley.com/en-ec/Reproducibility:+Principles,+Problems,+Practices,+and+Prospects+-p-9781118864975)
 
 ## Databases
 - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.
+- [ReproCrawl](https://crawl.reproduciblescience.org/)
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
