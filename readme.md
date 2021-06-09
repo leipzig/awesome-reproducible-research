@@ -23,6 +23,7 @@
 - [Runnable Papers](#runnable-papers)
 - [Journals](#journals)
 - [Ontologies](#ontologies)
+- [Minimal Standards](#minimal-standards)
 - [Organizations](#organizations)
 - [Awesome Lists](#awesome-lists)
 
@@ -2816,6 +2817,9 @@ Experimental papers that have associated notebooks
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
 - [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
+
+## Minimal Standards
+- [STORMS](https://www.stormsmicrobiome.org/) - Strengthening The Organization and Reporting of Microbiome Studies (STORMS) is a checklist for reporting on human microbiome studies. [Preprint](https://doi.org/10.1101/2020.06.24.167353)
 
 ## Organizations
 - [ResearchObject.org](http://www.researchobject.org/) - RO specifications and publications
