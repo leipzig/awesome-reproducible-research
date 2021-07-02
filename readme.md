@@ -1238,7 +1238,7 @@ Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublish
 					</td>
 					<td>
 						<p>
-							Indepedent discussion
+							Independent discussion
 						</p>
 					</td>
 					<td>
