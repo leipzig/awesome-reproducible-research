@@ -2655,6 +2655,8 @@ reproducibility and replicability of public health research in the future.">Repr
     - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
     - [repo](https://github.com/franapoli/repo) - provenance framework package
     - [orderly](https://vimc.github.io/orderly/articles/orderly.html) - R package that automates writing reproducible analyses
+- Linux-related (polyglot)
+    - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
 - Python
     - [mlf-core](https://mlf-core.com) - Framework to develop GPU deterministic machine learning models with PyTorch, TensorFlow and XGBoost
 
