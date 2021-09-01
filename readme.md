@@ -1763,7 +1763,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							<span title="Knowledge and attitudes among life scientists towards reproducibility within journal articles: a research survey">Life sciences</span>
+							<span title="Knowledge and attitudes among life scientists towards reproducibility within journal articles: a research survey">Life Sciences</span>
 						</p>
 					</td>
 					<td>
@@ -1809,7 +1809,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							<span title="State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing">Life sciences</span>
+							<span title="State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing">Life Sciences</span>
 						</p>
 					</td>
 					<td>
