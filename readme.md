@@ -1934,7 +1934,30 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							186
+							186 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.31234/osf.io/c8a5z">Weisberg et al
+							<meta property="datePublished" content="2021-09-06">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Evaluating the Effects of a Programming Error on a Virtual Environment Measure of Spatial Navigation Behavior">Psychology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							1 study
 						</p>
 					</td>
 				</tr>

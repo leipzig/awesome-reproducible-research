@@ -400,5 +400,7 @@ if __name__ == '__main__':
                     newText=f.read().replace('<!--{}_placeholder-->'.format(entrytype), content)
                 with open("readme.new.md", "w") as f:
                     f.write(newText)
+        else:
+            print("Type needed (study/theory/tools)")
     else:
         parser.print_usage()
