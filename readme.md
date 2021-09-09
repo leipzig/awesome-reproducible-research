@@ -1915,6 +1915,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1101/2021.09.06.459114">Wijesooriya et al
+							<meta property="datePublished" content="2021-09-08">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Guidelines for reliable and reproducible functional enrichment analysis">Computational biology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							186
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
