@@ -264,7 +264,10 @@ class md:
                 self.yyyymmdd=dl[0]+'-'+dl[1]+'-'+dl[2]
                 #         'date-parts': [
                 #             [2008, 6, 26]
-        
+        else:
+            print("Cannot find created or published-online attributes")
+            sys.exit(0)
+
         self.title=pub.get('title')[0]
         self.abstract=pub.get('abstract') or "Abstract"
         
