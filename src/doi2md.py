@@ -229,23 +229,25 @@ class md:
         self.toolsarg=args.tools
 
     def arxiv(self):
-        pub = arxiv.query(id_list=[self.doi])[0]
-        if pub is None:
+        try:
+            pub = next(arxiv.Search(id_list=[self.doi]).results())
+        except AttributeError:
+            # NOTE: see lukasschwab/arxiv.py#80. Should make this exception
+            # handling more specific when that issue is resolved.
             print("Arxiv doesn't know about this doi")
             sys.exit(0)
-        if pub.get('updated') is not None:
-            date_time_str=pub.get('updated')
-            date_time_obj = datetime.datetime.strptime(date_time_str,"%Y-%m-%dT%H:%M:%SZ")
-            self.yyyymmdd=date_time_obj.strftime('%Y-%m-%d')
-            self.yyyy=date_time_obj.strftime('%Y')
-        self.title=pub.get('title')
-        self.abstract=pub.get('summary')
-        if len(pub['authors'])==1:
-            self.author = pub['authors'][0].split(' ')[-1]
-        elif len(pub['author'])==2:
-            self.author = pub['authors'][0].split(' ')[-1]+' & '+pub['authors'][1].split(' ')[-1]
+        if pub.updated is not None:
+            self.yyyymmdd=pub.updated.strftime('%Y-%m-%d')
+            self.yyyy=pub.updated.strftime('%Y')
+        self.title=pub.title
+        self.abstract=pub.summary
+        last_name = lambda author: author.name.split(' ')[-1]
+        if len(pub.authors)==1:
+            self.author = last_name(pub.authors[0])
+        elif len(pub.authors)==2:
+            self.author = ' & '.join([last_name(a) for a in pub.authors])
         else:
-            self.author = pub['authors'][0].split(' ')[-1]+' et al'
+            self.author = '{} et al'.format(last_name(pub.authors[0]))
 
     def crossref(self):
         pub=self.works.doi(self.doi)

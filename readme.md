@@ -23,6 +23,7 @@
 - [Runnable Papers](#runnable-papers)
 - [Journals](#journals)
 - [Ontologies](#ontologies)
+- [Minimal Standards](#minimal-standards)
 - [Organizations](#organizations)
 - [Awesome Lists](#awesome-lists)
 
@@ -1237,7 +1238,7 @@ Reproducibility of Jupyter Notebooks">Pimentel et al <meta property="datePublish
 					</td>
 					<td>
 						<p>
-							Indepedent discussion
+							Independent discussion
 						</p>
 					</td>
 					<td>
@@ -1762,7 +1763,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							<span title="Knowledge and attitudes among life scientists towards reproducibility within journal articles: a research survey">Life sciences</span>
+							<span title="Knowledge and attitudes among life scientists towards reproducibility within journal articles: a research survey">Life Sciences</span>
 						</p>
 					</td>
 					<td>
@@ -1808,7 +1809,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							<span title="State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing">Life sciences</span>
+							<span title="State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing">Life Sciences</span>
 						</p>
 					</td>
 					<td>
@@ -2638,6 +2639,7 @@ reproducibility and replicability of public health research in the future.">Repr
 - MOOCs
     - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU. Very popular course.
     - [edX Principles, Statistical and Computational Tools for Reproducible Science](https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x) - John Quackenbush et al Harvard
+    - [Reproducible research: methodological principles for transparent science](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) - Beginner level. Note taking, version control, notebooks, reproducible data analysis. Bilingual English/French.
 - Online course content
     - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW, includes resources page
     - [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) - Software Carpentry workshop primer using Gapminder data
@@ -2653,6 +2655,8 @@ reproducibility and replicability of public health research in the future.">Repr
     - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
     - [repo](https://github.com/franapoli/repo) - provenance framework package
     - [orderly](https://vimc.github.io/orderly/articles/orderly.html) - R package that automates writing reproducible analyses
+- Linux-related (polyglot)
+    - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
 - Python
     - [mlf-core](https://mlf-core.com) - Framework to develop GPU deterministic machine learning models with PyTorch, TensorFlow and XGBoost
 
@@ -2668,9 +2672,12 @@ reproducibility and replicability of public health research in the future.">Repr
 - [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7) - 31 first person case narratives and intro chapters
 - [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
 - [The Turing Way: A Handbook for Reproducible Data Science 2020](https://the-turing-way.netlify.com/introduction/introduction)
+- [Reproducibility and Replicability in Science](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science)
+- [Reproducibility: Principles, Problems, Practices, and Prospects](https://www.wiley.com/en-ec/Reproducibility:+Principles,+Problems,+Practices,+and+Prospects+-p-9781118864975)
 
 ## Databases
 - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.
+- [ReproCrawl](https://crawl.reproduciblescience.org/)
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
@@ -2813,6 +2820,9 @@ Experimental papers that have associated notebooks
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
 - [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
 
+## Minimal Standards
+- [STORMS](https://www.stormsmicrobiome.org/) - Strengthening The Organization and Reporting of Microbiome Studies (STORMS) is a checklist for reporting on human microbiome studies. [Preprint](https://doi.org/10.1101/2020.06.24.167353)
+
 ## Organizations
 - [ResearchObject.org](http://www.researchobject.org/) - RO specifications and publications
 - [BioCompute](https://osf.io/zm97b/) - BCO specs
@@ -2823,6 +2833,7 @@ Experimental papers that have associated notebooks
 - [repliCATS project](https://replicats.research.unimelb.edu.au/) - Estimating the replicability of research in the social sciences. [Paper](https://osf.io/preprints/metaarxiv/2pczv/)
 - [ReproHack](https://reprohack.github.io/reprohack-hq/) - 1-day reproducibility hackathons held worldwide
 - [CODECHECK](https://codecheck.org.uk/) - community for checking executability of scientific preprints and papers
+- [CASCaD](https://www.cascad.tech/) - Certification Agency for Scientific Code and Data. Issues reproducibility certificates.
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks

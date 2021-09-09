@@ -1,4 +1,4 @@
-arxiv==0.5.3
+arxiv==1.4.1
 certifi==2019.11.28
 chardet==3.0.4
 crossrefapi==1.4.0
@@ -11,5 +11,5 @@ python-dateutil==2.8.1
 pytz==2019.3
 requests==2.23.0
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.5
 pyzenodo3==1.0.2
