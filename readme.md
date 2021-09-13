@@ -2667,8 +2667,8 @@ reproducibility and replicability of public health research in the future.">Repr
                                     				<tr>
                                     					<td>
                                     						<p>
-                                    							<a href="https://arxiv.org/abs/2006.08589">Leipzig et al
-                                    							<meta property="datePublished" content="2020-06-15">2019</a> (<a href="https://github.com/leipzig/metadata-in-rcr">supplemental</a>)
+                                    							<a href="https://doi.org/10.1016/j.patter.2021.100322">Leipzig et al
+                                    							<meta property="datePublished" content="2021-09-10">2021</a> (<a href="https://github.com/leipzig/metadata-in-rcr">supplemental</a>)
                                     						</p>
                                     					</td>
                                     					<td>
