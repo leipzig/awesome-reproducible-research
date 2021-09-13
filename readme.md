@@ -1961,6 +1961,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1101/2021.04.12.439408">Vanderaa & Gatto
+							<meta property="datePublished" content="2021-04-12">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Replication of single-cell proteomics data reveals important computational challenges">Proteomics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Refactor
+						</p>
+					</td>
+					<td>
+						<p>
+							1 analysis
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
