@@ -2917,6 +2917,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/0002901</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1093/bioinformatics/btz485">Madani Tonekaboni et al SIGN: similarity identification in gene expression
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/0544852">codeocean.com/capsule/0544852</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
