@@ -2933,6 +2933,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/0566399">codeocean.com/capsule/0566399</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1007/978-981-32-9816-3_19">Sandhu et al Applications of Computational Systems Biology in Cancer Signaling Pathways
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/0795540">codeocean.com/capsule/0795540</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
