@@ -2861,6 +2861,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/8791617">codeocean.com/capsule/8791617</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1101/2020.09.08.287573">Ortmann et al KuLGaP: A Selective Measure for Assessing Therapy Response in Patient-Derived Xenografts
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/2817911">codeocean.com/capsule/2817911</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
