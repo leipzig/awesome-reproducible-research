@@ -2909,6 +2909,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/1166221">codeocean.com/capsule/1166221</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1101/222562">Tonekaboni et al CREAM: Clustering of genomic REgions Analysis Method
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/0002901</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
