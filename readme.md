@@ -2941,6 +2941,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/0795540">codeocean.com/capsule/0795540</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1200/CCI.18.00102">Sandhu et al Meta-Analysis of 1,200 Transcriptomic Profiles Identifies a Prognostic Model for Pancreatic Ductal Adenocarcinoma
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/7402260">codeocean.com/capsule/7402260</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
