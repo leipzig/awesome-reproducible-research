@@ -2885,6 +2885,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/6911149">codeocean.com/capsule/6911149</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1093/nar/gkaa421">Seo et al SYNERGxDB: an integrative pharmacogenomic portal to identify synergistic drug combinations for precision oncology
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/6322807">codeocean.com/capsule/6322807</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
