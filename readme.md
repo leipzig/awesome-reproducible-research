@@ -2869,6 +2869,22 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/2817911">codeocean.com/capsule/2817911</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1038/s41467-020-20830-9">Madani Tonekaboni et al Large organized chromatin lysine domains help distinguish primitive from differentiated cell populations
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/6911149">codeocean.com/capsule/6911149</a>
+					</td>
+    				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1038/s41467-020-20830-9">Madani Tonekaboni et al Large organized chromatin lysine domains help distinguish primitive from differentiated cell populations
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/6911149">codeocean.com/capsule/6911149</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
