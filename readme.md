@@ -2893,6 +2893,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/6322807">codeocean.com/capsule/6322807</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1038/s41597-019-0174-7">Mammoliti et al Creating reproducible pharmacogenomic analysis pipelines
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/6718332">codeocean.com/capsule/6718332</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
