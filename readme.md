@@ -2837,7 +2837,16 @@ Experimental papers that have associated notebooks
             <a href="https://codeocean.com/capsule/2693620">codeocean.com/capsule/269362</a>
         </td>
     </tr>
-    <!--codeocean_placeholder-->
+    <tr>
+					<td>
+							<a href="https://doi.org/10.1093/bib/bbab294">Sharifi-Noghabi et al &lt;jats:title&gt;Abstract&lt;/jats:title&gt;
+               &lt;jats:p&gt;The goal of precision oncology is to tailor treatment for patients individually using the genomic profile of their tumors. Pharmacogenomics datasets such as cancer cell lines are among the most valuable resources for drug sensitivity prediction, a crucial task of precision oncology. Machine learning methods have been employed to predict drug sensitivity based on the multiple omics data available for large panels of cancer cell lines. However, there are no comprehensive guidelines on how to properly train and validate such machine learning models for drug sensitivity prediction. In this paper, we introduce a set of guidelines for different aspects of training gene expression-based predictors using cell line datasets. These guidelines provide extensive analysis of the generalization of drug sensitivity predictors and challenge many current practices in the community including the choice of training dataset and measure of drug sensitivity. The application of these guidelines in future studies will enable the development of more robust preclinical biomarkers.&lt;/jats:p&gt;
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/7358839">codeocean.com/capsule/7358839</a>
+					</td>
+    				</tr>
+    				<!--codeocean_placeholder-->
   </tbody>
 </table>
 
