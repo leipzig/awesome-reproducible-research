@@ -2845,6 +2845,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/7358839">codeocean.com/capsule/7358839</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1016/j.phro.2021.04.001">Arrowsmith et al Automated detection of dental artifacts for large-scale radiomic analysis in radiation oncology
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/2097894">codeocean.com/capsule/2097894</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
