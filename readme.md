@@ -2981,6 +2981,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/4252248">codeocean.com/capsule/4252248</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani et al Revisiting inconsistency in large pharmacogenomic studies
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/6276064">codeocean.com/capsule/6276064</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
