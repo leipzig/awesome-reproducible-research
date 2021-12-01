@@ -15,7 +15,8 @@
 - [Tool reviews](#tool-reviews)
 - [Courses](#courses)
 - [Development Resources](#development-resources)
-- [User tools](#user-tools)
+- [Literature tools](#literature-tools)
+- [Scientific Data Management Systems](#scientific-data-management-systems)
 - [Books](#books)
 - [Databases](#databases)
 - [Data Repositories](#data-repositories)
@@ -2729,11 +2730,15 @@ reproducibility and replicability of public health research in the future.">Repr
 - Python
     - [mlf-core](https://mlf-core.com) - Framework to develop GPU deterministic machine learning models with PyTorch, TensorFlow and XGBoost
 
-## User tools
-- Open With Binder for [Chrome](https://matthiasbussonnier.com/posts/32-open-with-binder-chrome.html) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/open-with-binder/) - open the GitHub repository you are visiting using MyBinder.org
-- [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
+## Literature tools
+- [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles 
 - [SciScore](https://www.sciscore.com/) - SciScore methods sections for a variety of rigor criteria and analyzes sentences that contain research resources (antibodies, cell lines, plasmids and software tools) and determines how uniquely identifiable that resource is based off of the provided metadata.
 - [Ripeta](https://www.ripeta.com/) - Ripeta quickly scans research manuscripts or articles to identify and record key reproducibility variables, such as data availability, code acknowledgements, and research analysis methods.
+
+## Scientific Data Management Systems
+- [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
+- [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
+- [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
 
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
