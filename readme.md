@@ -2925,6 +2925,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/0544852">codeocean.com/capsule/0544852</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0349">Mer et al Integrative Pharmacogenomics Analysis of Patient-Derived Xenografts
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/0566399">codeocean.com/capsule/0566399</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
