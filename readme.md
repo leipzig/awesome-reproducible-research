@@ -2957,6 +2957,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/6438633">codeocean.com/capsule/6438633</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1093/jamia/ocx062">Yao et al Tissue specificity of in vitro drug sensitivity
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/5502756">codeocean.com/capsule/5502756</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
