@@ -2901,6 +2901,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/6718332">codeocean.com/capsule/6718332</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0179">Manem et al Modeling Cellular Response in Large-Scale Radiogenomic Databases to Advance Precision Radiotherapy
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/1166221">codeocean.com/capsule/1166221</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
