@@ -2965,6 +2965,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/5502756">codeocean.com/capsule/5502756</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1038/s41467-017-01153-8">Safikhani et al Gene isoforms as expression-based biomarkers predictive of drug response in vitro
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/0002901</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
