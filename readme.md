@@ -2772,6 +2772,7 @@ Places to find papers with code or portals to host them
 Experimental papers that have associated notebooks
 ### Haibe-Kains lab
 <table>
+  <tbody>
     <tr>
         <th>
             Publication
@@ -2836,6 +2837,8 @@ Experimental papers that have associated notebooks
             <a href="https://codeocean.com/capsule/2693620">codeocean.com/capsule/269362</a>
         </td>
     </tr>
+    <!--codeocean_placeholder-->
+  </tbody>
 </table>
 
 ### Patcher lab
