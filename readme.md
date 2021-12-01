@@ -2949,6 +2949,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/7402260">codeocean.com/capsule/7402260</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1101/052910">Gendoo et al MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/6438633">codeocean.com/capsule/6438633</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
