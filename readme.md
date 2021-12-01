@@ -2853,6 +2853,14 @@ Experimental papers that have associated notebooks
 							<a href="https://codeocean.com/capsule/2097894">codeocean.com/capsule/2097894</a>
 					</td>
     				</tr>
+    				<tr>
+					<td>
+							<a href="https://doi.org/10.1038/s41467-021-21233-0">Mer et al Biological and therapeutic implications of a unique subtype of NPM1 mutated AML
+					</td>
+					<td>
+							<a href="https://codeocean.com/capsule/8791617">codeocean.com/capsule/8791617</a>
+					</td>
+    				</tr>
     				<!--codeocean_placeholder-->
   </tbody>
 </table>
