@@ -1735,8 +1735,8 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.31223/x5zk5v">Ostermann et al
-							<meta property="datePublished" content="2020-10-29">2020</a>
+							<a href="https://doi.org/10.4230/LIPIcs.GIScience.2021.II.2">Ostermann et al
+							<meta property="datePublished" content="2021-09-14">2021</a>
 						</p>
 					</td>
 					<td>
