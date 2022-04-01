@@ -2606,6 +2606,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1061/%28ASCE%29WR.1943-5452.0001368"><span title="Reproducible Results Policy">Rosenberg et al <meta property="datePublished" content="2020-11-30">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Abstract">Reproducible Results Policy</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Water Resources
+						</p>
+					</td>
+					<td>
+						<p>
+							Policy
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
