@@ -390,17 +390,18 @@ if __name__ == '__main__':
     #edit as needed
     parser = argparse.ArgumentParser(description='doi and table filler arguments')
     parser.add_argument('--doi',help='the doi of the manuscript e.g. 10.1136/bmj.39590.732037.47')
-    parser.add_argument('--type',help='the manuscript type: study, theory, codeocean, or tools')
+    parser.add_argument('--type',help='the manuscript type: study, theory, dissertation, codeocean, or tools')
     parser.add_argument('--field',help='the study field e.g. Cancer Biology')
     parser.add_argument('--approach',help='the manuscript approach e.g. Refactor')
     parser.add_argument('--size',help='the study size e.g 8 studies')
     parser.add_argument('--tools',help='the tools reviewed e.g. MLflow, Polyaxon')
     parser.add_argument('--capsule',help='the codeocean capsule id')
+    parser.add_argument('--bibtex',help='the dissertation bibtex file')
     parser.add_argument('--category',help='the manuscript theory category e.g. Statistical reproducibility')
     parser.add_argument('--output',help='snippet: print just the entry')
     args = parser.parse_args()
     
-    if args.doi:
+    if args.doi or (args.type=='dissertation' and args.bibtex):
         mymd = md(args)
         if args.type is not None:
             entrytype=str(args.type).lower()
@@ -413,6 +414,6 @@ if __name__ == '__main__':
                 with open("readme.new.md", "w") as f:
                     f.write(newText)
         else:
-            print("Type needed (study/theory/tools)")
+            print("Type needed (study/theory/dissertation/tools)")
     else:
         parser.print_usage()
