@@ -352,6 +352,39 @@ class md:
 				</tr>
 				<!--theory_placeholder-->""".format(self.link,self.title,self.author,self.yyyymmdd,self.yyyy,html.escape(self.abstract,quote=True),html.escape(self.title,quote=True),self.field,self.category))
 
+    def dissertation(self):
+        with open('dissertations.bib') as bibtex_file:
+            bibtex_database = bibtexparser.load(bibtex_file)
+            #https://stackoverflow.com/questions/72899/how-do-i-sort-a-list-of-dictionaries-by-a-value-of-the-dictionary
+            bib_sorted = sorted(bibtex_database.entries, key=lambda d: d['year']) 
+            snippet = ""
+            for entry in bib_sorted:
+                snippet += """<tr>
+                            <td>
+                                <p>
+                                    <a href="{0}"><span title="{1}">{2} <meta property="datePublished" content="{3}">{4}</span></a>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    <span title="{5}">{6}</span>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    {7}
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    {8}
+                                </p>
+                            </td>
+                        </tr>
+                            print(entry['school'])
+
+                        <!--dissertation_placeholder-->""".format(entry['url'],entry['title'],entry['author'],entry['year'],entry['year'],html.escape(self.abstract,quote=True),html.escape(entry['title'],quote=True),self.field,self.category)
+
     def tools(self):
         return("""<tr>
 					<td>
