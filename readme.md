@@ -1007,7 +1007,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="https://arxiv.org/abs/2103.12793">Trisovic et al
+							<a href="https://doi.org/10.1038/s41597-022-01143-6">Trisovic et al
 							<meta property="datePublished" content="2021-03-23">2021</a>
 						</p>
 					</td>
