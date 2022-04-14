@@ -2649,17 +2649,48 @@ reproducibility and replicability of public health research in the future.">Repr
 					</td>
 					<td>
 						<p>
-							Field
-						</p>
-					</td>
-					<td>
-						<p>
-							Type
+							Institution
 						</p>
 					</td>
 				</tr>
 		<tr>
-				<!--dissertation_placeholder-->
+				<tr>
+                            <td>
+                                <p>
+                                    <a href="https://cds.cern.ch/record/2640461/files/CERN-THESIS-2018-174.pdf"><span title="Data preservation and reproducibility at the {LHCb} experiment at
+{CERN}">Trisovic, Ana <meta property="datePublished" content="2018">2018</span></a>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    Data preservation and reproducibility at the {LHCb} experiment at
+{CERN}
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    University of Cambridge
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <a href="http://ezproxy2.library.drexel.edu/login?url=https://www.proquest.com/dissertations-theses/tests-robustness-peer-review/docview/2644057578/se-2"><span title="Tests of Robustness in Peer Review">Leipzig, Jeremy <meta property="datePublished" content="2021">2021</span></a>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    Tests of Robustness in Peer Review
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    Drexel University
+                                </p>
+                            </td>
+                        </tr>
+                        <!--dissertation_placeholder-->
 	</tbody>
 </table>
 

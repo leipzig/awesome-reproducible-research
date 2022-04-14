@@ -9,6 +9,7 @@ import requests
 import re
 import sys
 from requests.exceptions import HTTPError
+import bibtexparser
 
 
 
@@ -206,19 +207,20 @@ class md:
     def __init__(self, args):
         self.works = Works()
         #print(args.doi)
-        if 'arxiv' in args.doi:
-            #maybe you prepended it, maybe not
-            self.doi=args.doi.replace('https://arxiv.org/abs/','')
-            self.link='https://arxiv.org/abs/'+self.doi
-            self.arxiv()
-        elif 'zenodo' in args.doi:
-            self.doi=args.doi.replace('https://doi.org/','')
-            self.link='https://doi.org/'+self.doi
-            self.zenodo()
-        else:
-            self.doi=args.doi.replace('https://doi.org/','')
-            self.link='https://doi.org/'+self.doi
-            self.crossref()
+        if args.doi:
+            if 'arxiv' in args.doi:
+                #maybe you prepended it, maybe not
+                self.doi=args.doi.replace('https://arxiv.org/abs/','')
+                self.link='https://arxiv.org/abs/'+self.doi
+                self.arxiv()
+            elif 'zenodo' in args.doi:
+                self.doi=args.doi.replace('https://doi.org/','')
+                self.link='https://doi.org/'+self.doi
+                self.zenodo()
+            else:
+                self.doi=args.doi.replace('https://doi.org/','')
+                self.link='https://doi.org/'+self.doi
+                self.crossref()
 
         #user-supplied
         self.type=args.type
@@ -367,23 +369,18 @@ class md:
                             </td>
                             <td>
                                 <p>
-                                    <span title="{5}">{6}</span>
+                                    {5}
                                 </p>
                             </td>
                             <td>
                                 <p>
-                                    {7}
-                                </p>
-                            </td>
-                            <td>
-                                <p>
-                                    {8}
+                                    {6}
                                 </p>
                             </td>
                         </tr>
-                            print(entry['school'])
-
-                        <!--dissertation_placeholder-->""".format(entry['url'],entry['title'],entry['author'],entry['year'],entry['year'],html.escape(self.abstract,quote=True),html.escape(entry['title'],quote=True),self.field,self.category)
+                        """.format(entry['url'],entry['title'],entry['author'],entry['year'],entry['year'],html.escape(entry['title'],quote=True),entry['school'])
+            snippet += "<!--dissertation_placeholder-->"
+            return(snippet)
 
     def tools(self):
         return("""<tr>
