@@ -12,6 +12,7 @@
 - [Case studies](#case-studies)
 - [Ad-hoc reproductions](#ad-hoc-reproductions)
 - [Theory papers](#theory-papers)
+- [Theses and dissertations](#dissertations)
 - [Tool reviews](#tool-reviews)
 - [Courses](#courses)
 - [Development Resources](#development-resources)
@@ -2629,6 +2630,36 @@ reproducibility and replicability of public health research in the future.">Repr
 					</td>
 				</tr>
 				<!--theory_placeholder-->
+	</tbody>
+</table>
+
+## Theses and dissertations
+<table>
+	<tbody>
+				<tr>
+					<td>
+						<p>
+							Authors/Date
+						</p>
+					</td>
+					<td>
+						<p>
+							Title
+						</p>
+					</td>
+					<td>
+						<p>
+							Field
+						</p>
+					</td>
+					<td>
+						<p>
+							Type
+						</p>
+					</td>
+				</tr>
+		<tr>
+				<!--dissertation_placeholder-->
 	</tbody>
 </table>
 
