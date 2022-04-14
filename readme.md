@@ -12,7 +12,7 @@
 - [Case studies](#case-studies)
 - [Ad-hoc reproductions](#ad-hoc-reproductions)
 - [Theory papers](#theory-papers)
-- [Theses and dissertations](#dissertations)
+- [Theses and dissertations](#theses-and-dissertations)
 - [Tool reviews](#tool-reviews)
 - [Courses](#courses)
 - [Development Resources](#development-resources)
