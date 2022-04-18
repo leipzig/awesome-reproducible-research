@@ -12,6 +12,7 @@
 - [Case studies](#case-studies)
 - [Ad-hoc reproductions](#ad-hoc-reproductions)
 - [Theory papers](#theory-papers)
+- [Theses and dissertations](#theses-and-dissertations)
 - [Tool reviews](#tool-reviews)
 - [Courses](#courses)
 - [Development Resources](#development-resources)
@@ -2629,6 +2630,133 @@ reproducibility and replicability of public health research in the future.">Repr
 					</td>
 				</tr>
 				<!--theory_placeholder-->
+	</tbody>
+</table>
+
+## Theses and dissertations
+<table>
+	<tbody>
+				<tr>
+					<td>
+						<p>
+							Authors/Date
+						</p>
+					</td>
+					<td>
+						<p>
+							Title
+						</p>
+					</td>
+					<td>
+						<p>
+							Institution
+						</p>
+					</td>
+				</tr>
+				 <tr>
+                    <td>
+                        <p>
+                            <a href="https://doi.org/10.31237/osf.io/mcdrn">Konkol <meta property="datePublished" content="2019-04-05">2019</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="Open reproducible research (ORR) is the practice of publishing the source code and
+the datasets that are needed to produce the computational results reported in a paper.
+Since geoscientific articles often include geostatistical analyses and spatiotemporal
+data, reproducibility should be a cornerstone of the computational geosciences but
+is rarely realized. In addition, the current way of publishing scientific outcomes, i.e.
+as static PDFs, does not adequately report on computational aspects. Thus, readers
+cannot fully understand how the authors came to the conclusions and how robust
+these are to changes in the analysis. Consequently, it is difficult for reviewers to
+follow the analysis steps, and for other researchers to reuse existing materials. This
+dissertation has two overarching goals to tackle these issues: First, it aims at assisting
+authors in adhering to ORR principles to ensure high scientific standards. The second
+goal is to reap the benefits that come with papers supplemented by code and data. To
+achieve these objectives, this thesis reports on five complementary studies to collect
+and analyze qualitative (i.e. through interviews and a focus group) and quantitative
+data (i.e. through surveys and reproducibility studies). Based on these studies, this
+work provides four key contributions: First, it identifies obstacles that prevented
+geoscientists from publishing ORR. To overcome these barriers, this dissertation
+suggests concrete and directly applicable strategies. One of these strategies is the
+executable research compendium (ERC) which encapsulates the paper, code, data,
+and the entire software environment needed to produce the computational results.
+Based on that, this work presents the design and implementation of an ERC-based
+workflow. It allows authors to convey their computational methods and results by
+also providing interactive access to code and data, and readers to deeply investigate
+the computational analysis while reading the actual article, e.g. by changing the
+parameters of the analysis. Finally, this work describes the concept of a binding; a
+binding connects those code lines and data subsets that produce a specific result, e.g.
+a figure or number. By also considering user interface widgets (e.g. a slider), this
+approach allows readers to interactively manipulate the parameters of the analysis
+to see how these changes affect the result. To conclude, the contributions include (i)
+a set of obstacles which prevent geoscientists from publishing ORR, (ii) concepts
+and tools to overcome the identified barriers, (iii) incentives and opportunities that
+come with attached code and data, and (iv) solutions to realize the incentives which
+eventually result in a higher number of open and reproducible research.">Publishing Reproducible Geoscientific Papers: Status quo, benefits, and opportunities</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            University of Münster
+                        </p>
+                    </td>
+                </tr>
+				<tr>
+                            <td>
+                                <p>
+                                    <a href="https://www.repository.cam.ac.uk/handle/1810/283607">Trisovic, Ana <meta property="datePublished" content="2018">2018</a>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    <span title="This dissertation presents the first study of data preservation and research reproducibility in data science at the Large Hadron Collider at CERN. In particular, provenance capture of the experimental data and the reproducibility of physics analyses at the LHCb experiment were studied. First, the preservation of the software and hardware dependencies of the LHCb experimental data and simulations was investigated. It was found that the links between the data processing information and the datasets themselves were obscure. In order to document these dependencies, a graph database was designed and implemented. The nodes in the graph represent the data with their processing information, software and computational environment, whilst the edges represent their dependence on the other nodes. The database provides a central place to preserve information that was previously scattered across the LHCb computing infrastructure. Using the developed database, a methodology to recreate the LHCb computational environment and to execute the data processing on the cloud was implemented with the use of virtual containers. It was found that the produced physics events were identical to the official LHCb data, meaning that the system can aid in data preservation. Furthermore, the developed method can be used for outreach purposes, providing a streamlined way for a person external to CERN to process and analyse the LHCb data. Following this, the reproducibility of data analyses was studied. A data provenance tracking service was implemented within the LHCb software framework \textsc{Gaudi}. The service allows analysts to capture their data processing configurations that can be used to reproduce a dataset within the dataset itself. Furthermore, to assess the current status of the reproducibility of LHCb physics analyses, the major parts of an analysis were reproduced by following methods described in publicly and internally available documentation. This study allowed the identification of barriers to reproducibility and specific points where documentation is lacking. With this knowledge, one can specifically target areas that need improvement and encourage practices that would improve reproducibility in the future. Finally, contributions were made to the CERN Analysis Preservation portal, which is a general knowledge preservation framework developed at CERN to be used across all the LHC experiments. In particular, the functionality to preserve source code from git repositories and Docker images in one central location was implemented.">Data preservation and reproducibility at the LHCb experiment at CERN</span>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    University of Cambridge
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>
+                                    <a href="https://zenodo.org/record/6403282">Leipzig, Jeremy <meta property="datePublished" content="2021-12-01">2021</a>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    <span title='Purpose: The purpose of this dissertation is to investigate the feasibility of using tests of robustness in peer review. This study involved selecting three high-impact papers which featured open data and utilized bioinformatic analyses but provided no source code and refactoring these to allow external survey participants to swap tools, parameters, and data subsets to evaluate the robustness and underlying validity of these analyses. Technical advances that have taken place in recent years - scientific computing infrastructure has matured to support the distribution of reproducible computational analyses - enable this approach. These advances, along with cultural shifts encompassing open data and open code initiatives, promise to address technical stumbling blocks that have contributed to the "reproducibility crisis." To take full advantage of these developments toward improving scientific quality, authors, reviewers, and publishers must integrate reproducible analysis into the peer review process. Seven existing major case study types - reproduction, replication, refactor, robustness test, survey, census, and case narrative - have been invaluable toward establishing reproducibility as a serious and independent area of research. Of particular interest are refactors, in which an existing analysis with abstract methods is reimplemented by a third party, and robustness tests, which involve the manipulation of tools, parameters, and data to assess the scientific validity of an analysis. This thesis describes efforts to test the feasibility of robustness testing in the context of in silico peer review. The contributions described are complemented with extensive source code. Design and Methods: A multi-method approach was employed for this study consisting of user surveys and tests of robustness - hands-on, self-directed software development exercises. Three high-impact genomics publications with open data, but no source code, were selected, refactored, and distributed to active study participants who acted as quasi-external reviewers. The process of the refactor was used to evaluate the limitations of reproducibility using conventional tools and to study how best to present analyses for peer review, and the tests of robustness were employed under the hypothesis this practice would help to evaluate the underlying validity of an analysis. Three different approaches were taken in these tests of robustness - a faithful reproduction of the original manuscript into a framework that could be manipulated by participants, a workflow-library approach in which participants were encouraged to employ modern "off-the-shelf" pre-built pipelines to triangulate tests, and an advisor-led approach in which senior experts suggested alternate tools to be implemented and I generated a report for their evaluation. Findings: The refactors and tests of robustness produced numerous discoveries both in terms of the underlying scientific content and, more importantly, into the strengths and weakness of the three robustness approaches (faithful/workflow-library/advisor-led) and pain points in the analytic stack, which may be addressed with appropriate software and metadata. The principal findings are that the faithful approach may often discourage aggressive robustness testing because of the inertia imposed by the existing framework, the workflow-library approach is efficient but can prove inconclusive, and the advisor-led approach may be most practical for journals but requires a higher level of communication to be effective. The vast majority of time in all these refactors was spent on sample metadata management, particularly organizing sample groups of biological and technical replicates to produce the numerous and varied tool input manifests. Practical Implications: Reproducibility-enabled in silico peer review is substantially more time-consuming than traditional manuscript peer review and will require economic, cultural, and technical change to bring to reality. The work presented here could contribute to developing new models to minimize the increased effort of this type of peer review while incentivizing reproducibility.Value: This study provides practical guidance toward designing the future of reproducibility-enabled in silico peer review, which is a logical extension of the computational reproducibility afforded by technical advances in dependency management, containerization, pipeline frameworks, and notebooks.'>Tests of Robustness in Peer Review</span>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    Drexel University
+                                </p>
+                            </td>
+                        </tr>
+						<tr>
+                            <td>
+                                <p>
+                                    <a href="https://zenodo.org/record/4768096">Nüst, Daniel <meta property="datePublished" content="2022-02-14">2022</a>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    <span title="Reproducibility of computational research, i.e., research based on code and data, poses enormous challenges to all branches of science. In this dissertation, technologies and practices are developed to increase reproducibility and to connect it better with the process of scholarly communication with a particular focus on geography, geosciences, and GIScience. Based on containerisation, this body of work creates a platform that connects existing academic infrastructures with a newly established executable research compendium (ERC). It is shown how the ERC can improve transparency, understandability, reproducibility, and reusability of research outcomes, e.g., for peer review, by capturing all parts of a workflow for computational research. The core part of the ERC platform is software that can automatically capture the computing environment, requiring authors only to create computational notebooks, which are digital documents that combine text and analysis code. The work further investigates how containerisation can be applied independent of ERCs to package complex workflows using the example of remote sensing, to support data science in general, and to facilitate diverse use cases within the R language community. Based on these technical foundations, the work concludes that functioning practical solutions exist for making reproducibility possible through infrastructure and making reproducibility easy through user experience. Several downstream applications built on top of ERCs provide novel ways to discover and inspect the next generation of publications. To understand why reproducible research has not been widely adopted and to contribute to the propagation of reproducible research practices, the dissertation continues to investigate the state of reproducibility in GIScience and develops and demonstrates workflows that can better integrate the execution of computational analyses into peer review procedures. We make recommendations for how to (re)introduce reproducible research into peer reviewing
+and how to make practices to achieve the highest possible reproducibility normative, rewarding, and, ultimately, required in science. These recommendations are rest upon over 100 GIScience papers which were assessed as irreproducible, the experiences from over 30 successful reproductions of workflows across diverse scientific fields, and the lessons learned from implementing the ERC. Besides continuing the development of the contributed concepts and infrastructure, the dissertation points out broader topics of future work, such as surveying practices for code execution during peer review of manuscripts, or reproduction and replication studies of the fundamental works in the considered scientific disciplines. The technical and social barriers to higher reproducibility are strongly intertwined with other transformations in academia, and, therefore, improving reproducibility meets similar challenges around culture change and sustainability. However, we clearly show that reproducible research is achievable today using the newly developed infrastructures and practices. The transferability of cross-disciplinary lessons facilitates the establishment of reproducible research practices and, more than other transformations, the movement towards greater reproducibility can draw from accessible and convincing arguments both for individual researchers as well as for their communities.">Infrastructures and Practices for Reproducible Research in Geography, Geosciences, and GIScience</span>
+                                </p>
+                            </td>
+                            <td>
+                                <p>
+                                    University of Münster
+                                </p>
+                            </td>
+                        </tr>
+
+                <!--dissertation_placeholder-->
+                
 	</tbody>
 </table>
 

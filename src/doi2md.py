@@ -9,6 +9,7 @@ import requests
 import re
 import sys
 from requests.exceptions import HTTPError
+import bibtexparser
 
 
 
@@ -215,6 +216,8 @@ class md:
             self.doi=args.doi.replace('https://doi.org/','')
             self.link='https://doi.org/'+self.doi
             self.zenodo()
+        elif args.bibtex:
+            self.bibtex()
         else:
             self.doi=args.doi.replace('https://doi.org/','')
             self.link='https://doi.org/'+self.doi
@@ -228,6 +231,8 @@ class md:
         self.category=args.category
         self.toolsarg=args.tools
         self.capsule=args.capsule
+
+
 
     def arxiv(self):
         try:
@@ -280,6 +285,7 @@ class md:
             self.author = pub['author'][0]['family']+' & '+pub['author'][1]['family']
         else:
             self.author = pub['author'][0]['family']+' et al'
+        self.school = pub['author'][0]['affiliation']
 
     def zenodo(self):
         #https://zenodo.org/api/records/3818329
@@ -300,7 +306,20 @@ class md:
                 print(f'HTTP error occurred: {http_err}')
             except Exception as err:
                 print(f'Other error occurred: {err}')
-        
+    
+    def bibtex(self):
+        with open(args.bibtex) as bibtex_file:
+            bibtex_database = bibtexparser.load(bibtex_file)
+            #https://stackoverflow.com/questions/72899/how-do-i-sort-a-list-of-dictionaries-by-a-value-of-the-dictionary
+            bib_sorted = sorted(bibtex_database.entries, key=lambda d: d['year'])
+            for entry in bib_sorted:
+                if entry['ID'] == args.doi:
+                    self.link=entry['url']
+                    self.title=entry['title']
+                    self.author=entry['author']
+                    self.yyyy=entry['year']
+                    self.school=entry['school']
+                    
     def study(self):
         return("""<tr>
 					<td>
@@ -352,6 +371,27 @@ class md:
 				</tr>
 				<!--theory_placeholder-->""".format(self.link,self.title,self.author,self.yyyymmdd,self.yyyy,html.escape(self.abstract,quote=True),html.escape(self.title,quote=True),self.field,self.category))
 
+    def dissertation(self):
+        return("""<tr>
+                    <td>
+                        <p>
+                            <a href="{0}">{2} <meta property="datePublished" content="{3}">{4}</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">{5}</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            {6}
+                        </p>
+                    </td>
+                </tr>
+                <!--dissertation_placeholder-->
+                """.format(self.link,self.title,self.author,self.yyyymmdd,self.yyyy,html.escape(self.title,quote=True),self.school))
+
     def tools(self):
         return("""<tr>
 					<td>
@@ -389,13 +429,14 @@ if __name__ == '__main__':
     #mv readme.new.md readme.md
     #edit as needed
     parser = argparse.ArgumentParser(description='doi and table filler arguments')
-    parser.add_argument('--doi',help='the doi of the manuscript e.g. 10.1136/bmj.39590.732037.47')
-    parser.add_argument('--type',help='the manuscript type: study, theory, codeocean, or tools')
+    parser.add_argument('--doi',help='the doi of the manuscript e.g. 10.1136/bmj.39590.732037.47 (or the bibtex id)')
+    parser.add_argument('--type',help='the manuscript type: study, theory, dissertation, codeocean, or tools')
     parser.add_argument('--field',help='the study field e.g. Cancer Biology')
     parser.add_argument('--approach',help='the manuscript approach e.g. Refactor')
     parser.add_argument('--size',help='the study size e.g 8 studies')
     parser.add_argument('--tools',help='the tools reviewed e.g. MLflow, Polyaxon')
     parser.add_argument('--capsule',help='the codeocean capsule id')
+    parser.add_argument('--bibtex',help='try a bibtex file')
     parser.add_argument('--category',help='the manuscript theory category e.g. Statistical reproducibility')
     parser.add_argument('--output',help='snippet: print just the entry')
     args = parser.parse_args()
@@ -413,6 +454,6 @@ if __name__ == '__main__':
                 with open("readme.new.md", "w") as f:
                     f.write(newText)
         else:
-            print("Type needed (study/theory/tools)")
+            print("Type needed (study/theory/dissertation/tools)")
     else:
         parser.print_usage()
