@@ -2754,9 +2754,7 @@ and how to make practices to achieve the highest possible reproducibility normat
                                 </p>
                             </td>
                         </tr>
-
                 <!--dissertation_placeholder-->
-                
 	</tbody>
 </table>
 
