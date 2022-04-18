@@ -2653,7 +2653,55 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
-		<tr>
+				 <tr>
+                    <td>
+                        <p>
+                            <a href="https://doi.org/10.31237/osf.io/mcdrn">Konkol <meta property="datePublished" content="2019-04-05">2019</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="Open reproducible research (ORR) is the practice of publishing the source code and
+the datasets that are needed to produce the computational results reported in a paper.
+Since geoscientific articles often include geostatistical analyses and spatiotemporal
+data, reproducibility should be a cornerstone of the computational geosciences but
+is rarely realized. In addition, the current way of publishing scientific outcomes, i.e.
+as static PDFs, does not adequately report on computational aspects. Thus, readers
+cannot fully understand how the authors came to the conclusions and how robust
+these are to changes in the analysis. Consequently, it is difficult for reviewers to
+follow the analysis steps, and for other researchers to reuse existing materials. This
+dissertation has two overarching goals to tackle these issues: First, it aims at assisting
+authors in adhering to ORR principles to ensure high scientific standards. The second
+goal is to reap the benefits that come with papers supplemented by code and data. To
+achieve these objectives, this thesis reports on five complementary studies to collect
+and analyze qualitative (i.e. through interviews and a focus group) and quantitative
+data (i.e. through surveys and reproducibility studies). Based on these studies, this
+work provides four key contributions: First, it identifies obstacles that prevented
+geoscientists from publishing ORR. To overcome these barriers, this dissertation
+suggests concrete and directly applicable strategies. One of these strategies is the
+executable research compendium (ERC) which encapsulates the paper, code, data,
+and the entire software environment needed to produce the computational results.
+Based on that, this work presents the design and implementation of an ERC-based
+workflow. It allows authors to convey their computational methods and results by
+also providing interactive access to code and data, and readers to deeply investigate
+the computational analysis while reading the actual article, e.g. by changing the
+parameters of the analysis. Finally, this work describes the concept of a binding; a
+binding connects those code lines and data subsets that produce a specific result, e.g.
+a figure or number. By also considering user interface widgets (e.g. a slider), this
+approach allows readers to interactively manipulate the parameters of the analysis
+to see how these changes affect the result. To conclude, the contributions include (i)
+a set of obstacles which prevent geoscientists from publishing ORR, (ii) concepts
+and tools to overcome the identified barriers, (iii) incentives and opportunities that
+come with attached code and data, and (iv) solutions to realize the incentives which
+eventually result in a higher number of open and reproducible research.">Publishing Reproducible Geoscientific Papers: Status quo, benefits, and opportunities</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            University of Münster
+                        </p>
+                    </td>
+                </tr>
 				<tr>
                             <td>
                                 <p>
@@ -2706,7 +2754,9 @@ and how to make practices to achieve the highest possible reproducibility normat
                                 </p>
                             </td>
                         </tr>
-                        <!--dissertation_placeholder-->
+
+                <!--dissertation_placeholder-->
+                
 	</tbody>
 </table>
 
