@@ -2656,7 +2656,7 @@ reproducibility and replicability of public health research in the future.">Repr
 				 <tr>
                     <td>
                         <p>
-                            <a href="https://doi.org/10.31237/osf.io/mcdrn">Konkol <meta property="datePublished" content="2019-04-05">2019</a>
+                            <a href="https://doi.org/10.31237/osf.io/mcdrn">Konkol, Markus <meta property="datePublished" content="2019-04-05">2019</a>
                         </p>
                     </td>
                     <td>
