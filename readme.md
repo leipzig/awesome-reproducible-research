@@ -2679,7 +2679,7 @@ We evaluate and validate the framework by applying it to several representative 
                     </td>
                     <td>
                         <p>
-                            University of Chicaogo
+                            University of Chicago
                         </p>
                     </td>
                 </tr>
