@@ -2656,6 +2656,36 @@ reproducibility and replicability of public health research in the future.">Repr
 				 <tr>
                     <td>
                         <p>
+                            <a href="https://newtraell.cs.uchicago.edu/files/phd_paper/quanpt.pdf">Pham, Quan <meta property="datePublished" content="2014-08-01">2014</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="In today’s world of publishing, reproducing research results has become challenging as scientific research has become inherently computational. Encoding a computation-based result in
+a text-based paper is nearly impractical, leading to the overarching research question. “Can
+computation-based research papers be reproducible?”
+The aim of this thesis is to describe frameworks and tools, which if provided to authors
+can aid in assessing computational reproducibility. Towards this aim, the thesis proposes
+a reproducible framework Science Object Linking and Embedding (SOLE) for creating descriptive and interactive publications by linking them with associated science objects, such
+as source codes, datasets, annotations, workflows, process and data provenance, and reexecutable software packages. To create science objects in a linkable representation for use
+within research papers, the thesis describes a set of tools as part of the framework. In
+particular, it focuses on Provenance-To-Use (PTU), an application virtualization tool that
+encapsulates source code, data, and all associated data and software dependencies into a
+package. We describe how by capturing data dependencies, PTU allows full and partial repeatability of the virtualized software; and by capturing software dependencies, PTU can
+be used for building and maintaining software pipelines. Finally, we show how PTU can be
+used to provide computational reproducibility in a distributed environment.
+We evaluate and validate the framework by applying it to several representative publications and determining the extent to which computational reproducibility is achievable.">A Framework for Reproducible Computational Research</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            University of Chicaogo
+                        </p>
+                    </td>
+                </tr>
+				 <tr>
+                    <td>
+                        <p>
                             <a href="https://doi.org/10.31237/osf.io/mcdrn">Konkol, Markus <meta property="datePublished" content="2019-04-05">2019</a>
                         </p>
                     </td>
