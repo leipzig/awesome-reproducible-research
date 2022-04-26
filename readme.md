@@ -2733,7 +2733,7 @@ In this thesis, we build a wider understanding of researchers' interactions with
                     </td>
                     <td>
                         <p>
-                            University of Utah
+                            University of Munich
                         </p>
                     </td>
                 </tr>
@@ -2773,7 +2773,6 @@ and how to make practices to achieve the highest possible reproducibility normat
                             </td>
                         </tr>
                 <!--dissertation_placeholder-->
-                
 	</tbody>
 </table>
 
