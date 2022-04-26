@@ -2719,6 +2719,24 @@ eventually result in a higher number of open and reproducible research.">Publish
                                 </p>
                             </td>
                         </tr>
+						                <tr>
+                    <td>
+                        <p>
+                            <a href="https://arxiv.org/abs/2012.02570">Feger, Sebastian <meta property="datePublished" content="2020-11-10">2020</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="Reproducibility should be a cornerstone of science as it enables validation and reuse. In recent years, the scientific community and the general public became increasingly aware of the reproducibility crisis, i.e. the wide-spread inability of researchers to reproduce published work, including their own. Scientific research is increasingly focused on the creation, observation, processing, and analysis of large data volumes. On the one hand, this transition towards computational and data-intensive science poses new challenges for research reproducibility and reuse. On the other hand, increased availability and advances in computation and web technologies offer new opportunities to address the reproducibility crisis. This thesis reports on user-centered design research conducted at CERN, a key laboratory in data-intensive particle physics.
+In this thesis, we build a wider understanding of researchers' interactions with tools that support research documentation, preservation, and sharing. From a Human-Computer Interaction (HCI) perspective the following aspects are fundamental: (1) Characterize and map requirements and practices around research preservation and reuse. (2) Understand the wider role and impact of research data management (RDM) tools in scientific workflows. (3) Design tools and interactions that promote, motivate, and acknowledge reproducible research practices. Research reported in this thesis represents the first systematic application of HCI methods in the study and design of interactive tools for reproducible science. We advocate the unique role of HCI in supporting, motivating, and transforming reproducible research practices through the design of tools that enable effective RDM. This thesis paves new ways for interaction with RDM tools that support and motivate reproducible science.">Interactive Tools for Reproducible Science -- Understanding, Supporting, and Motivating Reproducible Science Practices</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            University of Utah
+                        </p>
+                    </td>
+                </tr>
                         <tr>
                             <td>
                                 <p>
@@ -2755,6 +2773,7 @@ and how to make practices to achieve the highest possible reproducibility normat
                             </td>
                         </tr>
                 <!--dissertation_placeholder-->
+                
 	</tbody>
 </table>
 

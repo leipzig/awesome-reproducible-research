@@ -254,6 +254,7 @@ class md:
             self.author = ' & '.join([last_name(a) for a in pub.authors])
         else:
             self.author = '{} et al'.format(last_name(pub.authors[0]))
+        self.school = 'Institution'
 
     def crossref(self):
         pub=self.works.doi(self.doi)
