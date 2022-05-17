@@ -2670,6 +2670,24 @@ reproducibility and replicability of public health research in the future.">Repr
                         </p>
                     </td>
                 </tr>
+		<tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/2454696322">Wallach, Joshua David 
+  <meta property="datePublished" content="2016-11-01">2016</a>
+                        </p>
+                    </td>
+			<td>
+                        <p>
+                            <span title="There is a growing movement to encourage reproducibility and transparency practices across all scientific fields, including public access to raw data and protocols and the conduct of replication studies. In this dissertation, I evaluate: the status and trends of reproducibility and transparency across all biomedical research fields; the reproducibility of subgroup analyses in randomized controlled trials; and the frequency, validity, and relevance of sex-based subgroup analyses in Cochrane reviews. Among a random sample of 441 biomedical journal articles published in 2000-2014, only one study provided a full protocol and none made raw data directly available. In general, replication studies were rare (n = 4). In a sample of 169 randomized controlled trials (from two datasets containing randomized controlled trials with at least one subgroup analysis), there were a total of 117 subgroup claims made in the abstracts of 64 articles. Of these claims, only 46 (39%) had evidence of statistically significant heterogeneity (P < 0.05 from an interaction test). Five (11%) of the 46 subgroup findings had at least one subsequent pure corroboration attempt by a meta-analysis or a randomized controlled trial. None of the corroboration attempts had a statistically significant P-value from an interaction test. Among 41 reviews, with at least one sex-treatment subgroup analysis in at least one forest plot, published in the Cochrane Database of Systematic Reviews, there were 109 separate treatment-outcome analyses (topics). Eight (7.3%) had a statistically significant sex-treatment interaction and only three were discussed by the Cochrane reviewers for a potential impact on different clinical management for males versus females. Overall, the current published biomedical literature lacks transparency. A minority of subgroup claims made in the abstracts of randomized controlled trials are supported by their own data, i.e., a significant interaction effect. Corroboration attempts of statistically significant subgroup differences are rare, and when done, the initially observed subgroup differences are not reproduced. Lastly, statistically significant sex-treatment interactions are only slightly more frequent than what would be expected by chance and there is little evidence of subsequent corroboration or clinical relevance of sex-treatment interactions.">Reproducible Research Practices, Scientific Transparency, and Subgroup Claims: A Meta-Research Dissertation</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Stanford University
+                        </p>
+                    </td>
+                </tr>
 				 <tr>
                     <td>
                         <p>
