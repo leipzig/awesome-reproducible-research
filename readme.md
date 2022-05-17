@@ -2673,8 +2673,7 @@ reproducibility and replicability of public health research in the future.">Repr
 		<tr>
                     <td>
                         <p>
-                            <a href="https://www.proquest.com/docview/2454696322">Wallach, Joshua David 
-  <meta property="datePublished" content="2016-11-01">2016</a>
+                            <a href="https://www.proquest.com/docview/2454696322">Wallach, Joshua <meta property="datePublished" content="2016-11-01">2016</a>
                         </p>
                     </td>
 			<td>
