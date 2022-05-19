@@ -10,7 +10,7 @@ import re
 import sys
 from requests.exceptions import HTTPError
 import bibtexparser
-
+from bs4 import BeautifulSoup
 
 
 
@@ -216,6 +216,10 @@ class md:
             self.doi=args.doi.replace('https://doi.org/','')
             self.link='https://doi.org/'+self.doi
             self.zenodo()
+        elif 'proquest' in args.doi:
+            self.doi=args.doi
+            self.link = self.doi
+            self.proquest()
         elif args.bibtex:
             self.bibtex()
         else:
@@ -301,8 +305,6 @@ class md:
                 response = requests.get('https://zenodo.org/api/records/{0}'.format(pub))
                 response.raise_for_status()
                 resp = response.json()
-                import pdb
-                pdb.set_trace()
             except HTTPError as http_err:
                 print(f'HTTP error occurred: {http_err}')
             except Exception as err:
@@ -319,8 +321,27 @@ class md:
                     self.title=entry['title']
                     self.author=entry['author']
                     self.yyyy=entry['year']
+                    self.yyyymmdd=self.yyyy+'0101'
                     self.school=entry['school']
-                    
+
+    def proquest(self):
+        try:
+            response = requests.get(self.link)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.content, 'html.parser')
+            myauthors = soup.find_all("div", {"class": "truncatedAuthor"})
+            self.author = re.sub('\s+$','',re.sub('\.',' ',re.sub('\n','',myauthors[0].text)))
+            mytitles = soup.find_all("h2", {"class": "unauthdocheader"})
+            self.title = mytitles[0].text
+            myheader = soup.find_all("span", {"class": "titleAuthorETC dissertpub"})
+            self.school = re.sub('^\s','',re.sub("ProQuest.+","",myheader[0].text))
+            self.yyyy=re.search('([0-9]{4})', myheader[0].text, re.IGNORECASE).group(1)
+            self.yyyymmdd=self.yyyy+'0101'
+        except HTTPError as http_err:
+            print(f'HTTP error occurred: {http_err}')
+        except Exception as err:
+            print(f'Other error occurred: {err}')
+
     def study(self):
         return("""<tr>
 					<td>
