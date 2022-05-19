@@ -2787,14 +2787,14 @@ and how to make practices to achieve the highest possible reproducibility normat
                     </td>
                     <td>
                         <p>
-                            Leuphana Universitaet Lueneburg (Germany) 
+                            Leuphana University
                         </p>
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <p>
-                            <a href="https://www.proquest.com/docview/1913432747">Abang Ibrahim, Dayang Hanani <meta property="datePublished" content="20160101">2016</a>
+                            <a href="https://www.proquest.com/docview/1913432747">Abang Ibrahim, Dayang <meta property="datePublished" content="20160101">2016</a>
                         </p>
                     </td>
                     <td>
@@ -2804,7 +2804,7 @@ and how to make practices to achieve the highest possible reproducibility normat
                     </td>
                     <td>
                         <p>
-                            University of Newcastle Upon Tyne (United Kingdom) 
+                            University of Newcastle Upon Tyne
                         </p>
                     </td>
                 </tr>
@@ -2821,14 +2821,14 @@ and how to make practices to achieve the highest possible reproducibility normat
                     </td>
                     <td>
                         <p>
-                            McGill University (Canada) 
+                            McGill University
                         </p>
                     </td>
                 </tr>
                 <tr>
                     <td>
                         <p>
-                            <a href="https://www.proquest.com/docview/2089435197">Drimer-Batca, Daniel A <meta property="datePublished" content="20180101">2018</a>
+                            <a href="https://www.proquest.com/docview/2089435197">Drimer-Batca, Daniel <meta property="datePublished" content="20180101">2018</a>
                         </p>
                     </td>
                     <td>
@@ -2845,7 +2845,7 @@ and how to make practices to achieve the highest possible reproducibility normat
                 <tr>
                     <td>
                         <p>
-                            <a href="https://www.proquest.com/docview/2564441231">Matheson, Granville James <meta property="datePublished" content="20180101">2018</a>
+                            <a href="https://www.proquest.com/docview/2564441231">Matheson, Granville <meta property="datePublished" content="20180101">2018</a>
                         </p>
                     </td>
                     <td>
@@ -2855,7 +2855,7 @@ and how to make practices to achieve the highest possible reproducibility normat
                     </td>
                     <td>
                         <p>
-                            Karolinska Institutet (Sweden) 
+                            Karolinska Institutet
                         </p>
                     </td>
                 </tr>
@@ -2879,7 +2879,7 @@ and how to make practices to achieve the highest possible reproducibility normat
                 <tr>
                     <td>
                         <p>
-                            <a href="https://www.proquest.com/docview/1827523160">Ahmad, M  K  H <meta property="datePublished" content="20160101">2016</a>
+                            <a href="https://www.proquest.com/docview/1827523160">Ahmad, MKH <meta property="datePublished" content="20160101">2016</a>
                         </p>
                     </td>
                     <td>
@@ -2889,18 +2889,11 @@ and how to make practices to achieve the highest possible reproducibility normat
                     </td>
                     <td>
                         <p>
-                            University of the West of England, Bristol (United Kingdom) 
+                            University of the West of England, Bristol
                         </p>
                     </td>
                 </tr>
                 <!--dissertation_placeholder-->
-                
-                
-                
-                
-                
-                
-                
 	</tbody>
 </table>
 
