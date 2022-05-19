@@ -2774,7 +2774,133 @@ and how to make practices to achieve the highest possible reproducibility normat
                                 </p>
                             </td>
                         </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/2314809140">Melcher, Wiebke <meta property="datePublished" content="20190101">2019</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">Free will in psychological research : considerations on methodic procedure and reproducibility of results</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Leuphana Universitaet Lueneburg (Germany) 
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/1913432747">Abang Ibrahim, Dayang Hanani <meta property="datePublished" content="20160101">2016</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">The exploitation of provenance and versioning in the reproduction of e-experiments</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            University of Newcastle Upon Tyne (United Kingdom) 
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/2506658489">Henderson, Peter <meta property="datePublished" content="20180101">2018</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">Reproducibility and Reusability in Deep Reinforcement Learning</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            McGill University (Canada) 
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/2089435197">Drimer-Batca, Daniel A <meta property="datePublished" content="20180101">2018</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">Reproducibility Crisis in Science: Causes and Possible Solutions</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Boston University 
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/2564441231">Matheson, Granville James <meta property="datePublished" content="20180101">2018</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">Reliability, Replicability and Reproducibility in Pet Imaging</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Karolinska Institutet (Sweden) 
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/1859059701">Patil, Prasad <meta property="datePublished" content="20160101">2016</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">Assessing reproducibility and value in genomic signatures</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            The Johns Hopkins University 
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>
+                            <a href="https://www.proquest.com/docview/1827523160">Ahmad, M  K  H <meta property="datePublished" content="20160101">2016</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="abstract">Scientific workflow execution reproducibility using cloud-aware provenance</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            University of the West of England, Bristol (United Kingdom) 
+                        </p>
+                    </td>
+                </tr>
                 <!--dissertation_placeholder-->
+                
+                
+                
+                
+                
+                
+                
 	</tbody>
 </table>
 
