@@ -2886,6 +2886,7 @@ and how to make practices to achieve the highest possible reproducibility normat
     - [PSU-PSY525](https://github.com/psu-psychology/psy-525-reproducible-research-2020) - Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences
     - [Monash-RRR](https://monashdatafluency.github.io/r-rep-res/) - Reproducible Research in R workshop tutorial
     - [OSU-OSRR](https://github.com/cbahlai/OSRR_course) - An open science and reproducible research course targeted at organismal ecologists
+    - [Reproducible-Science-Curriculum](https://github.com/Reproducible-Science-Curriculum) - A curriculum for teaching reproducible computational science bootcamps
 
 ## Development Resources
 - R
