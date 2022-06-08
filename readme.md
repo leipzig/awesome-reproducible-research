@@ -1986,6 +1986,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1016/j.jclinepi.2022.05.019">Gabelica et al
+							<meta property="datePublished" content="2022-05-30">2022</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Many researchers were not compliant with their published data sharing statement: mixed-methods study">None</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							3556 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>

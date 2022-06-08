@@ -264,7 +264,7 @@ class md:
         pub=self.works.doi(self.doi)
         if pub is None:
             print("Crossref doesn't know about this doi")
-            sys.exit(0)
+            sys.exit(1)
         if pub.get('created') is not None:
             if pub.get('created').get('date-time') is not None:
                 date_time_str=pub.get('created').get('date-time')
@@ -279,7 +279,7 @@ class md:
                 #             [2008, 6, 26]
         else:
             print("Cannot find created or published-online attributes")
-            sys.exit(0)
+            sys.exit(1)
 
         self.title=pub.get('title')[0]
         self.abstract=pub.get('abstract') or "Abstract"
