@@ -3367,6 +3367,7 @@ Experimental papers that have associated notebooks
 - [CODECHECK](https://codecheck.org.uk/) - community for checking executability of scientific preprints and papers
 - [CASCaD](https://www.cascad.tech/) - Certification Agency for Scientific Code and Data. Issues reproducibility certificates.
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) - Community-led reproducibility workshops
+- [CUrating for REproducibility](https://curating4reproducibility.org/) - curation of research and code for digital preservation
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
