@@ -3368,7 +3368,7 @@ Experimental papers that have associated notebooks
 - [CASCaD](https://www.cascad.tech/) - Certification Agency for Scientific Code and Data. Issues reproducibility certificates.
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) - Community-led reproducibility workshops
 - [CUrating for REproducibility](https://curating4reproducibility.org/) - curation of research and code for digital preservation
-- [Michigan Institute for Data Science Reproducibility Hub](https://midas.umich.edu/reproducibility-resources/) - reproducibility challenge manuscripts & presentations 
+- [Michigan Institute for Data Science Reproducibility Hub](https://midas.umich.edu/reproducibility-resources/) - [reproducibility challenge](https://hdsr.mitpress.mit.edu/pub/mlconlea/release/1) manuscripts & presentations 
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
