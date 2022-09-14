@@ -2009,6 +2009,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2209.04308">Samuel & Mietchen
+							<meta property="datePublished" content="2022-09-09">2022</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Computational reproducibility of Jupyter notebooks from biomedical publications">Biomedical Sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							9625 Jupyter notebooks
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
