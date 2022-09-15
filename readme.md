@@ -2939,6 +2939,24 @@ and how to make practices to achieve the highest possible reproducibility normat
                         </p>
                     </td>
                 </tr>
+		
+		                <tr>
+                    <td>
+                        <p>
+                            <a href="https://doi.org/10.22032/dbt.40396">Samuel, Sheeba <meta property="datePublished" content="20122019">2019</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="Understandability and reproducibility of scientific results are vital in every field of science. Several reproducibility measures are being taken to make the data used in the publications findable and accessible. However, there are many challenges faced by scientists from the beginning of an experiment to the end in particular for data management. The explosive growth of heterogeneous research data and understanding how this data has been derived is one of the research problems faced in this context. Interlinking the data, the steps and the results from the computational and non-computational processes of a scientific experiment is important for the reproducibility. We introduce the notion of end-to-end provenance management'' of scientific experiments to help scientists understand and reproduce the experimental results. The main contributions of this thesis are: (1) We propose a provenance modelREPRODUCE-ME'' to describe the scientific experiments using semantic web technologies by extending existing standards. (2) We study computational reproducibility and important aspects required to achieve it. (3) Taking into account the REPRODUCE-ME provenance model and the study on computational reproducibility, we introduce our tool, ProvBook, which is designed and developed to demonstrate computational reproducibility. It provides features to capture and store provenance of Jupyter notebooks and helps scientists to compare and track their results of different executions. (4) We provide a framework, CAESAR (CollAborative Environment for Scientific Analysis with Reproducibility) for the end-to-end provenance management. This collaborative framework allows scientists to capture, manage, query and visualize the complete path of a scientific experiment consisting of computational and non-computational steps in an interoperable way. We apply our contributions to a set of scientific experiments in microscopy research projects.">A provenance-based semantic approach to support understandability, reproducibility, and reuse of scientific experiments</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Friedrich-Schiller-Universität Jena
+                        </p>
+                    </td>
+                </tr>
                 <!--dissertation_placeholder-->
 	</tbody>
 </table>
