@@ -2938,9 +2938,7 @@ and how to make practices to achieve the highest possible reproducibility normat
                             University of the West of England, Bristol
                         </p>
                     </td>
-                </tr>
-		
-		                <tr>
+                </tr><tr>
                     <td>
                         <p>
                             <a href="https://doi.org/10.22032/dbt.40396">Samuel, Sheeba <meta property="datePublished" content="20122019">2019</a>
