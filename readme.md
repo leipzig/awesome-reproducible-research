@@ -1989,6 +1989,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.31222/osf.io/cd5j9">Breznau et al
+							<meta property="datePublished" content="2021-03-24">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty">Social science</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							73 teams
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1016/j.jclinepi.2022.05.019">Gabelica et al
 							<meta property="datePublished" content="2022-05-30">2022</a>
 						</p>
