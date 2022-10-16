@@ -2055,6 +2055,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1002/ijc.33946">Zaorsky et al
+							<meta property="datePublished" content="2022-01-31">2022</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Retrospective comparative effectiveness research: Will changing the analytical methods change the results?">Radiation oncology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							300k models
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
