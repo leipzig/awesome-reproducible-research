@@ -2078,6 +2078,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.31222/osf.io/sjyp3">Kohrt et al
+							<meta property="datePublished" content="2022-10-07">2022</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Replication of the natural selection of bad science">Behavioral sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Refactor
+						</p>
+					</td>
+					<td>
+						<p>
+							[One study](https://doi.org/10.1098/rsos.160384)
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
