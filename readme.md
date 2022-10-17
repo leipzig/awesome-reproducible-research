@@ -2097,7 +2097,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							[One study](https://doi.org/10.1098/rsos.160384)
+							<a href="https://doi.org/10.1098/rsos.160384">One study</a>
 						</p>
 					</td>
 				</tr>
