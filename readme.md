@@ -2185,6 +2185,18 @@ https://doi.org/10.1186/s40168-018-0575-4
 						</p>
 					</td>
 				</tr>
+												<tr>
+					<td>
+						<p>
+							<a href="https://www.dropbox.com/s/mpdgpraal1sqhtv/CTADposter_LP105A_RigorReplication_Simufilam_SF2022.pdf?dl=0">Heilbut et al "Rigor and Replication in Alzheimer’s Therapeutic Development: A Case Study"</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266627">Wang et al "Retraction: High-Affinity Naloxone Binding to Filamin A Prevents Mu Opioid Receptor–Gs Coupling Underlying Opioid Tolerance and Dependence"</a>
+						</p>
+					</td>
+				</tr>
 				</tbody>
 		</table>
 			
