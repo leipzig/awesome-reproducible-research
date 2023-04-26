@@ -2892,6 +2892,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1126/sciadv.abl4747"><span title="Generative and reproducible benchmarks or comprehensive evaluation machine learning classifiers">Orzechowski & Moore <meta property="datePublished" content="2022-11-23">2022</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;Understanding the strengths and weaknesses of machine learning (ML) algorithms is crucial to determine their scope of application. Here, we introduce the Diverse and Generative ML Benchmark (DIGEN), a collection of synthetic datasets for comprehensive, reproducible, and interpretable benchmarking of ML algorithms for classification of binary outcomes. The DIGEN resource consists of 40 mathematical functions that map continuous features to binary targets for creating synthetic datasets. These 40 functions were found using a heuristic algorithm designed to maximize the diversity of performance among multiple popular ML algorithms, thus providing a useful test suite for evaluating and comparing new methods. Access to the generative functions facilitates understanding of why a method performs poorly compared to other algorithms, thus providing ideas for improvement.&lt;/jats:p&gt;">Generative and reproducible benchmarks or comprehensive evaluation machine learning classifiers</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Machine Learning
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
