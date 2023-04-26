@@ -2805,14 +2805,12 @@ reproducibility and replicability of public health research in the future.">Repr
 				<tr>
 					<td>
 						<p>
-							<a href="https://zenodo.org/record/6797657#.ZElQquzMKlu"><span title="10 Things for Curating Reproducible and FAIR Research">Clary et al <meta property="datePublished" content="2022-06-27">2022</span></a>
+							<a href="https://zenodo.org/record/6797657"><span title="10 Things for Curating Reproducible and FAIR Research">Clary et al <meta property="datePublished" content="2022-06-27">2022</span></a>
 						</p>
 					</td>
 					<td>
 						<p>
-							<span title="&lt;p&gt;This document, &amp;quot;10 Things for Curating Reproducible and FAIR Research,&amp;quot; describes the key issues of curating reproducible and FAIR research (CURE-FAIR). It lists standards-based guidelines for ten practices, focusing primarily on research compendia produced by quantitative data-driven social science.&lt;/p&gt;
-
-&lt;p&gt;The &amp;quot;10 CURE-FAIR Things&amp;quot; are intended primarily for data curators and information professionals who are charged with publication and archival of FAIR and computationally reproducible research. Often the first re-users of the research compendium, they have the opportunity to verify that a computation can be executed and that it can reproduce pre-specified results. Secondarily, the &amp;quot;10 CURE-FAIR Things&amp;quot; will be of interest to researchers, publishers, editors, reviewers, and others who have a stake in creating, using, sharing, publishing, or preserving reproducible research.&lt;/p&gt;">10 Things for Curating Reproducible and FAIR Research</span>
+							<span title="This document, 10 Things for Curating Reproducible and FAIR Research, describes the key issues of curating reproducible and FAIR research (CURE-FAIR). It lists standards-based guidelines for ten practices, focusing primarily on research compendia produced by quantitative data-driven social science.The 10 CURE-FAIR Things are intended primarily for data curators and information professionals who are charged with publication and archival of FAIR and computationally reproducible research. Often the first re-users of the research compendium, they have the opportunity to verify that a computation can be executed and that it can reproduce pre-specified results. Secondarily, the 10 CURE-FAIR Things will be of interest to researchers, publishers, editors, reviewers, and others who have a stake in creating, using, sharing, publishing, or preserving reproducible research.">10 Things for Curating Reproducible and FAIR Research</span>
 						</p>
 					</td>
 					<td>
