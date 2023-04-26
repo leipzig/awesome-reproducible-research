@@ -213,8 +213,8 @@ class md:
             self.link='https://arxiv.org/abs/'+self.doi
             self.arxiv()
         elif 'zenodo' in args.doi:
-            self.doi=args.doi.replace('https://doi.org/','')
-            self.link='https://doi.org/'+self.doi
+            self.doi=args.doi.replace('https://zenodo.org/record/','').replace('#.+','')
+            self.link='https://zenodo.org/record/'+self.doi
             self.zenodo()
         elif 'proquest' in args.doi:
             self.doi=args.doi
@@ -297,7 +297,7 @@ class md:
         #extract from doi:10.5281/zenodo.3818329
         # {"conceptdoi":"10.5281/zenodo.3818328","conceptrecid":"3818328","created":"2020-05-09T13:39:47.718973+00:00","doi":"10.5281/zenodo.3818329","files":[{"bucket":"ef05647e-d3c9-4e45-a0c9-090fce671637","checksum":"md5:342105a963d9c70ce26232373602df9d","key":"20200513 - Data and Code for Reproducible Research - Zaringhalam and Federer.pdf","links":{"self":"https://zenodo.org/api/files/ef05647e-d3c9-4e45-a0c9-090fce671637/20200513%20-%20Data%20and%20Code%20for%20Reproducible%20Research%20-%20Zaringhalam%20and%20Federer.pdf"},"size":456320,"type":"pdf"}],"id":3818329,"links":{"badge":"https://zenodo.org/badge/doi/10.5281/zenodo.3818329.svg","bucket":"https://zenodo.org/api/files/ef05647e-d3c9-4e45-a0c9-090fce671637","conceptbadge":"https://zenodo.org/badge/doi/10.5281/zenodo.3818328.svg","conceptdoi":"https://doi.org/10.5281/zenodo.3818328","doi":"https://doi.org/10.5281/zenodo.3818329","html":"https://zenodo.org/record/3818329","latest":"https://zenodo.org/api/records/3818329","latest_html":"https://zenodo.org/record/3818329","self":"https://zenodo.org/api/records/3818329"},"metadata":{"access_right":"open","access_right_category":"success","communities":[{"id":"csvconfv5"}],"creators":[{"affiliation":"National Library of Medicine","name":"Zaringhalam, Maryam","orcid":"0000-0002-7306-0210"},{"affiliation":"National Library of Medicine","name":"Federer, Lisa","orcid":"0000-0001-5732-5285"}],"description":"<p>The National Library of Medicine held two workshops in 2019...","doi":"10.5281/zenodo.3818329","keywords":["reproducibility","data science training","open science","open code","open data"],"language":"eng","license":{"id":"CC-BY-4.0"},"publication_date":"2020-05-09","related_identifiers":[{"identifier":"10.5281/zenodo.3818328","relation":"isVersionOf","scheme":"doi"}],"relations":{"version":[{"count":1,"index":0,"is_last":true,"last_child":{"pid_type":"recid","pid_value":"3818329"},"parent":{"pid_type":"recid","pid_value":"3818328"}}]},"resource_type":{"title":"Presentation","type":"presentation"},"title":"Data and Code for Reproducible Research: Lessons Learned from the NLM Reproducibility Workshop","version":"1.0.0"},"owners":[101399],"revision":3,"stats":{"downloads":203.0,"unique_downloads":191.0,"unique_views":275.0,"version_downloads":203.0,"version_unique_downloads":191.0,"version_unique_views":275.0,"version_views":320.0,"version_volume":92632960.0,"views":320.0,"volume":92632960.0},"updated":"2020-05-13T20:20:37.470893+00:00"}
         #dict_keys(['conceptdoi', 'conceptrecid', 'created', 'doi', 'files', 'id', 'links', 'metadata', 'owners', 'revision', 'stats', 'updated'])
-        pub=re.findall('10.5281/zenodo.([0-9]+)',self.doi)[0]
+        pub=self.doi
         if pub is None:
             print("{0} is not matching the 10.5281/zenodo.([0-9]+) pattern")
         else:
@@ -305,6 +305,19 @@ class md:
                 response = requests.get('https://zenodo.org/api/records/{0}'.format(pub))
                 response.raise_for_status()
                 resp = response.json()
+                
+                self.title = resp['metadata']['title']
+                last_name = lambda author: author.split(',')[-1]
+                if len(resp['metadata']['contributors'])==1:
+                    self.author = last_name(resp['metadata']['contributors'][0]['name'])
+                elif len(resp['metadata']['contributors'])==2:
+                    self.author = ' & '.join([last_name(a['name']) for a in resp['metadata']['contributors']])
+                else:
+                    self.author = '{} et al'.format(last_name(resp['metadata']['contributors'][0]['name']))
+                self.abstract=resp['metadata']['description']
+                self.yyyymmdd=resp['metadata']["publication_date"]
+                self.yyyy=resp['metadata']["publication_date"][0:4]
+                
             except HTTPError as http_err:
                 print(f'HTTP error occurred: {http_err}')
             except Exception as err:
