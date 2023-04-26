@@ -2124,6 +2124,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.3389/fcomm.2022.1048896">Motoki & Iseki
+							<meta property="datePublished" content="2022-10-28">2022</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Evaluating replicability of ten influential research on sensory marketing">Marketing</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							10 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
@@ -3512,6 +3535,7 @@ Experimental papers that have associated notebooks
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) - Community-led reproducibility workshops
 - [CUrating for REproducibility](https://curating4reproducibility.org/) - curation of research and code for digital preservation
 - [Michigan Institute for Data Science Reproducibility Hub](https://midas.umich.edu/reproducibility-resources/) - [reproducibility challenge](https://hdsr.mitpress.mit.edu/pub/mlconlea/release/1) manuscripts & presentations 
+- [OpenMKT](https://openmkt.org/) - transparency and quality of marketing research published in academic journals
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
