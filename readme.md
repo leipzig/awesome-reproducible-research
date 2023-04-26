@@ -2170,6 +2170,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1126/scitranslmed.abb1655">McDermott et al
+							<meta property="datePublished" content="2021-03-24">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducibility in machine learning for health research: Still a ways to go">Clinical ML</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							511 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
