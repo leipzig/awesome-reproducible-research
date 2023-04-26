@@ -307,7 +307,7 @@ class md:
                 resp = response.json()
                 
                 self.title = resp['metadata']['title']
-                last_name = lambda author: author.split(',')[-1]
+                last_name = lambda author: author.split(', ')[0]
                 if len(resp['metadata']['contributors'])==1:
                     self.author = last_name(resp['metadata']['contributors'][0]['name'])
                 elif len(resp['metadata']['contributors'])==2:
