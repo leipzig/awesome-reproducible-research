@@ -2847,6 +2847,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1148/ryai.2020200029"><span title="Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers">Mongan et al <meta property="datePublished" content="2020-03-25">2020</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Abstract">Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Medical imaging
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
