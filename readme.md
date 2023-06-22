@@ -2914,6 +2914,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.31219/osf.io/4pd9n"><span title="The five pillars of computational reproducibility: Bioinformatics and beyond">Ziemann et al <meta property="datePublished" content="2023-06-19">2023</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;p&gt;Computational reproducibility is a simple premise in theory, but is difficult to achieve in practice. Building upon past efforts and proposals to maximize reproducibility and rigor in bioinformatics, we present a framework called the five pillars of reproducible computational research. These include (1) code version control and sharing, (2) compute environment control, (3) literate programming, (4) documentation and (5) FAIR data sharing. These best practices will ensure that computational research work can be reproduced quickly and easily, long into the future. This guide is designed for bioinformatic data analysts, but should be relevant for other domains.&lt;/p&gt;">The five pillars of computational reproducibility: Bioinformatics and beyond</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Bioinformatics
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
