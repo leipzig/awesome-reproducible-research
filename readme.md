@@ -2012,6 +2012,52 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1038/s42256-021-00307-0">Roberts et al
+							<meta property="datePublished" content="2021-03-15">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans">Radiology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							62 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1126/scitranslmed.abb1655">McDermott et al
+							<meta property="datePublished" content="2021-03-24">2021</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducibility in machine learning for health research: Still a ways to go">Clinical ML</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							511 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1016/j.jclinepi.2022.05.019">Gabelica et al
 							<meta property="datePublished" content="2022-05-30">2022</a>
 						</p>
@@ -2144,52 +2190,6 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					<td>
 						<p>
 							10 papers
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p>
-							<a href="https://doi.org/10.1038/s42256-021-00307-0">Roberts et al
-							<meta property="datePublished" content="2021-03-15">2021</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							<span title="Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans">Radiology</span>
-						</p>
-					</td>
-					<td>
-						<p>
-							Census
-						</p>
-					</td>
-					<td>
-						<p>
-							62 studies
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p>
-							<a href="https://doi.org/10.1126/scitranslmed.abb1655">McDermott et al
-							<meta property="datePublished" content="2021-03-24">2021</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							<span title="Reproducibility in machine learning for health research: Still a ways to go">Clinical ML</span>
-						</p>
-					</td>
-					<td>
-						<p>
-							Census
-						</p>
-					</td>
-					<td>
-						<p>
-							511 papers
 						</p>
 					</td>
 				</tr>
