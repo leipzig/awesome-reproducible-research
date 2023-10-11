@@ -2193,6 +2193,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1128/mbio.01607-23">Gihawi et al
+							<meta property="datePublished" content="2023-10-09">2023</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Major data analysis errors invalidate cancer microbiome findings">Bioinformatics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Refactor
+						</p>
+					</td>
+					<td>
+						<p>
+							1 paper
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
