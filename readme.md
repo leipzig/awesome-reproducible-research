@@ -3408,6 +3408,7 @@ and how to make practices to achieve the highest possible reproducibility normat
 ## Databases
 - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.
 - [ReproCrawl](https://crawl.reproduciblescience.org/)
+- [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
