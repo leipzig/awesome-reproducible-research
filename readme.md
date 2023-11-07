@@ -3716,6 +3716,7 @@ Experimental papers that have associated notebooks
 - [CUrating for REproducibility](https://curating4reproducibility.org/) - curation of research and code for digital preservation
 - [Michigan Institute for Data Science Reproducibility Hub](https://midas.umich.edu/reproducibility-resources/) - [reproducibility challenge](https://hdsr.mitpress.mit.edu/pub/mlconlea/release/1) manuscripts & presentations 
 - [OpenMKT](https://openmkt.org/) - transparency and quality of marketing research published in academic journals
+- [Many Co-Authors](https://manycoauthors.org/) - online platform designed to collect and share information on the provenance and availability of the data for all articles co-authored by Francesca Gino
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
