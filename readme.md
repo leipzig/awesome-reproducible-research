@@ -2216,6 +2216,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.32942/X2GG62">Gould et al
+							<meta property="datePublished" content="2023-10-03">2023</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology">Ecology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							2 datasets, 174 teams
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
