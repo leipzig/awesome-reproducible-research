@@ -2239,6 +2239,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1038/s41562-023-01749-9">Protzko et al
+							<meta property="datePublished" content="2023-11-09">2023</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="High replicability of newly discovered social-behavioural findings is achievable">Psychology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							16 findings
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
