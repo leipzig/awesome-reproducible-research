@@ -3050,6 +3050,28 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3002345"><span title="Is N-Hacking Ever OK? The consequences of collecting more data in pursuit of statistical significance">Reinagel <meta property="datePublished" content="2023-11-01">2023</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;Upon completion of an experiment, if a trend is observed that is “not quite significant,” it can be tempting to collect more data in an effort to achieve statistical significance. Such sample augmentation or “&lt;jats:italic&gt;N&lt;/jats:italic&gt;-hacking” is condemned because it can lead to an excess of false positives, which can reduce the reproducibility of results. However, the scenarios used to prove this rule tend to be unrealistic, assuming the addition of unlimited extra samples to achieve statistical significance, or doing so when results are not even close to significant; an unlikely situation for most experiments involving patient samples, cultured cells, or live animals. If we were to examine some more realistic scenarios, could there be any situations where &lt;jats:italic&gt;N&lt;/jats:italic&gt;-hacking might be an acceptable practice? This Essay aims to address this question, using simulations to demonstrate how &lt;jats:italic&gt;N&lt;/jats:italic&gt;-hacking causes false positives and to investigate whether this increase is still relevant when using parameters based on real-life experimental settings.&lt;/jats:p&gt;">Is N-Hacking Ever OK? The consequences of collecting more data in pursuit of statistical significance</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biology
+						</p>
+					</td>
+					<td>
+						<p>
+							Statistical reproducibility
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
