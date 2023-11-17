@@ -3352,6 +3352,40 @@ and how to make practices to achieve the highest possible reproducibility normat
                         </p>
                     </td>
                 </tr>
+		<tr>
+                    <td>
+                        <p>
+                            <a href="https://doi.org/10.22032/dbt.40396">Wayant, Christian Cole <meta property="datePublished" content="20210924">2021</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="The burden of cancer in the United States and abroad is comprised of significant morbidity, mortality, and psychological or financial harms. There remains a concern that the influence of published research is not maximized because of bias, lack of reproducibility, and suboptimal transparency. This dissertation comprises 10 investigations of such shortcomings. As a result of these 10 studies we first found that oncology journal policies on reporting guidelines and trial registration could be improved to strengthen the transparency in published research. We found that key improvements to oncology interventions in trials could facilitate better translation of published results to daily clinical practice. An investigation of financial relationships between oncologist-authors of influential trials and pharmaceutical drug firms uncovered pervasive, large, often undisclosed conflicts of interest. In a cohort of published trials, we found that oncologist authors misrepresented or distorted their findings to highlight favorable findings, even if this meant downplaying patient-centered endpoint results. We evaluated the potential harm from the publication of interim trial reports before patient-centered endpoints have accrued the necessary events to be fully powered. We reviewed a broad cohort of drug advertisements and found that drug firms omitted endpoints that were unfavorable, potentially compromising the integrity of the drug's advertised efficacy. We found that noninferiority trials, which are increasingly important in oncology research, were poorly designed and used statistical practices which may compromise their robustness. We turned to systematic reviews, finding that one's ability to reproduce the results of oncology meta-analyses was compromised by incomplete reporting of basic patient data. We found a significant risk of bias in systematic reviews cited by prominent cancer practice guidelines were at risk of bias. We investigated prominent cancer practice guidelines and found that patient values and preferences were undervalued. Altogether, the results of these ten studies indicate that oncology research requires a number of major and minor improvements to maximize its ability to work fully for the patient's benefit.">Rigor and reproducibility of cancer medicine evidence</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Oklahoma State University
+                        </p>
+                    </td>
+                </tr>
+		<tr>
+                    <td>
+                        <p>
+                            <a href="https://doi.org/10.5821/dissertation-2117-351121">Vilaró Pacheco, Marta <meta property="datePublished" content="20210715">2021</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="This PhD thesis is concerned with evaluating the long-term effects of interventions in the editorial peer review process of a biomedical journal. The growing need to increase the value of research and avoid waste motivates this work. We focus on evaluating the long-term impact on the number of citations (NC) of articles introduced in trials, as this will allow us to evaluate the effects of adding either a methodological expert (statistician) or reporting guidelines (RG) during the peer review process. In 2004 and 2009, two randomized trials were published in Medicina Clínica (Elsevier, Barcelona), in which these interventions were added during the editorial process. They showed a slightly positive e¿ect on paper quality, as assessed by the Manuscript Quality Assessment Instrument (MQAI) of Goodman et al. In this work, we explore the effect on NC by collecting from Web of Science (WoS) the NC of each article that had been randomized in the two previous studies. This thesis presents different ways of analyzing count data involving time-to-event, first from a perspective of count data models and then from a perspective of recurrent events methods. Results show that including a methodological reviewer (for example, a senior statistician) who is dedicated to looking for missing RG items increases the NC by 40% (95% CI: 1% to 94%) when considering that citations are independent within articles, like count models. When considering the within-article correlation of citations using the frailty gamma model, we find that including a methodological reviewer during the peer-review process increases the possibility of receiving a citation by 41% (95% CI: 0% to 102%). Independently of the method used to analyze NC, and with different assumptions, the consistency of those results gives robustness to the findings. Therefore, as measured by the NC, with this work we show that randomized studies of using interventions in the peer review process to improve scientific impact are feasible. Our proof of concept study opens the door for the development of confirmatory trials.">Long-term impact of an editorial intervention to improve paper transparency and reproducibility</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Universitat Politècnica de Catalunya
+                        </p>
+                    </td>
+                </tr>
                 <!--dissertation_placeholder-->
 	</tbody>
 </table>
