@@ -2262,6 +2262,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.5070/g6011239">Bochynska et al
+							<meta property="datePublished" content="2023-11-09">2023</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducible research practices and transparency across linguistics">Linguistics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							600 articles
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
