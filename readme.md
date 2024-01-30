@@ -3072,6 +3072,41 @@ reproducibility and replicability of public health research in the future.">Repr
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2401.03068"><span title="A how-to guide for code-sharing in biology">Abdill et al <meta property="datePublished" content="2024-01-05">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Computational biology continues to spread into new fields, becoming more
+accessible to researchers trained in the wet lab who are eager to take
+advantage of growing datasets, falling costs, and novel assays that present new
+opportunities for discovery even outside of the much-discussed developments in
+artificial intelligence. However, guidance for implementing these techniques is
+much easier to find than guidance for reporting their use, leaving biologists
+to guess which details and files are relevant. Here, we provide a set of
+recommendations for sharing code, with an eye toward guiding those who are
+comparatively new to applying open science principles to their computational
+work. Additionally, we review existing literature on the topic, summarize the
+most common tips, and evaluate the code-sharing policies of the most
+influential journals in biology, which occasionally encourage code-sharing but
+seldom require it. Taken together, we provide a user manual for biologists who
+seek to follow code-sharing best practices but are unsure where to start.">A how-to guide for code-sharing in biology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biology
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
