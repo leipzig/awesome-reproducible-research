@@ -3555,6 +3555,7 @@ and how to make practices to achieve the highest possible reproducibility normat
 - [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
 - [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 - [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
+- [Fairly Toolset](https://fairly.readthedocs.io) - Tools for preparing, publishing and downloading datasets from research data repositories direclty into computing environments. It provides integration with [Zenodo](https://fairly.readthedocs.io) and [Figshare](https://figshare.com/).
 
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
