@@ -2285,6 +2285,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pone.0300333">Kambouris et al
+							<meta property="datePublished" content="2024-03-13">2024</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Computationally reproducing results from meta-analyses in ecology and evolutionary biology using shared code and data">Ecology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							177 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
