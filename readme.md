@@ -2308,6 +2308,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3002562">Standvoss et al
+							<meta property="datePublished" content="2024-04-02">2024</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Shortcut citations in the methods section: Frequency, problems, and strategies for responsible reuse">Biology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							750 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
