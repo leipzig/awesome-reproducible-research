@@ -2056,6 +2056,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 				</tr>
 				<tr>
+									<td>
+										<p>
+											<a href="https://doi.org/10.1038/s41597-021-00981-0">Tedersoo et al
+											<meta property="datePublished" content="2021-07-27">2021</a>
+										</p>
+									</td>
+									<td>
+										<p>
+											<span title="Data sharing practices and data availability upon request differ across scientific disciplines">9 Fields</span>
+										</p>
+									</td>
+									<td>
+										<p>
+											Census
+										</p>
+									</td>
+									<td>
+										<p>
+											875 articles
+										</p>
+									</td>
+								</tr>
+				<tr>
 					<td>
 						<p>
 							<a href="https://doi.org/10.1016/j.jclinepi.2022.05.019">Gabelica et al
