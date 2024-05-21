@@ -12,7 +12,7 @@ pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
 pyzenodo3==1.0.2
-requests==2.31.0
+requests==2.32.0
 sgmllib3k==1.0.0
 six==1.16.0
 soupsieve==2.5
