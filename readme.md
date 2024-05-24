@@ -3490,6 +3490,32 @@ and how to make practices to achieve the highest possible reproducibility normat
                         </p>
                     </td>
                 </tr>
+				<tr>
+                    <td>
+                        <p>
+                            <a href="https://etda.libraries.psu.edu/files/final_submissions/29211">Sebastian, Aswathy<meta property="datePublished" content="20231013">2023</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="Bioinformatics research involves managing various types of data and employing diverse
+computational methods. Workflows consolidate the discrete data analytics tasks into a unified
+process. Automation, defined as using computational technologies with minimal human
+intervention, proves vital in addressing the increasing complexity of workflows and meeting
+scientific standards for reproducibility, scalability, and reusability. Nevertheless, integrating varied
+datasets and software tools remains challenging.
+This dissertation focuses on identifying suitable data analysis techniques, creating reusable
+and reproducible analysis pipelines, and using them for scientific discovery. The developed
+computational methods are applied explicitly to areas such as genome assembly, transcriptome
+analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowledge Through Reproducible Bioinformatics Workflows</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Penn State University
+                        </p>
+                    </td>
+                </tr>
                 <!--dissertation_placeholder-->
 	</tbody>
 </table>
