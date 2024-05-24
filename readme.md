@@ -3493,7 +3493,7 @@ and how to make practices to achieve the highest possible reproducibility normat
 				<tr>
                     <td>
                         <p>
-                            <a href="https://etda.libraries.psu.edu/files/final_submissions/29211">Sebastian, Aswathy<meta property="datePublished" content="20231013">2023</a>
+                            <a href="https://etda.libraries.psu.edu/files/final_submissions/29211">Sebastian, Aswathy <meta property="datePublished" content="20231013">2023</a>
                         </p>
                     </td>
                     <td>
