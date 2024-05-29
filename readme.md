@@ -3176,6 +3176,28 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.2139/ssrn.4801433"><span title="Characterising Reproducibility Debt in Scientific Software:A Systematic Literature Review">Hassan et al <meta property="datePublished" content="2024-04-20">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Abstract">Characterising Reproducibility Debt in Scientific Software:A Systematic Literature Review</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproducible Research
+						</p>
+					</td>
+					<td>
+						<p>
+							Review of reviews
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
