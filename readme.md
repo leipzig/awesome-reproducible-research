@@ -2354,6 +2354,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/http://dx.doi.org/10.2139/ssrn.4790780">Brodeur et al
+							<meta property="datePublished" content="2024-04-11">2024</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Mass Reproducibility and Replicability: A New Hope">Economics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							110 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
