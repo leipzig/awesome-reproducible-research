@@ -4018,6 +4018,7 @@ Experimental papers that have associated notebooks
 - [Michigan Institute for Data Science Reproducibility Hub](https://midas.umich.edu/reproducibility-resources/) - [reproducibility challenge](https://hdsr.mitpress.mit.edu/pub/mlconlea/release/1) manuscripts & presentations 
 - [OpenMKT](https://openmkt.org/) - transparency and quality of marketing research published in academic journals
 - [Many Co-Authors](https://manycoauthors.org/) - online platform designed to collect and share information on the provenance and availability of the data for all articles co-authored by Francesca Gino
+- [FORRT](https://forrt.org/) - Framework for Open and Reproducible Research Training advancing research transparency, reproducibility, rigor, and ethics through pedagogical reform and meta-scientific research
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
