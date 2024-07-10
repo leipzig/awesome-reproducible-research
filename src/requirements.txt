@@ -1,7 +1,7 @@
 arxiv==2.1.0
 beautifulsoup4==4.12.3
 bibtexparser==1.4.1
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 crossrefapi==1.6.0
 feedparser==6.0.11
