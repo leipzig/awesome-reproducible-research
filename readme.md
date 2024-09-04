@@ -3221,6 +3221,50 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1016/j.cell.2024.07.045"><span title="The evolution of computational research in a data-centric world">Deshpande et al <meta property="datePublished" content="2024-08-22">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Abstract">The evolution of computational research in a data-centric world</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Computational biology
+						</p>
+					</td>
+					<td>
+						<p>
+							Review
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1186/s13059-024-03343-2"><span title="Genomic reproducibility in the bioinformatics era">Baykal et al <meta property="datePublished" content="2024-08-09">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;In biomedical research, validating a scientific discovery hinges on the reproducibility of its experimental results. However, in genomics, the definition and implementation of reproducibility remain imprecise. We argue that genomic reproducibility, defined as the ability of bioinformatics tools to maintain consistent results across technical replicates, is essential for advancing scientific knowledge and medical applications. Initially, we examine different interpretations of reproducibility in genomics to clarify terms. Subsequently, we discuss the impact of bioinformatics tools on genomic reproducibility and explore methods for evaluating these tools regarding their effectiveness in ensuring genomic reproducibility. Finally, we recommend best practices to improve genomic reproducibility.&lt;/jats:p&gt;">Genomic reproducibility in the bioinformatics era</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Genomics
+						</p>
+					</td>
+					<td>
+						<p>
+							Review
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
