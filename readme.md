@@ -2377,6 +2377,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1038/s41597-024-03786-z">Hughes-Noehrer et al
+							<meta property="datePublished" content="2024-08-23">2024</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="UK Reproducibility Network open and transparent research practices survey dataset">Research</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							2500 researchers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
