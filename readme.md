@@ -3288,6 +3288,28 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2411.02283"><span title="Continuous Analysis: Evolution of Software Engineering and Reproducibility for Science">Malladi et al <meta property="datePublished" content="2024-11-04">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Reproducibility in research remains hindered by complex systems involving data, models, tools, and algorithms. Studies highlight a reproducibility crisis due to a lack of standardized reporting, code and data sharing, and rigorous evaluation. This paper introduces the concept of Continuous Analysis to address the reproducibility challenges in scientific research, extending the DevOps lifecycle. Continuous Analysis proposes solutions through version control, analysis orchestration, and feedback mechanisms, enhancing the reliability of scientific results. By adopting CA, the scientific community can ensure the validity and generalizability of research outcomes, fostering transparency and collaboration and ultimately advancing the field.&lt;/jats:p&gt;">Continuous Analysis: Evolution of Software Engineering and Reproducibility for Science</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
