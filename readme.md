@@ -2400,6 +2400,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.3389/fninf.2024.1376022">Ioanas et al
+							<meta property="datePublished" content="2024-07-22">2024</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Neuroimaging article reexecution and reproduction assessment system">Neuroimaging</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							refactor
+						</p>
+					</td>
+					<td>
+						<p>
+							1 study
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
