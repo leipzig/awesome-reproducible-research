@@ -3333,6 +3333,28 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1140/epjds/s13688-024-00514-w"><span title="Computational reproducibility in computational social science">Schoch et al <meta property="datePublished" content="2024-12-02">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:title&gt;Abstract&lt;/jats:title&gt;&lt;jats:p&gt;Open science practices have been widely discussed and have been implemented with varying success in different disciplines. We argue that computational-x disciplines such as computational social science, are also susceptible to the symptoms of the crises, but in terms of reproducibility. We expand the binary definition of reproducibility into a tier system which allows increasing levels of reproducibility based on external verifiability to counteract the practice of open-washing. We provide solutions for barriers in Computational Social Science that hinder researchers from obtaining the highest level of reproducibility, including the use of alternate data sources and considering reproducibility proactively.&lt;/jats:p&gt;">Computational reproducibility in computational social science</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Social Sciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
