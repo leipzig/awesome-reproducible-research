@@ -9,25 +9,32 @@
 
 ## Contents
 
-- [Case studies](#case-studies)
-- [Ad-hoc reproductions](#ad-hoc-reproductions)
-- [Theory papers](#theory-papers)
-- [Theses and dissertations](#theses-and-dissertations)
-- [Tool reviews](#tool-reviews)
-- [Courses](#courses)
-- [Development Resources](#development-resources)
-- [Literature tools](#literature-tools)
-- [Scientific Data Management Systems](#scientific-data-management-systems)
-- [Books](#books)
-- [Databases](#databases)
-- [Data Repositories](#data-repositories)
-- [Exemplar Portals](#exemplar-portals)
-- [Runnable Papers](#runnable-papers)
-- [Journals](#journals)
-- [Ontologies](#ontologies)
-- [Minimal Standards](#minimal-standards)
-- [Organizations](#organizations)
-- [Awesome Lists](#awesome-lists)
+- [Awesome Reproducible Research  ](#awesome-reproducible-research--)
+	- [Contents](#contents)
+	- [Case studies](#case-studies)
+	- [Ad-hoc reproductions](#ad-hoc-reproductions)
+	- [Theory papers](#theory-papers)
+	- [Theses and dissertations](#theses-and-dissertations)
+	- [Tool reviews](#tool-reviews)
+	- [Courses](#courses)
+	- [Development Resources](#development-resources)
+	- [Literature tools](#literature-tools)
+	- [Scientific Data Management Systems](#scientific-data-management-systems)
+	- [Books](#books)
+	- [Databases](#databases)
+	- [Data Repositories](#data-repositories)
+	- [Exemplar Portals](#exemplar-portals)
+	- [Runnable Papers](#runnable-papers)
+		- [Haibe-Kains lab](#haibe-kains-lab)
+		- [Patcher lab](#patcher-lab)
+		- [Siepel lab](#siepel-lab)
+	- [Journals](#journals)
+	- [Ontologies](#ontologies)
+	- [Minimal Standards](#minimal-standards)
+	- [Organizations](#organizations)
+	- [Awesome Lists](#awesome-lists)
+	- [Contribute](#contribute)
+	- [License](#license)
 
 ## Case studies
 The term "case studies" is used here in a general sense to describe any study of reproducibility. A _reproduction_ is an attempt to arrive at comparable results with identical data using computational methods described in a paper. A _refactor_ involves refactoring existing code into frameworks and other reproducibility best practices while preserving the original data. A _replication_ involves generating new data and applying existing methods to achieve comparable results. A _robustness test_ applies various protocols, workflows, statistical models or parameters to a given data set to study their effect on results, either as a follow-up to an existing study or as a "bake-off". A _census_ is a high-level tabulation conducted by a third party. A _survey_ is a questionnaire sent to practitioners. A _case narrative_ is an in-depth first-person account. An _independent discussion_ utilizes a secondary independent author to interpret the results of a study as a means to improve inferential reproducibility.
@@ -2414,7 +2421,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							refactor
+							Refactor
 						</p>
 					</td>
 					<td>
