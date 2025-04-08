@@ -2423,6 +2423,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.7554/eLife.81051">Heckerman et al
+							<meta property="datePublished" content="2025-03-26">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Transparency of research practices in cardiovascular literature">Cardiovascular Science</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							639 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
