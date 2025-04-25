@@ -3870,8 +3870,6 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [orderly](https://vimc.github.io/orderly/articles/orderly.html) - R package that automates writing reproducible analyses
 - Linux-related (polyglot)
     - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
-- Python
-    - [mlf-core](https://mlf-core.com) - Framework to develop GPU deterministic machine learning models with PyTorch, TensorFlow and XGBoost
 
 ## Literature tools
 - [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles 
@@ -3888,7 +3886,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 - [Implementing Reproducible Research 2014](https://osf.io/s9tya/) - Describes projects: Sumatra, Vistrails, CDE, SOLE, JUMBO, CML, knitr. Content available on OSF.
 - [The Practice of Reproducible Research 2017](https://g.co/kgs/jZiMR7) - 31 first person case narratives and intro chapters
 - [Dynamic Documents with R and knitr 2015](https://g.co/kgs/dpzkF4)
-- [The Turing Way: A Handbook for Reproducible Data Science 2020](https://the-turing-way.netlify.com/introduction/introduction)
+- [The Turing Way: A Handbook for Reproducible Data Science 2020](https://book.the-turing-way.org/)
 - [Reproducibility and Replicability in Science](https://www.nap.edu/catalog/25303/reproducibility-and-replicability-in-science)
 - [Reproducibility: Principles, Problems, Practices, and Prospects](https://www.wiley.com/en-ec/Reproducibility:+Principles,+Problems,+Practices,+and+Prospects+-p-9781118864975)
 
