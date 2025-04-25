@@ -3892,7 +3892,6 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 
 ## Databases
 - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.
-- [ReproCrawl](https://crawl.reproduciblescience.org/)
 - [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
 
 ## Data Repositories
@@ -4198,7 +4197,6 @@ Experimental papers that have associated notebooks
 - [CODECHECK](https://codecheck.org.uk/) - community for checking executability of scientific preprints and papers
 - [CASCaD](https://www.cascad.tech/) - Certification Agency for Scientific Code and Data. Issues reproducibility certificates.
 - [Reproducibility for Everyone](https://www.repro4everyone.org/) - Community-led reproducibility workshops
-- [CUrating for REproducibility](https://curating4reproducibility.org/) - curation of research and code for digital preservation
 - [Michigan Institute for Data Science Reproducibility Hub](https://midas.umich.edu/reproducibility-resources/) - [reproducibility challenge](https://hdsr.mitpress.mit.edu/pub/mlconlea/release/1) manuscripts & presentations 
 - [OpenMKT](https://openmkt.org/) - transparency and quality of marketing research published in academic journals
 - [Many Co-Authors](https://manycoauthors.org/) - online platform designed to collect and share information on the provenance and availability of the data for all articles co-authored by Francesca Gino
