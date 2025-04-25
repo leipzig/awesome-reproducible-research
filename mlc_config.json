@@ -1,4 +1,9 @@
 {
   "aliveStatusCodes": [200, 429],
-  "ignorePatterns": [{ "pattern": "\\[.*\\]\\(#.*\\)" }]
+  "ignorePatterns": [
+    { "pattern": "^https://datacite.org" },
+    { "pattern": "^https://bioportal.bioontology.org" },
+    { "pattern": "^https://openmkt.org" },
+    { "pattern": "\\[.*\\]\\(#.*\\)" }
+  ]
 }
