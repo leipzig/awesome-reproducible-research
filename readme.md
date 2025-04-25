@@ -3876,7 +3876,6 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 ## Literature tools
 - [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles 
 - [SciScore](https://www.sciscore.com/) - SciScore methods sections for a variety of rigor criteria and analyzes sentences that contain research resources (antibodies, cell lines, plasmids and software tools) and determines how uniquely identifiable that resource is based off of the provided metadata.
-- [Ripeta](https://www.ripeta.com/) - Ripeta quickly scans research manuscripts or articles to identify and record key reproducibility variables, such as data availability, code acknowledgements, and research analysis methods.
 
 ## Scientific Data Management Systems
 - [DVC](https://dvc.org/) - DVC tracks machine learning models and data sets
