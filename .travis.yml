@@ -1,6 +1,0 @@
-language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-#a 429 is a too many hits from travis warning
-#a 403 is a restricted page, happens with travis and researchgate. fuck researchgate.
-script: awesome_bot --allow-dupe --allow-redirect --allow 429 --allow 403 readme.md
