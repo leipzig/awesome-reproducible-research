@@ -284,6 +284,9 @@ class md:
         self.title=pub.get('title')[0]
         self.abstract=pub.get('abstract') or "Abstract"
         
+        # Use family if it exists in first author, otherwise use name
+        if 'family' not in pub['author'][0]:
+            pub['author'][0]['family'] = pub['author'][0].get('name', '')
         if len(pub['author'])==1:
             self.author = pub['author'][0]['family']
         elif len(pub['author'])==2:

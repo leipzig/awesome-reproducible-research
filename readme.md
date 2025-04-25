@@ -2453,6 +2453,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1101/2025.04.02.645026">The Brazilian Reproducibility Initiative et al
+							<meta property="datePublished" content="2025-04-05">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Estimating the replicability of Brazilian biomedical science">Molecular biology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							56 labs 143 replications 56 experiments
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
