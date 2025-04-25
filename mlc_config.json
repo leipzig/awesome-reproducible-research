@@ -4,6 +4,10 @@
     { "pattern": "^https://datacite.org" },
     { "pattern": "^https://bioportal.bioontology.org" },
     { "pattern": "^https://openmkt.org" },
+    { "pattern": "^https://figshare.com" },
+    { "pattern": "^https://zenodo.org" },
+    { "pattern": "^https://www.ncbi.nlm.nih.gov" },
+    { "pattern": "^https://www.ebi.ac.uk" },
     { "pattern": "\\[.*\\]\\(#.*\\)" }
   ]
 }
