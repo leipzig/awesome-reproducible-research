@@ -2472,7 +2472,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							56 labs 143 replications 56 experiments
+							56 experiments, 143 replications, 56 labs
 						</p>
 					</td>
 				</tr>
