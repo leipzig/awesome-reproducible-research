@@ -1,7 +1,4 @@
 {
   "aliveStatusCodes": [200, 429],
-  "ignorePatterns": [
-    { "pattern": "^https://private.example.com" },
-    { "pattern": "\\[.*\\]\\(#.*\\)" } // Skip anchor links
-  ]
+  "ignorePatterns": [{ "pattern": "\\[.*\\]\\(#.*\\)" }]
 }
