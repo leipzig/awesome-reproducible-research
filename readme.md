@@ -2476,6 +2476,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1101/2025.05.08.652934">Baykal et al
+							<meta property="datePublished" content="2025-05-14">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Assessing genomic reproducibility of read alignment tools">Bioinformatics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							8 tools
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
