@@ -6,11 +6,7 @@
 
 > A curated list of reproducible research case studies, projects, tutorials, and media
 
-
-## Contents
-
 - [Awesome Reproducible Research  ](#awesome-reproducible-research--)
-	- [Contents](#contents)
 	- [Case studies](#case-studies)
 	- [Ad-hoc reproductions](#ad-hoc-reproductions)
 	- [Theory papers](#theory-papers)
