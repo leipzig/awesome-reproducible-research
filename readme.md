@@ -3910,7 +3910,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 - [Reproducibility: Principles, Problems, Practices, and Prospects](https://www.wiley.com/en-ec/Reproducibility:+Principles,+Problems,+Practices,+and+Prospects+-p-9781118864975)
 
 ## Databases
-- [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.
+<!-- broken link - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.-->
 - [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
 
 ## Data Repositories
