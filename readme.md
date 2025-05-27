@@ -2206,6 +2206,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					<td>
 						<p>
 							<span title="Evaluating replicability of ten influential research on sensory marketing">Marketing</span>
+							<a href="https://openmkt.org/research/replications-of-marketing-studies/">web</a>
 						</p>
 					</td>
 					<td>
