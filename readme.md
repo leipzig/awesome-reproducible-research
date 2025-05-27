@@ -2200,13 +2200,13 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					<td>
 						<p>
 							<a href="https://doi.org/10.3389/fcomm.2022.1048896">Motoki & Iseki
-							<meta property="datePublished" content="2022-10-28">2022</a>
+							<meta property="datePublished" content="2022-10-28">2022</a> <a href="https://openmkt.org/research/replications-of-marketing-studies/">web</a>
 						</p>
 					</td>
 					<td>
 						<p>
 							<span title="Evaluating replicability of ten influential research on sensory marketing">Marketing</span>
-							<a href="https://openmkt.org/research/replications-of-marketing-studies/">web</a>
+							
 						</p>
 					</td>
 					<td>
