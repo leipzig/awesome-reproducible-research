@@ -2496,6 +2496,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/abs/2505.21590v1">Saju et al
+							<meta property="datePublished" content="2025-05-27">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Computational Reproducibility of R Code Supplements on OSF">Statistics</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							264 R projects
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
