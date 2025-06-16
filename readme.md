@@ -3893,7 +3893,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 ## Courses
 - MOOCs
     - [Coursera Reproducible Research](https://www.coursera.org/learn/reproducible-research) - Roger Peng et al JHU. Very popular course.
-    - [edX Principles, Statistical and Computational Tools for Reproducible Science]([https://www.edx.org/course/principles-statistical-computational-harvardx-ph527x](https://www.edx.org/learn/data-science/harvard-university-principles-statistical-and-computational-tools-for-reproducible-data-science) - John Quackenbush et al Harvard
+    - [edX Principles, Statistical and Computational Tools for Reproducible Science](https://www.edx.org/learn/data-science/harvard-university-principles-statistical-and-computational-tools-for-reproducible-data-science) - John Quacken et al Harvard
     - [Reproducible research: methodological principles for transparent science](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) - Beginner level. Note taking, version control, notebooks, reproducible data analysis. Bilingual English/French.
 - Online course content
     - [Tools for Reproducible Research](http://kbroman.org/Tools4RR/) - Karl Broman UW, includes resources page
