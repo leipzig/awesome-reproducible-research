@@ -4226,7 +4226,7 @@ Experimental papers that have associated notebooks
 - [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
 
 ## Minimal Standards
-- [STORMS](https://www.stormsmicrobiome.org/) - Strengthening The Organization and Reporting of Microbiome Studies (STORMS) is a checklist for reporting on human microbiome studies. [Preprint](https://doi.org/10.1101/2020.06.24.167353)
+- [STORMS](https://www.stormsmicrobiome.org/) - Strengthening The Organization and Reporting of Microbiome Studies (STORMS) is a checklist for reporting on human microbiome studies. [Paper](https://doi.org/10.1038/s41591-021-01552-x)
 
 ## Organizations
 - [ResearchObject.org](http://www.researchobject.org/) - RO specifications and publications
