@@ -4378,7 +4378,7 @@ Experimental papers that have associated notebooks
 - [OpenMKT](https://openmkt.org/) - transparency and quality of marketing research published in academic journals
 - [Many Co-Authors](https://manycoauthors.org/) - online platform designed to collect and share information on the provenance and availability of the data for all articles co-authored by Francesca Gino
 - [FORRT](https://forrt.org/) - Framework for Open and Reproducible Research Training advancing research transparency, reproducibility, rigor, and ethics through pedagogical reform and meta-scientific research
-- [World Bank Reproducible Research Initiative](https://www.worldbank.org/en/research/reproducible-research) - Institutional framework transforming development economics through transparent science and reproducible research practices
+- [World Bank Reproducible Research Initiative](https://reproducibility.worldbank.org/) - Institutional framework transforming development economics through transparent science and reproducible research practices
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
