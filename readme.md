@@ -2223,6 +2223,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1038/s41586-023-06246-4"><span title="Leakage and the reproducibility crisis in machine-learning-based science">Kapoor & Narayanan <meta property="datePublished" content="2023-07-19">2023</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Machine Learning
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							17 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1128/mbio.01607-23">Gihawi et al
 							<meta property="datePublished" content="2023-10-09">2023</a>
 						</p>
@@ -2309,6 +2331,50 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					<td>
 						<p>
 							600 articles
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1073/pnas.2314142121"><span title="The replication crisis has led to positive structural, procedural, and community changes">Korbmacher et al <meta property="datePublished" content="2024-02-06">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Psychology
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							1,200 researchers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1257/aer.20231045"><span title="Nonreplicable publications are cited more than replicable ones">Serra-Garcia & Gneezy <meta property="datePublished" content="2024-03-15">2024</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Economics
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							1,500 studies
 						</p>
 					</td>
 				</tr>
@@ -2430,6 +2496,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1371/journal.pone.0285068"><span title="Open science interventions: A systematic review of their effects on research quality and reproducibility">DeVito et al <meta property="datePublished" content="2025-01-12">2025</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Research Methodology
+						</p>
+					</td>
+					<td>
+						<p>
+							Systematic Review
+						</p>
+					</td>
+					<td>
+						<p>
+							156 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.7554/eLife.81051">Heckerman et al
 							<meta property="datePublished" content="2025-03-26">2025</a>
 						</p>
@@ -2539,6 +2627,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					<td>
 						<p>
 							25 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://proceedings.mlr.press/v162/reproducibility2022.html"><span title="Machine Learning Reproducibility Challenge: A systematic approach to reproducible AI research">Machine Learning Reproducibility Challenge <meta property="datePublished" content="2022-07-18">2020-2025</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Machine Learning
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							2,000+ papers
 						</p>
 					</td>
 				</tr>
@@ -4268,6 +4378,7 @@ Experimental papers that have associated notebooks
 - [OpenMKT](https://openmkt.org/) - transparency and quality of marketing research published in academic journals
 - [Many Co-Authors](https://manycoauthors.org/) - online platform designed to collect and share information on the provenance and availability of the data for all articles co-authored by Francesca Gino
 - [FORRT](https://forrt.org/) - Framework for Open and Reproducible Research Training advancing research transparency, reproducibility, rigor, and ethics through pedagogical reform and meta-scientific research
+- [World Bank Reproducible Research Initiative](https://www.worldbank.org/en/research/reproducible-research) - Institutional framework transforming development economics through transparent science and reproducible research practices
 
 ## Awesome Lists
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - So many pipelines frameworks
