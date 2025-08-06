@@ -2652,6 +2652,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1038/s42003-025-08412-1">Yücel et al
+							<meta property="datePublished" content="2025-08-04">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="fNIRS reproducibility varies with data quality, analysis pipelines, and researcher experience">Brain imaging</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Robustness test
+						</p>
+					</td>
+					<td>
+						<p>
+							38 teams
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
