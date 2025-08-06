@@ -4043,7 +4043,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [CRAN Task View - Reproducible Research](https://cran.r-project.org/web/views/ReproducibleResearch.html) - packages relevant to RCR in R
     - [liftr](https://liftr.me/) - persistent reproducible reporting through containerized R Markdown documents
     - [repo](https://github.com/franapoli/repo) - provenance framework package
-    - [orderly](https://vimc.github.io/orderly/articles/orderly.html) - R package that automates writing reproducible analyses
+    - [orderly](https://github.com/mrc-ide/orderly2) - R package that automates writing reproducible analyses
 - Linux-related (polyglot)
     - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
 
