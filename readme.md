@@ -2675,6 +2675,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+			    <tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.12688/openreseurope.20221.2">Konkol et al
+							<meta property="datePublished" content="2025-08-11">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Encouraging reusability of computational research through Data-to-Knowledge Packages - A hydrological use case">Earth system sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction & Reusability
+						</p>
+					</td>
+					<td>
+						<p>
+							1 analysis
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
