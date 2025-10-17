@@ -2655,6 +2655,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3002870">Cobey et al
+							<meta property="datePublished" content="2024-11-05">2024</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Biomedical researchers' perspectives on the reproducibility of research">Biomedical sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							1630 participants
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1038/s42003-025-08412-1">Yücel et al
 							<meta property="datePublished" content="2025-08-04">2025</a>
 						</p>
@@ -2678,23 +2701,23 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/10.1371/journal.pbio.3002870">Cobey et al
-							<meta property="datePublished" content="2024-11-05">2024</a>
+							<a href="https://doi.org/10.12688/openreseurope.20221.2">Konkol et al
+							<meta property="datePublished" content="2025-08-11">2025</a>
 						</p>
 					</td>
 					<td>
 						<p>
-							<span title="Biomedical researchers’ perspectives on the reproducibility of research">Biomedical sciences</span>
+							<span title="Encouraging reusability of computational research through Data-to-Knowledge Packages - A hydrological use case">Earth system sciences</span>
 						</p>
 					</td>
 					<td>
 						<p>
-							Survey
+							Reproduction & Reusability
 						</p>
 					</td>
 					<td>
 						<p>
-							1630 participants
+							1 analysis
 						</p>
 					</td>
 				</tr>
