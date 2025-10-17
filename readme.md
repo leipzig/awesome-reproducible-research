@@ -2675,6 +2675,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3002870">Cobey et al
+							<meta property="datePublished" content="2024-11-05">2024</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Biomedical researchers’ perspectives on the reproducibility of research">Biomedical sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							1630 participants
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
