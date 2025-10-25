@@ -2721,6 +2721,29 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1145/3736731.3746160">Costa et al
+							<meta property="datePublished" content="2025-10-21">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="CompRep: A Dataset For Computational Reproducibility">Diverse</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Refactor
+						</p>
+					</td>
+					<td>
+						<p>
+							18 experiments
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
