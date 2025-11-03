@@ -3703,6 +3703,23 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 				 <tr>
                     <td>
                         <p>
+                            <a href="https://repositorio-aberto.up.pt/bitstream/10216/168634/2/734973.pdf">Costa, Lázaro Gabriel Barros da <meta property="datePublished" content="2025-01-01">2025</a>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            <span title="A dissertation on aiding researchers in making their computational experiments reproducible. Focuses on tools, frameworks, and best practices for ensuring reproducibility in computational research within electrical engineering, electronic engineering, and information engineering fields.">Aiding researchers making their computational experiments reproducible</span>
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            Universidade do Porto
+                        </p>
+                    </td>
+                </tr>
+		<tr>
+                    <td>
+                        <p>
                             <a href="https://newtraell.cs.uchicago.edu/files/phd_paper/quanpt.pdf">Pham, Quan <meta property="datePublished" content="2014-08-01">2014</a>
                         </p>
                     </td>
