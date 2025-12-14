@@ -2807,7 +2807,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							Deep learning models
+							3 models
 						</p>
 					</td>
 				</tr>
@@ -2824,12 +2824,12 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							Robustness test
+							Census
 						</p>
 					</td>
 					<td>
 						<p>
-							Deep learning models
+							100 papers
 						</p>
 					</td>
 				</tr>
