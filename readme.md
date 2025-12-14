@@ -2851,7 +2851,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 					</td>
 					<td>
 						<p>
-							Reproducibility barriers
+							133 researchers
 						</p>
 					</td>
 				</tr>
