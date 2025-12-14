@@ -2770,28 +2770,6 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
-							<a href="https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1572937/full"><span title="A standards perspective on genomic data reusability and reproducibility">Frontiers in Bioinformatics <meta property="datePublished" content="2025-03-01">2025</span></a>
-						</p>
-					</td>
-					<td>
-						<p>
-							Bioinformatics
-						</p>
-					</td>
-					<td>
-						<p>
-							Census
-						</p>
-					</td>
-					<td>
-						<p>
-							Genomic data standards
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p>
 							<a href="https://www.jax.org/news-and-insights/jax-blog/2025/may/replicability-in-preclinical-research"><span title="Fostering Replicability in Preclinical Research">Jackson Laboratory <meta property="datePublished" content="2025-05-01">2025</span></a>
 						</p>
 					</td>
