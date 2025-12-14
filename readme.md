@@ -701,6 +701,29 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.31234/osf.io/z9kx6">Buttliere & Wicherts
+							<meta property="datePublished" content="2018-07-02">2018</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Opinions on the value of direct replication: A survey of 2,000 psychologists">Psychology</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							2,056 psychologists
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="http://doi.org/10.1371/journal.pone.0213013">Madduri et al <meta property="datePublished" content="2019-04-09">2018</a>
 						</p>
 					</td>
@@ -2744,6 +2767,94 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.jax.org/news-and-insights/jax-blog/2025/may/replicability-in-preclinical-research"><span title="Fostering Replicability in Preclinical Research">Jackson Laboratory <meta property="datePublished" content="2025-05-01">2025</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Preclinical research
+						</p>
+					</td>
+					<td>
+						<p>
+							Replication
+						</p>
+					</td>
+					<td>
+						<p>
+							24,758 hours of mouse behavioral data
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://arxiv.org/html/2505.03165v1"><span title="Improving the Reproducibility of Deep Learning Software: An Initial Investigation through a Case Study Analysis">ArXiv <meta property="datePublished" content="2025-05-01">2025</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Software engineering
+						</p>
+					</td>
+					<td>
+						<p>
+							Case narrative
+						</p>
+					</td>
+					<td>
+						<p>
+							3 models
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11888858/"><span title="Evaluating the method reproducibility of deep learning models in biodiversity research">PeerJ Computer Science <meta property="datePublished" content="2025-01-01">2025</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biodiversity
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							100 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://f1000research.com/articles/14-1278/v1"><span title="Survey about Barriers and Solutions for Enhancing Computational Reproducibility in Scientific Research">F1000Research <meta property="datePublished" content="2025-11-01">2025</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Computational science
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproducibility barriers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
@@ -3676,6 +3787,72 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1002/aaai.70004">Desai et al <meta property="datePublished" content="2025-01-01">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Addresses the reproducibility crisis in AI and ML fields and provides comprehensive analysis of reproducibility challenges, examining what reproducibility means in the context of artificial intelligence and machine learning research">What is reproducibility in artificial intelligence and machine learning research?</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Artificial Intelligence
+						</p>
+					</td>
+					<td>
+						<p>
+							Conceptual framework
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1002/aaai.70002">Semmelrock et al <meta property="datePublished" content="2025-01-01">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Analyzes barriers to ML reproducibility and drivers that support it, including tools, practices, and interventions, then maps barriers to drivers to determine feasibility of addressing reproducibility challenges in machine learning">Reproducibility in Machine Learning-based Research: Overview, Barriers and Drivers</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Machine Learning
+						</p>
+					</td>
+					<td>
+						<p>
+							Survey
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.tandfonline.com/doi/full/10.1080/02698595.2025.2538937">Zvyagintseva & Melnikova <meta property="datePublished" content="2025-01-01">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Critical examination of reproducibility crisis claims, questioning the scope of the crisis and whether it goes significantly beyond inherent experimental variation, advocating for evidence-based approaches">Is There a Reproducibility Crisis? On the Need for Evidence-based Approaches</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Science
+						</p>
+					</td>
+					<td>
+						<p>
+							Critical analysis
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
@@ -4128,6 +4305,74 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
                                     						</p>
                                     					</td>
                                     				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.jmir.org/2025/1/e63343">JMIR <meta property="datePublished" content="2025-01-01">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Standardizing Survey Data Collection to Enhance Reproducibility: Development and Comparative Evaluation of the ReproSchema Ecosystem. ReproSchema is an ecosystem that standardizes survey design and facilitates reproducible data collection through a schema-centric framework, a library of reusable assessments, and computational tools for validation and conversion">Standardizing Survey Data Collection to Enhance Reproducibility: Development and Comparative Evaluation of the ReproSchema Ecosystem</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							ReproSchema
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.researchgate.net/publication/398475626_The_Reproducible_Research_Platform_establishes_a_unified_open_science_environment_bridging_data_and_software_lifecycles_across_disciplines_from_proposal_to_publication">ResearchGate <meta property="datePublished" content="2025-01-01">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="The Reproducible Research Platform establishes a unified open science environment bridging data and software lifecycles across disciplines, from proposal to publication. The open-source Reproducible Research Platform (RRP) unifies research data management with version-controlled, containerized computational environments in modular, shareable projects">The Reproducible Research Platform establishes a unified open science environment bridging data and software lifecycles across disciplines, from proposal to publication</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							RRP (Reproducible Research Platform)
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.biorxiv.org/content/10.1101/2025.10.11.681789v1.full">bioRxiv <meta property="datePublished" content="2025-10-11">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="BioFrame: Enhancing Reproducibility and Accessibility in Genomics through Web-Based Workflow Design. Addresses challenges in bioinformatics making results difficult to obtain while facing reproducibility, scalability, and accessibility of computational workflows">BioFrame: Enhancing Reproducibility and Accessibility in Genomics through Web-Based Workflow Design</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							BioFrame
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://www.techrxiv.org/users/944086/articles/1320613-evaluating-container-security-and-reproducibility-in-research-software-engineering">TechRxiv <meta property="datePublished" content="2025-08-01">2025</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Evaluating Container Security and Reproducibility in Research Software Engineering. Presents research on containerization technologies like Docker that have transformed research software deployment, though research containers often include outdated or unnecessary packages introducing security vulnerabilities. Introduces a novel reproducibility-aware DevSecOps framework">Evaluating Container Security and Reproducibility in Research Software Engineering</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Docker, DevSecOps
+						</p>
+					</td>
+				</tr>
 				<!--tools_placeholder-->
 	</tbody>
 </table>
