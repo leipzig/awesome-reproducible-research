@@ -4400,6 +4400,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [orderly](https://github.com/mrc-ide/orderly2) - R package that automates writing reproducible analyses
 - Linux-related (polyglot)
     - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
+    - [BILN](https://github.com/JimmyXtesla/BILN) - a lightweight, "black box" flight recorder for bioinformatics experiments
 
 ## Literature tools
 - [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles 
