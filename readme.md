@@ -2928,6 +2928,9 @@ https://doi.org/10.1186/s40168-018-0575-4
 						</p>
 					</td>
 				</tr>
+				<tr><td><p><a href="https://open.substack.com/pub/nerdychitchat/p/replicating-my-favorite-papers-caf?utm_campaign=post-expanded-share&utm_medium=web">Replicating My Favorite Papers: CAF subtyping in NSCLC<a></p></td>
+				<td><a href="https://www.nature.com/articles/s41416-024-02671-1">Cancer-associated fibroblasts expressing fibroblast activation protein and podoplanin in non-small cell lung cancer predict poor clinical outcome</a></td>
+				</tr>
 				</tbody>
 		</table>
 			
