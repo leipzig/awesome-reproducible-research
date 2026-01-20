@@ -2587,6 +2587,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1162/rest_a_01317"><span title="Factorial Designs, Model Selection, and (Incorrect) Inference in Randomized Experiments">Muralidharan, Romero, & Wüthrich <meta property="datePublished" content="2025-05-01">2025</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Economics
+						</p>
+					</td>
+					<td>
+						<p>
+							Refactor
+						</p>
+					</td>
+					<td>
+						<p>
+							27 papers
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1101/2025.05.08.652934">Baykal et al
 							<meta property="datePublished" content="2025-05-14">2025</a>
 						</p>
