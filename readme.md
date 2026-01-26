@@ -2953,6 +2953,9 @@ https://doi.org/10.1186/s40168-018-0575-4
 				<tr><td><p><a href="https://open.substack.com/pub/nerdychitchat/p/replicating-my-favorite-papers-caf?utm_campaign=post-expanded-share&utm_medium=web">Replicating My Favorite Papers: CAF subtyping in NSCLC<a></p></td>
 				<td><a href="https://www.nature.com/articles/s41416-024-02671-1">Cancer-associated fibroblasts expressing fibroblast activation protein and podoplanin in non-small cell lung cancer predict poor clinical outcome</a></td>
 				</tr>
+				<tr><td><p><a href="https://edisonscientific.com/articles/edison-analysis-agent-reproduces-key-findings-on-cag-repeat-expansions-in-huntingtons-disease">Edison Analysis Agent reproduces key findings on CAG-repeat expansions in Huntington's disease</a></p></td>
+				<td><a href="https://www.cell.com/cell/fulltext/S0092-8674(24)01379-5">Handsaker et al. Long somatic DNA-repeat expansion drives neurodegeneration in Huntington's disease. Cell 2025</a></td>
+				</tr>
 				</tbody>
 		</table>
 			
