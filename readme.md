@@ -4439,7 +4439,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 - [DataLad](https://www.datalad.org/) - Git-based versioning for data and provenance
 - [Overture](https://www.overture.bio/) - Portal, query interface, visualization and schema framework that powers ICGC, KFDC, GDC
 - [Fairly Toolset](https://fairly.readthedocs.io) - Tools for preparing, publishing and downloading datasets from research data repositories directly into computing environments. It provides integration with [Zenodo](https://fairly.readthedocs.io) and [Figshare](https://figshare.com/).
-
+- [Falsify / PRML](https://github.com/studio-11-co/falsify) - Pre-Registered ML Manifest specification (CC BY 4.0). SHA-256 commits an evaluation claim — metric, comparator, threshold, dataset hash, seed — before the experiment runs; forward-only `prior_hash` chain prevents silent post-hoc edits. Four reference implementations (Python, JS, Go, Rust) reproduce 20 conformance vectors byte-for-byte. DOI: 10.5281/zenodo.20177839.
 ## Books
 - [Reproducible Research with R and R Studio 2013](https://g.co/kgs/RxcFNm)
 - [Implementing Reproducible Research 2014](https://osf.io/s9tya/) - Describes projects: Sumatra, Vistrails, CDE, SOLE, JUMBO, CML, knitr. Content available on OSF.
