@@ -2877,6 +2877,52 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1038/s41586-026-10251-x">Brodeur et al
+							<meta property="datePublished" content="2026-04-01">2026</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Reproducibility and robustness of economics and political science research">Economics & political science</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction & robustness
+						</p>
+					</td>
+					<td>
+						<p>
+							110 articles
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.1038/s41586-026-10203-5">Miske et al
+							<meta property="datePublished" content="2026-04-01">2026</a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="Investigating the reproducibility of the social and behavioural sciences">Social & behavioural sciences</span>
+						</p>
+					</td>
+					<td>
+						<p>
+							Reproduction
+						</p>
+					</td>
+					<td>
+						<p>
+							143 papers
+						</p>
+					</td>
+				</tr>
 				<!--study_placeholder-->
 			</tbody>
 		</table>
