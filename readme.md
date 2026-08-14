@@ -22,7 +22,7 @@
 	- [Exemplar Portals](#exemplar-portals)
 	- [Runnable Papers](#runnable-papers)
 		- [Haibe-Kains lab](#haibe-kains-lab)
-		- [Patcher lab](#patcher-lab)
+		- [Pachter lab](#pachter-lab)
 		- [Siepel lab](#siepel-lab)
 	- [Journals](#journals)
 	- [Ontologies](#ontologies)
@@ -4804,7 +4804,7 @@ Experimental papers that have associated notebooks
   </tbody>
 </table>
 
-### Patcher lab
+### Pachter lab
 <table>
                                 <tr>
                                                                 <th>
@@ -4816,7 +4816,7 @@ Experimental papers that have associated notebooks
                                 </tr>
                                 <tr>
                                                                 <td>
-                                                                                                <a href="https://www.nature.com/articles/nmeth.4324">Pimental et al 2017. Differential analysis of RNA-seq incorporating quantification uncertainty</a>
+                                                                                                <a href="https://www.nature.com/articles/nmeth.4324">Pimentel et al 2017. Differential analysis of RNA-seq incorporating quantification uncertainty</a>
                                                                 </td>
                                                                 <td>
                                                                                                 <a href="https://github.com/pachterlab/sleuth_paper_analysis">sleuth_paper_analysis</a>
