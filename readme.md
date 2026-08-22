@@ -4546,6 +4546,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 - Linux-related (polyglot)
     - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
     - [BILN](https://github.com/JimmyXtesla/BILN) - a lightweight, "black box" flight recorder for bioinformatics experiments
+    - [server-spy](https://github.com/lennart-rth/server-spy) - terminal tool that measures shared-server congestion (CPU/memory/I/O pressure, scheduler wait) and attributes how much each experiment run was slowed down by it, for reproducible results on shared infrastructure
 
 ## Literature tools
 - [CiteMe](https://citeme.app) - free tool that flags fabricated or hallucinated references by verifying whether each cited work actually exists across 11+ scholarly databases; also generates and formats citations in 40+ styles, no sign-up
