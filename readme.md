@@ -4552,6 +4552,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 ## Literature tools
 - [CiteMe](https://citeme.app) - free tool that flags fabricated or hallucinated references by verifying whether each cited work actually exists across 11+ scholarly databases; also generates and formats citations in 40+ styles, no sign-up
 - [CiteVahti](https://github.com/heidihelena/citevahti) - local-first tool that checks whether each manuscript claim is supported by its cited source, with Zotero integration and blinded human-first rating records
+- [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) - MCP server that grounds AI coding agents in full-text peer-reviewed papers, returning a verbatim supporting quote for every claim it verifies, so a generated citation can be checked against its source instead of trusted
 - [Scite](https://scite.ai/) - Citation statement AI for discovering and evaluating scientific articles 
 - [SciScore](https://www.sciscore.com/) - SciScore methods sections for a variety of rigor criteria and analyzes sentences that contain research resources (antibodies, cell lines, plasmids and software tools) and determines how uniquely identifiable that resource is based off of the provided metadata.
 
