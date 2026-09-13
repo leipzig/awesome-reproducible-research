@@ -4541,6 +4541,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [repo](https://github.com/franapoli/repo) - provenance framework package
     - [orderly](https://github.com/mrc-ide/orderly2) - R package that automates writing reproducible analyses
 - Python
+    - [Repro Lens](https://github.com/00200200/repro-lens) - pre-commit checks for missing seed arguments in Python ML code, with experiment replay that compares metrics and files and retains input hashes and logs
     - [auditlite](https://github.com/heidihelena/auditlite) - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
     - [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
     - [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
