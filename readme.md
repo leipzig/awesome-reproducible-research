@@ -4576,6 +4576,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 ## Databases
 <!-- broken link - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.-->
 - [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
+- [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly measurement series of open-source AI systems built to stay checkable after publication: each record carries its methodology version and snapshot id, each snapshot pins its input list by hash with raw provenance published, corrections are added as new versions rather than edits, and the whole archive folds into a weekly timestamped Merkle root that can be recomputed with a published script. CC0, DOI 10.5281/zenodo.21076011
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
