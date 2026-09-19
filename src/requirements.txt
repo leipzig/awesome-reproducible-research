@@ -17,6 +17,6 @@ pyzenodo3==1.0.2
 requests==2.33.0
 sgmllib3k==1.0.0
 six==1.16.0
-soupsieve==2.8.4
+soupsieve==2.9
 tzdata==2024.1
 urllib3==2.7.0
