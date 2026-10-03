@@ -4869,6 +4869,7 @@ Experimental papers that have associated notebooks
 - [BioPortal](https://bioportal.bioontology.org/) - 660 biomedical ontologies 
 
 ## Minimal Standards
+- [Open Forecast Receipt](https://github.com/TheFutureEdge/open-forecast-receipt) - MIT-licensed JSON Schema and deterministic verification toolkit for portable, tamper-evident forecast records; preserves published forecasts for later inspection and comparison without treating integrity proofs as evidence of predictive accuracy.
 - [STORMS](https://www.stormsmicrobiome.org/) - Strengthening The Organization and Reporting of Microbiome Studies (STORMS) is a checklist for reporting on human microbiome studies. [Paper](https://doi.org/10.1038/s41591-021-01552-x)
 
 ## Organizations
