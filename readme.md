@@ -4541,6 +4541,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [repo](https://github.com/franapoli/repo) - provenance framework package
     - [orderly](https://github.com/mrc-ide/orderly2) - R package that automates writing reproducible analyses
 - Python
+    - [debt-verify](https://github.com/ZhangYangyi03/debt-verify) - a decision-procedure repo where the number of decisions the data actually supports is reported alongside the coverage that justifies it: clauses are evaluated over published revision intervals rather than point estimates, split-conformal bands are calibrated on the revision record itself (n=37, leave-one-out coverage 0.946 at nominal 0.90), and a SHA-256 manifest over data and code means editing one input is caught. The point-value reading is decisive on 84 of 84 evaluable cells; requiring the answer to survive the band leaves 63 unsupported
     - [auditlite](https://github.com/heidihelena/auditlite) - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
     - [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
     - [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
