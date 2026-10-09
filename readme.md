@@ -4543,6 +4543,10 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 - Python
     - [auditlite](https://github.com/heidihelena/auditlite) - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
     - [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
+    - [Backtest Integrity Guard](https://github.com/suguobin2021/backtest-integrity-guard) - audits OHLCV integrity and causal trade timing for reproducible quantitative backtests
+    - [Causal Backtest Harness](https://github.com/suguobin2021/causal-backtest-harness) - Python primitives for causal signal-to-execution backtests
+    - [Canonical Ledger Schema](https://github.com/suguobin2021/canonical-ledger-schema) - validation for reproducible trade ledgers
+    - [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) - diagnostics for backtest stability across time blocks, costs, and drawdowns
     - [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
 - Linux-related (polyglot)
     - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
