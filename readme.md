@@ -4548,6 +4548,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [Canonical Ledger Schema](https://github.com/suguobin2021/canonical-ledger-schema) - validation for reproducible trade ledgers
     - [Strategy Stability Report](https://github.com/suguobin2021/strategy-stability-report) - diagnostics for backtest stability across time blocks, costs, and drawdowns
     - [PIT Audit Registry](https://github.com/MaxWellApexLab/pit-audit-registry) - reproducible screens of public finance datasets for incomplete-cross-section leakage; every entry ships the command that regenerates its numbers
+    - [closure_drift](https://github.com/luizfnsilva/closure_drift) - Checks that each version label in a git repo maps to exactly one code state across its tags, so a cited version (archived on Zenodo with a DOI) is unambiguous
 - Linux-related (polyglot)
     - [Reproducible Builds](https://reproducible-builds.org/) - a set of software development practices that create an independently-verifiable path from source to binary code
     - [BILN](https://github.com/JimmyXtesla/BILN) - a lightweight, "black box" flight recorder for bioinformatics experiments
