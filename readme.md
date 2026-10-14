@@ -4584,6 +4584,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 <!-- broken link - [ReplicationWiki](http://replication.uni-goettingen.de/wiki/index.php) - Database for empirical studies with information about methods, data and software used, availability of replication material and whether replications, corrections or retractions are known. Mostly focused on social sciences.-->
 - [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
 - [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly measurement series built to stay checkable: each record has a versioned methodology and snapshot id, inputs are hash-pinned with provenance, corrections append rather than edit, and the archive folds into a weekly Merkle root anyone can recompute from a published script.
+- [Extremal Values Registry](https://github.com/extremal-values-registry/extremal-values-registry) - Sourced, dated best-known values for 322 extremal problems, plus an audit finding 69 of 268 AI-math benchmark targets stale or malformed. Benchmarks can cite an entry id instead of a hard-coded number.
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
