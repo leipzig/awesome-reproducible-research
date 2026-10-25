@@ -4541,6 +4541,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
     - [repo](https://github.com/franapoli/repo) - provenance framework package
     - [orderly](https://github.com/mrc-ide/orderly2) - R package that automates writing reproducible analyses
 - Python
+    - [mojolearn](https://github.com/mojolearn/mojolearn) - GPU machine learning implemented in Mojo with Python bindings for reproducible training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs. Includes a verifier that checks results against recorded reference hashes.
     - [auditlite](https://github.com/heidihelena/auditlite) - lightweight audit trail for research projects: records runs, checks for stale outputs, and flags claims downstream of changed sources via multi-hop change propagation (Python and R)
     - [Research Repo Doctor](https://github.com/Tom409114/research-repo-doctor) - deterministic reproducibility audit and auto-fix for research code, with a verifiable plan for coding agents
     - [Backtest Integrity Guard](https://github.com/suguobin2021/backtest-integrity-guard) - audits OHLCV integrity and causal trade timing for reproducible quantitative backtests
