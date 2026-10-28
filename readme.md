@@ -4872,6 +4872,7 @@ Experimental papers that have associated notebooks
 ## Journals
 - [ReScience](http://rescience.github.io/) - Journal dedicated to insilico reproductions and tests of robustness, lives on Github.
 - [eLife](https://elifesciences.org/for-the-press/eb096af1/elife-launches-executable-research-articles-for-publishing-computationally-reproducible-results) - Executable Research Articles (ERA) inline executable blocks
+- [Silicon Science · Computer Science](https://github.com/argszero/silicon-science-cs) - GitHub-native peer-reviewed journal for empirical and methodological computer science where acceptance requires the editor to run the author's reproduction from the committed package, and every published number has to trace to output an artefact produced. (23 papers published)
 
 ## Ontologies
 - [FAIRsharing](https://fairsharing.org) - standards, databases, and policies
