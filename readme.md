@@ -3995,6 +3995,28 @@ seek to follow code-sharing best practices but are unsure where to start.">A how
 						</p>
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<p>
+							<a href="https://doi.org/10.20944/preprints202604.1414.v1"><span title="The One-Person Laboratory Should Be a First-Class Unit of Evaluation in Dry-Lab AI Research">He et al <meta property="datePublished" content="2026-04-20">2026</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							<span title="&lt;jats:p&gt;This position paper argues that in software-defined dry-lab AI research, the one-person laboratory (OPL) is the relevant minimum accountable unit under compressed coordination and should be treated as a first-class unit of evaluation wherever bounded verification and public contestability hold. We develop three propositions. P1 (descriptive): public research-agent systems and laboratory-shaped benchmarks suggest that the minimum efficient research unit is moving downward in parts of AI research. P2 (causal, conditional): the relevant gains are narrower than common ``AI scientist&#x27;&#x27; rhetoric implies---not general scientific superiority, but lower iteration latency per admitted claim, stronger provenance, higher replayability, clearer responsibility, and better retention of negative branches when abstention and disclosure are enforced. P3 (normative, conditional): the community should therefore evaluate and support OPLs as claim-producing laboratories rather than only models or PDFs, while simultaneously building public execution interfaces, trace-linked claim standards, benchmark sandboxes, and access institutions. Our empirical anchor is a purposive structured interpretive read of representative public systems and benchmarks; it is not a leaderboard and does not estimate prevalence, causal impact, or superiority. We do not claim that OPLs replace strong teams, justify broad scientific claims from a single run, or cleanly extend to wet-lab, clinical, or human-subject domains. The paper&#x27;s contribution is a falsifiable governance position: if laboratory-shaped systems fail to cohere, if OPL-style runs do not improve admitted-claim speed or auditable process quality, or if access remains closed, the thesis should be weakened or reversed.&lt;/jats:p&gt;">
+						</p>
+					</td>
+					<td>
+						<p>
+							Artificial Intelligence
+						</p>
+					</td>
+					<td>
+						<p>
+							Best practices
+						</p>
+					</td>
+				</tr>
 				<!--theory_placeholder-->
 	</tbody>
 </table>
