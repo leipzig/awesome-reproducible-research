@@ -509,7 +509,7 @@ The term "case studies" is used here in a general sense to describe any study of
 					<td>
 						<p>
 						        Biological sciences
-						<p>
+						</p>
 					</td>
 					<td>
 						<p>
@@ -900,7 +900,7 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://amid.fish/reproducing-deep-rl">Rahtz <meta property="datePublished" content="2018-04-06">2018<a>
+							<a href="http://amid.fish/reproducing-deep-rl">Rahtz <meta property="datePublished" content="2018-04-06">2018</a>
 								</p>
 								</td>
 							<td>
@@ -912,12 +912,12 @@ The term "case studies" is used here in a general sense to describe any study of
 								<p>
 									Reproduction, case narrative
 								</p>
+							</td>
 							<td>
 								<p>
 									1 paper
 								</p>
 							</td>
-						</p>
 				</tr>
 				<tr>
 					<td>
@@ -3064,7 +3064,7 @@ https://doi.org/10.1186/s40168-018-0575-4
 						</p>
 					</td>
 				</tr>
-				<tr><td><p><a href="https://open.substack.com/pub/nerdychitchat/p/replicating-my-favorite-papers-caf?utm_campaign=post-expanded-share&utm_medium=web">Replicating My Favorite Papers: CAF subtyping in NSCLC<a></p></td>
+				<tr><td><p><a href="https://open.substack.com/pub/nerdychitchat/p/replicating-my-favorite-papers-caf?utm_campaign=post-expanded-share&utm_medium=web">Replicating My Favorite Papers: CAF subtyping in NSCLC</a></p></td>
 				<td><a href="https://www.nature.com/articles/s41416-024-02671-1">Cancer-associated fibroblasts expressing fibroblast activation protein and podoplanin in non-small cell lung cancer predict poor clinical outcome</a></td>
 				</tr>
 				<tr><td><p><a href="https://edisonscientific.com/articles/edison-analysis-agent-reproduces-key-findings-on-cag-repeat-expansions-in-huntingtons-disease">Edison Analysis Agent reproduces key findings on CAG-repeat expansions in Huntington's disease</a></p></td>
@@ -3234,7 +3234,7 @@ https://doi.org/10.1186/s40168-018-0575-4
 				</tr>
 				<tr>
 					<td>
-						<p><a href="https://doi.org/10.1038/s41567-019-0780-5">Milton & Possolo <meta property="datePublished" content="2019-06-09">2019</a>
+						<p><a href="https://doi.org/10.1038/s41567-019-0780-5">Milton & Possolo <meta property="datePublished" content="2019-06-09">2019</a></p>
 	</td><td>
 						<p><span title="Lack of reproducibility is not necessarily bad news; it may herald new discoveries and signal scientifc progress">Trustworthy data underpin reproducible research</span></p>
 	</td>
@@ -4408,6 +4408,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 				<p>
 					<span title="Even machine learning experiments that are fully conducted on computers are not necessarily reproducible. An increasing number of open source and commercial, closed source machine learning platforms are being developed that help address this problem. However, there is no standard for assessing and comparing which features are required to fully support repro-ducibility. We propose a quantitative method that alleviates this problem. Based on the proposed method we assess and compare the current state of the art machine learning platforms for how well they support making empirical results reproducible. Our results show that BEAT and Floydhub have the best support for reproducibility with Codalab and Kaggle as close contenders. The most commonly used machine learning platforms provided by the big tech companies have poor support for reproducibility.">Out-of-the-box Reproducibility: A Survey of Machine Learning Platforms</span>
 				</p>
+			</td>
 			<td>
 				<p>
 					MLflow, Polyaxon, StudioML, Kubeflow, CometML, Sagemaker, GCPML, AzureML, Floydhub, BEAT, Codalab, Kaggle
@@ -4432,7 +4433,6 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 						</p>
 					</td>
 				</tr>
-                                    		</tr>
                                     				<tr>
                                     					<td>
                                     						<p>
@@ -4697,7 +4697,7 @@ Experimental papers that have associated notebooks
     </tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/bib/bbab294">Sharifi-Noghabi et al Drug sensitivity prediction from cell line-based pharmacogenomics data: guidelines for developing machine learning models
+							<a href="https://doi.org/10.1093/bib/bbab294">Sharifi-Noghabi et al Drug sensitivity prediction from cell line-based pharmacogenomics data: guidelines for developing machine learning models</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/7358839">codeocean.com/capsule/7358839</a>
@@ -4705,7 +4705,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1016/j.phro.2021.04.001">Arrowsmith et al Automated detection of dental artifacts for large-scale radiomic analysis in radiation oncology
+							<a href="https://doi.org/10.1016/j.phro.2021.04.001">Arrowsmith et al Automated detection of dental artifacts for large-scale radiomic analysis in radiation oncology</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/2097894">codeocean.com/capsule/2097894</a>
@@ -4713,7 +4713,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41467-021-21233-0">Mer et al Biological and therapeutic implications of a unique subtype of NPM1 mutated AML
+							<a href="https://doi.org/10.1038/s41467-021-21233-0">Mer et al Biological and therapeutic implications of a unique subtype of NPM1 mutated AML</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/8791617">codeocean.com/capsule/8791617</a>
@@ -4721,7 +4721,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1101/2020.09.08.287573">Ortmann et al KuLGaP: A Selective Measure for Assessing Therapy Response in Patient-Derived Xenografts
+							<a href="https://doi.org/10.1101/2020.09.08.287573">Ortmann et al KuLGaP: A Selective Measure for Assessing Therapy Response in Patient-Derived Xenografts</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/2817911">codeocean.com/capsule/2817911</a>
@@ -4729,7 +4729,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41467-020-20830-9">Madani Tonekaboni et al Large organized chromatin lysine domains help distinguish primitive from differentiated cell populations
+							<a href="https://doi.org/10.1038/s41467-020-20830-9">Madani Tonekaboni et al Large organized chromatin lysine domains help distinguish primitive from differentiated cell populations</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6911149">codeocean.com/capsule/6911149</a>
@@ -4737,7 +4737,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/nar/gkaa421">Seo et al SYNERGxDB: an integrative pharmacogenomic portal to identify synergistic drug combinations for precision oncology
+							<a href="https://doi.org/10.1093/nar/gkaa421">Seo et al SYNERGxDB: an integrative pharmacogenomic portal to identify synergistic drug combinations for precision oncology</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6322807">codeocean.com/capsule/6322807</a>
@@ -4745,7 +4745,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41597-019-0174-7">Mammoliti et al Creating reproducible pharmacogenomic analysis pipelines
+							<a href="https://doi.org/10.1038/s41597-019-0174-7">Mammoliti et al Creating reproducible pharmacogenomic analysis pipelines</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6718332">codeocean.com/capsule/6718332</a>
@@ -4753,7 +4753,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0179">Manem et al Modeling Cellular Response in Large-Scale Radiogenomic Databases to Advance Precision Radiotherapy
+							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0179">Manem et al Modeling Cellular Response in Large-Scale Radiogenomic Databases to Advance Precision Radiotherapy</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/1166221">codeocean.com/capsule/1166221</a>
@@ -4761,7 +4761,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1101/222562">Tonekaboni et al CREAM: Clustering of genomic REgions Analysis Method
+							<a href="https://doi.org/10.1101/222562">Tonekaboni et al CREAM: Clustering of genomic REgions Analysis Method</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/0002901</a>
@@ -4769,7 +4769,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/bioinformatics/btz485">Madani Tonekaboni et al SIGN: similarity identification in gene expression
+							<a href="https://doi.org/10.1093/bioinformatics/btz485">Madani Tonekaboni et al SIGN: similarity identification in gene expression</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0544852">codeocean.com/capsule/0544852</a>
@@ -4777,7 +4777,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0349">Mer et al Integrative Pharmacogenomics Analysis of Patient-Derived Xenografts
+							<a href="https://doi.org/10.1158/0008-5472.CAN-19-0349">Mer et al Integrative Pharmacogenomics Analysis of Patient-Derived Xenografts</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0566399">codeocean.com/capsule/0566399</a>
@@ -4785,7 +4785,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1007/978-981-32-9816-3_19">Sandhu et al Applications of Computational Systems Biology in Cancer Signaling Pathways
+							<a href="https://doi.org/10.1007/978-981-32-9816-3_19">Sandhu et al Applications of Computational Systems Biology in Cancer Signaling Pathways</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0795540">codeocean.com/capsule/0795540</a>
@@ -4793,7 +4793,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1200/CCI.18.00102">Sandhu et al Meta-Analysis of 1,200 Transcriptomic Profiles Identifies a Prognostic Model for Pancreatic Ductal Adenocarcinoma
+							<a href="https://doi.org/10.1200/CCI.18.00102">Sandhu et al Meta-Analysis of 1,200 Transcriptomic Profiles Identifies a Prognostic Model for Pancreatic Ductal Adenocarcinoma</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/7402260">codeocean.com/capsule/7402260</a>
@@ -4801,7 +4801,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1101/052910">Gendoo et al MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature
+							<a href="https://doi.org/10.1101/052910">Gendoo et al MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6438633">codeocean.com/capsule/6438633</a>
@@ -4809,7 +4809,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1093/jamia/ocx062">Yao et al Tissue specificity of in vitro drug sensitivity
+							<a href="https://doi.org/10.1093/jamia/ocx062">Yao et al Tissue specificity of in vitro drug sensitivity</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/5502756">codeocean.com/capsule/5502756</a>
@@ -4817,7 +4817,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1038/s41467-017-01153-8">Safikhani et al Gene isoforms as expression-based biomarkers predictive of drug response in vitro
+							<a href="https://doi.org/10.1038/s41467-017-01153-8">Safikhani et al Gene isoforms as expression-based biomarkers predictive of drug response in vitro</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/0002901">codeocean.com/capsule/0002901</a>
@@ -4825,7 +4825,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.1158/0008-5472.CAN-17-0096">El-Hachem et al Integrative Cancer Pharmacogenomics to Infer Large-Scale Drug Taxonomy
+							<a href="https://doi.org/10.1158/0008-5472.CAN-17-0096">El-Hachem et al Integrative Cancer Pharmacogenomics to Infer Large-Scale Drug Taxonomy</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/4252248">codeocean.com/capsule/4252248</a>
@@ -4833,7 +4833,7 @@ Experimental papers that have associated notebooks
     				</tr>
     				<tr>
 					<td>
-							<a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani et al Revisiting inconsistency in large pharmacogenomic studies
+							<a href="https://doi.org/10.12688/f1000research.9611.3">Safikhani et al Revisiting inconsistency in large pharmacogenomic studies</a>
 					</td>
 					<td>
 							<a href="https://codeocean.com/capsule/6276064">codeocean.com/capsule/6276064</a>
