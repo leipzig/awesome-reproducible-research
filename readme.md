@@ -724,28 +724,6 @@ The term "case studies" is used here in a general sense to describe any study of
 				<tr>
 					<td>
 						<p>
-							<a href="http://doi.org/10.1371/journal.pone.0213013">Madduri et al <meta property="datePublished" content="2019-04-09">2018</a>
-						</p>
-					</td>
-					<td>
-						<p>
-							Genomics
-						</p>
-					</td>
-					<td>
-						<p>
-							Case narrative
-						</p>
-					</td>
-					<td>
-						<p>
-							1 study
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p>
 							<a href="https://doi.org/10.1038/s41562-018-0399-z">Camerer et al <meta property="datePublished" content="2018-08-27">2018</a>
 						</p>
 					</td>
@@ -1169,7 +1147,7 @@ The term "case studies" is used here in a general sense to describe any study of
 								<tr>
 					<td>
 						<p>
-							<span title="Creating reproducible pharmacogenomic analysis pipelines"><a href="10.1038/s41597-019-0174-7">Mammoliti
+							<span title="Creating reproducible pharmacogenomic analysis pipelines"><a href="https://doi.org/10.1038/s41597-019-0174-7">Mammoliti
 								et al <meta property="datePublished" content="2019-09-03">2019</a></span>
 						</p>
 					</td>
@@ -2015,6 +1993,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.1371/journal.pbio.3001107"><span title="Assessment of transparency indicators across the biomedical literature: How open is open?">Serghiou et al <meta property="datePublished" content="2021-03-01">2021</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Biomedical sciences
+						</p>
+					</td>
+					<td>
+						<p>
+							Census
+						</p>
+					</td>
+					<td>
+						<p>
+							2.75 million articles
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.31222/osf.io/cd5j9">Breznau et al
 							<meta property="datePublished" content="2021-03-24">2021</a>
 						</p>
@@ -2246,6 +2246,28 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
+							<a href="https://doi.org/10.7554/eLife.78518"><span title="Epidemiological characteristics and prevalence rates of research reproducibility across disciplines: A scoping review of articles published in 2018-2019">Cobey et al <meta property="datePublished" content="2023-06-21">2023</span></a>
+						</p>
+					</td>
+					<td>
+						<p>
+							Multidisciplinary
+						</p>
+					</td>
+					<td>
+						<p>
+							Scoping review
+						</p>
+					</td>
+					<td>
+						<p>
+							47 papers, 177 studies
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p>
 							<a href="https://doi.org/10.1038/s41586-023-06246-4"><span title="Leakage and the reproducibility crisis in machine-learning-based science">Kapoor & Narayanan <meta property="datePublished" content="2023-07-19">2023</span></a>
 						</p>
 					</td>
@@ -2450,7 +2472,7 @@ Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recomme
 				<tr>
 					<td>
 						<p>
-							<a href="https://doi.org/http://dx.doi.org/10.2139/ssrn.4790780">Brodeur et al
+							<a href="https://doi.org/10.2139/ssrn.4790780">Brodeur et al
 							<meta property="datePublished" content="2024-04-11">2024</a>
 						</p>
 					</td>
