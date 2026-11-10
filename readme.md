@@ -3070,6 +3070,9 @@ https://doi.org/10.1186/s40168-018-0575-4
 				<tr><td><p><a href="https://edisonscientific.com/articles/edison-analysis-agent-reproduces-key-findings-on-cag-repeat-expansions-in-huntingtons-disease">Edison Analysis Agent reproduces key findings on CAG-repeat expansions in Huntington's disease</a></p></td>
 				<td><a href="https://www.cell.com/cell/fulltext/S0092-8674(24)01379-5">Handsaker et al. Long somatic DNA-repeat expansion drives neurodegeneration in Huntington's disease. Cell 2025</a></td>
 				</tr>
+				<tr><td><p><a href="https://babieslearninglanguage.blogspot.com/2026/11/an-ai-audit-of-my-works-computational.html">Frank, M. "An AI audit of my work's computational reproducibility" (2026)</a></p></td>
+				<td>79 journal papers (59 empirical) by Michael Frank and colleagues from the past five years, audited with Claude Code; 31 of 58 papers with code and data were fully rerunnable, and 40 had at least one number not reproducible within 10%</td>
+				</tr>
 				</tbody>
 		</table>
 			
