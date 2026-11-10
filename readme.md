@@ -4614,6 +4614,7 @@ analysis, and metabarcoding studies.">Advancing Genomic and Transcriptomic Knowl
 - [ReplicationDatabase](https://metaanalyses.shinyapps.io/replicationdatabase/) - 1211 replication findings on 333 psychology studies
 - [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly measurement series built to stay checkable: each record has a versioned methodology and snapshot id, inputs are hash-pinned with provenance, corrections append rather than edit, and the archive folds into a weekly Merkle root anyone can recompute from a published script.
 - [Extremal Values Registry](https://github.com/extremal-values-registry/extremal-values-registry) - Sourced, dated best-known values for 322 extremal problems, plus an audit finding 69 of 268 AI-math benchmark targets stale or malformed. Benchmarks can cite an entry id instead of a hard-coded number.
+- [NeuPortal Forecast Ledger](https://github.com/neuportalai-ui/experiment-proofs) - Public record of 7,426 probability forecasts, each file timestamped into Bitcoin with OpenTimestamps; a script re-checks every file's hash against its proof, and calls stamped after their outcome are flagged rather than removed. Data: DOI 10.5281/zenodo.24051884.
 
 ## Data Repositories
 All these repositories assign Digital Object Identifiers (DOIs) to data
