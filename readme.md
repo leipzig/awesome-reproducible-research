@@ -4629,6 +4629,7 @@ Places to find papers with code or portals to host them
 - [Papers With Code](https://paperswithcode.com/) - ML papers with code
 - [NARPS](https://github.com/poldrack/narps) - Code related to Neuroimaging Analysis Replication and Prediction Study
 - [Codeocean](https://codeocean.com/explore) - A gallery of cloud-based containers with reproducible analyses
+- [Scigantic](https://scigantic.com/) - Catalog of 8,000+ public scientific datasets, 300+ of them with a starter notebook that is published with the outputs it printed when it ran against the dataset's files, read in place from the public source. Anyone can read the outputs without an account, and the same notebook reopens in a hosted Jupyter session on the same read-only mount to be rerun and compared. Freemium
 
 ## Runnable Papers
 Experimental papers that have associated notebooks
