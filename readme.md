@@ -4906,6 +4906,7 @@ Experimental papers that have associated notebooks
 ## Minimal Standards
 - [Open Forecast Receipt](https://github.com/TheFutureEdge/open-forecast-receipt) - MIT-licensed JSON Schema and deterministic verification toolkit for portable, tamper-evident forecast records; preserves published forecasts for later inspection and comparison without treating integrity proofs as evidence of predictive accuracy.
 - [STORMS](https://www.stormsmicrobiome.org/) - Strengthening The Organization and Reporting of Microbiome Studies (STORMS) is a checklist for reporting on human microbiome studies. [Paper](https://doi.org/10.1038/s41591-021-01552-x)
+- [DataCheck Research Source Data Pre-Submission Checklist](https://github.com/datacheck-cc/datacheck-research-data-checklist) - MIT-licensed five-step pre-submission audit checklist, human review-log CSV template, synthetic cross-sheet duplicate fixtures, and stdlib Python sanity script for tracing numeric table reuse before journal submission. [DOI](https://doi.org/10.5281/zenodo.24524868)
 
 ## Organizations
 - [ResearchObject.org](http://www.researchobject.org/) - RO specifications and publications
